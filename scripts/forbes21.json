@@ -1,0 +1,202 @@
+[
+  {
+    "description": "This self-described \"crypto bank\" is among the oldest startups in bitcoin. Former Goldman Sachs vice president Barhydt, 53, founded the company in 2014 to help immigrant employees send money back home to their families. Today, Abra offers a souped-up bitcoin wallet that lends out both crypto and dollars held by its depositors at rates as high as 12%. The depositor receives 85% of the interest, while Abra takes the rest. The Mountain View, California-based firm also makes money on the spread between the spot price and the trade price for crypto transactions. This is such a new area that it’s a regulatory grey zone: In 2020, the SEC and CFTC fined the firm $300,000 for selling security-based swaps without proper registration. The fast-growing firm, which is profitable, is on track to increase revenue sevenfold this year, to roughly $75 million.",
+    "equity": "$86 million",
+    "founders": "Bill Barhydt (CEO)",
+    "investors": "Arbor Ventures, First Round Capital, HCM Capital, Ignia",
+    "name": "Abra",
+    "revenue": "$10 million"
+  },
+  {
+    "description": "Alchemy makes it easier to read and write information onto blockchains, such as Ethereum and Flow. The service starts free for smaller developers, but larger customers pay a monthly fee. The San Francisco-based firm is on pace to increase revenue tenfold this year, to an estimated $20 million, as it helps clients like PwC, Unicef and OpenSeat conduct more than $30 billion in volume annually. Viswanathan, 34, and Lau, 32, previously cofounded Down to Lunch, a popular social hangout iPhone app.",
+    "equity": "$96 million",
+    "founders": "Joseph Lau, Nikil Viswanathan (CEO)",
+    "investors": "Addition, Coatue, Pantera",
+    "name": "Alchemy",
+    "revenue": "$2 million"
+  },
+  {
+    "description": "Serial entrepreneur Toha, 42, left identity protection company Pentius and brought along its CTO, Zedalis, 36, to launch Array in January 2020. The New York City-based company works behind the scenes with fintechs and other financial institutions to help their developers build out consumer-facing financial tools. These include apps that reveal a client’s credit score, show their payment history or offer identity protection. Array says that it can complete projects for its financial customers including SoFi, Brigit and One in weeks that would previously have taken 18 months. \"Though our clients are businesses, everything we do is to help consumers have better financial health,\" Toha says.",
+    "equity": "$67 million",
+    "founders": "Martin Toha (CEO), Phillip Zedalis",
+    "investors": "Battery, General Catalyst",
+    "name": "Array",
+    "revenue": "$11 million"
+  },
+  {
+    "description": "Back in 2007, Adam Boyko, 43, a canine geneticist, and his brother Ryan, 37, who has a master’s degree in public health, set out to study the origins of domestic dogs and realized that the country’s nearly 50 million dog-owning households might also be curious about their pets’ backgrounds. Boston-based Embark Veterinary now sells DNA testing kits (priced at $129 to $199) that give customers insight into their pets’ genetics and potential future health issues. Embark has tested close to one million dogs since its 2015 founding, and, with the consent of owners, is using the data generated to conduct research into dog health. Its revenue is expected to double to $72 million this year. The company counts 23andMe’s billionaire cofounder Anne Wojcicki among its backers.",
+    "equity": "$95 million",
+    "founders": "Adam Boyko, Ryan Boyko (CEO), Matt Salzberg, Spencer Wells",
+    "investors": "F-Prime Capital, Founder Collective, Freestyle, Slow Ventures, SoftBank, Third Kind Venture Capital",
+    "name": "Embark Veterinary",
+    "revenue": "$36 million"
+  },
+  {
+    "description": "Nicholas, 28, worked as an engineer at Facebook, Palantir and Dropbox before starting Forethought with his former Palantir colleague, Ghoche, 27, in late 2018. Based in San Francisco, Forethought offers an AI tool that plugs into a company’s customer service software like Zendesk and ServiceNow for faster and more accurate resolutions. The AI gets smarter over time as it learns how past issues were resolved and what the common problems are. Its goal is to make customer service teams more efficient so they can focus on complex tickets rather than redundant queries. Tech giants Gusto, Lime, Instacart and Thumbtack are clients. \"AI will be the fourth industrial revolution,\" Nicholas says.",
+    "equity": "$27 million",
+    "founders": "Sami Ghoche, Deon Nicholas (CEO)",
+    "investors": "K9 Ventures, NEA",
+    "name": "Forethought",
+    "revenue": "$2 million"
+  },
+  {
+    "description": "\"My life was changed when I saw a therapist,\" says Adams, 30. A Stanford graduate with a master’s degree in engineering and a professional background in venture capital, Adams never expected to be the founder of a mental healthcare startup. His own experience dealing with depression in therapy, however, led him to launch New York City-based Headway in 2017 as a matching tool for patients and therapists. After working on it a year and a half, Adams realized the greater problem was that so many people simply couldn’t afford professional help. Many therapists (Headway claims 70%, based on its own 2018 survey) don’t take insurance. To up that number, Headway built software that handles billing and administrative support. Patients then have access to a free directory of therapists they can actually afford. The company says that three quarters of the therapists who signed on in New York City, its first market, did not previously take insurance. Headway makes its money by getting a cut of the insurer’s reimbursement. \"Therapists get to say yes to people they would typically have to say no to, patients are able to spend $20 instead of $200 for a session and insurance companies are actually saving money with more people seeing therapists,\" says Adams.",
+    "equity": ": $103 million",
+    "founders": "Andrew Adams (CEO), Kevin Chan, Dan Ross, Jake Sussman",
+    "investors": "Accel, Andreessen Horowitz, GV, Thrive Capital",
+    "name": "Headway",
+    "revenue": "$16 million"
+  },
+  {
+    "description": "Think of Hyperscience like a digital assembly line for forms, humming behind the scenes. Brodsky wants to not only automate his customers’ menial business processes, like reviewing mortgage applications or disability claims, but also continually improve and update them over time without human intervention. His startup, headquartered in New York with a technical office in Sofia, Bulgaria, now helps customers like TD Ameritrade, Fidelity and the state of California. \"There’s something very surprising about the fact that you could be a better bureaucrat . . . and that leads to lives saved,\" says Brodsky, who cofounded the business after attempting to automate away his own job running an engineer team at SoundCloud. \"That’s the maximum impact you could ever possibly hope to have.\"",
+    "equity": "$189 million",
+    "founders": "Peter Brodsky (CEO), Krasimir Marinov, Vladimir Tzankov",
+    "investors": "Bessemer Venture Partners, Felicis Ventures, FirstMark, Stripes, Tiger Global",
+    "name": "Hyperscience",
+    "revenue": "$16 million"
+  },
+  {
+    "description": "When Sanish Mondkar, former chief product officer at SAP, left his job in 2015, he traveled around the country with his two dogs, talking with people outside of Silicon Valley. The result: In 2016, he founded Legion Technologies, a workforce management software company that helps employers like Dollar General, SoulCycle and Philz Coffee (its first customer) oversee their hourly workers. \"There is no innovation targeted at these hourly workers,\" says Mondkar, 48. Redwood City, California-based Legion uses artificial intelligence and machine learning to help its customers forecast demand and optimize their labor costs, while taking into account employees’ preferences for when and how they work. \"Most employees quit these jobs because of schedule conflicts,\" he says. \"The goal for the algorithms is to prioritize both sides.\" With increased attention on workforce issues during the pandemic, Legion revenues are expected to more than double this year, to $11 million.",
+    "equity": "$85 million",
+    "founders": "Sanish Mondkar (CEO)",
+    "investors": "First Round Capital, Norwest Venture Partners, Stripes, XYZ",
+    "name": "Legion Technologies",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "Filip Victor, 30, arrived in the U.S. from Poland via the U.K. to go to school at the University of Pennsylvania. Almost immediately, he started thinking about how hard it was as an immigrant to access financial services, rent a car or book an Airbnb. In 2015, he founded Mati to solve the problem of online identity verification by aggregating dozens of data points. Today, the San Francisco-based startup focuses on customers in Mexico (its first market) and Latin America, where its customers include bitcoin exchange Binance and fintech Creditas. Next up: expansion to Indonesia, India and Africa. \"In the U.S., people like me are called ‘thin file,’ and while it’s not trivial, it is still a minority,\" Victor says. \"When you look at countries like Mexico, India and Nigeria, it is over 90%.\"",
+    "equity": "$86 million",
+    "founders": "Filip Victor (CEO)",
+    "investors": "Spero Ventures, Tribe Capital",
+    "name": "Mati",
+    "revenue": "$4 million"
+  },
+  {
+    "description": "By building websites more like mobile apps, where a developer may cherry-pick from a variety of integrations and APIs, they can be set up faster, safer and cheaper. That’s the basic idea behind Netlify, the San-Francisco based startup cofounded by high school buddies Biilmann, 45, and Bach, 43. Netlify’s technology lets developers configure the front end of a website and implement a variety of back-end APIs that already exist to build better sites at ten times the speed and significantly lower cost. Netlify’s customers include tech giants Twilio, Peloton and Shopify, as well as individuals building personal hobby sites. Biilmann, a Danish immigrant, says Netlify’s biggest challenge was getting Web developers to think differently. \"We had to convince the world that this architectural shift was something really valuable,\" he says. \"When we started, there was no nomenclature in decoupling web UI from back-end business logic. We had to build that concept.\"",
+    "equity": "$107 million",
+    "founders": "Christian Bach, Mathias Biilmann (CEO)",
+    "investors": "Andreessen Horowitz, Bloomberg Beta, EQT Ventures, Kleiner Perkins, Tank Hill Ventures",
+    "name": "Netlify",
+    "revenue": "$10 million"
+  },
+  {
+    "description": "Postscript helps more than 5,000 small businesses on Shopify manage their SMS text-messaging campaigns with shoppers to bolster engagement and sales. Adam Turner, 29, started the company with his older brother Colin and Beller, 30, with whom Adam previously worked at product discovery firm StackCommerce. Founded in 2018, the company took off that November after helping its customers push shoppers to their Black Friday sales. That success allowed the brothers and Beller to snag a spot at Y Combinator for 2019. \"SMS is",
+    "equity": "$50 million",
+    "founders": "Alex Beller, Adam Turner (CEO), Colin Turner",
+    "investors": "Accomplice, Greylock Partners, OpenView, Y Combinator",
+    "name": "Postscript",
+    "revenue": "$13 million"
+  },
+  {
+    "description": "While serving as the vice president of product management at business intelligence firm GoodData, Czech Republic-born Palan, 43, wondered why there was no software for product development that made customer needs—as opposed to engineering priorities—its focus. To launch San Francisco-based Productboard, he spoke with more than a thousand product developers and built 14 different versions of the new application. Productboard integrates with existing data sources like Zendesk and Jira, which allows product specialists to monitor customer feedback in a single space to make better decisions about what their users really want. More than 4,500 customers, including UIPath and Zoom, have signed on.",
+    "equity": "$137 million",
+    "founders": "Daniel Hejl, Hubert Palan (CEO)",
+    "investors": "Credo Ventures, Index Ventures, Kleiner Perkins, Sequoia Capital, Tiger Global",
+    "name": "Productboard",
+    "revenue": "$20 million"
+  },
+  {
+    "description": "Route aims to tackle the e-commerce problem of \"Where is my order?\" or \"wismo,\" as it’s known in the industry, by connecting merchants with their customers after online orders are placed. It also offers built-in shipping insurance. \"We allow the consumer to click a button and instantly reorder their stuff,\" says Walker. That saves customers the time and aggravation of calling customer service to track down orders that have gone astray and increases their loyalty to the brands that make it easy. The Lehi, Utah-based startup, which has signed up more than 10,000 merchants, collects about half its revenue from the service fees it charges for insurance and the rest from transaction fees that merchants pay each time a customer buys a product marketed through Route. The visual tracking itself is free. Walker, 41, started his first e-commerce business at 14, when he built a website that sold video games out of his bedroom; a few years later, its annual sales surpassed $10 million.",
+    "equity": "$91 million",
+    "founders": "Mike Moreno, Evan Walker (CEO)",
+    "investors": "Album VC, Craft Ventures",
+    "name": "Route",
+    "revenue": "$34 million"
+  },
+  {
+    "description": "Salt Security uses automation and big data to detect cybersecurity weak spots in APIs, a set of tools that let apps talk to one another. This allows the startup, founded in 2016, to provide insights and remove risks for customers that include Home Depot and City National Bank. Eliyahu, 28, started coding at age 9, at his home in Yavne, Israel, and became a freelance developer when he was 11. During his military service in the Israeli Defense Forces, starting at age 18, he worked closely with its elite Unit 8200 on cybersecurity. He founded Salt Security in Silicon Valley, but maintains offices in Israel. APIs are the backbone of digital transformation and innovation, Eliyahu says, but the rampant use of thousands of APIs to build software has complicated security issues. The result: The company expects revenue to reach $20 million this year.",
+    "equity": "$131 million",
+    "founders": "Roey Eliyahu (CEO), Michael Nicosia",
+    "investors": "Advent International, S Capital VC, Sequoia Capital, Tenaya Capital, Y Combinator",
+    "name": "Salt Security",
+    "revenue": "$10 million"
+  },
+  {
+    "description": "The brainchild of two first-generation Americans who wanted to create economic pathways for immigrants, Shef helps in-home cooks sell meals to customers who might otherwise order takeout. A year after meeting at the 2018 Forbes Under 30 Summit, Alvin Salehi, 31 (below right), founder of Code.gov, and Joey Grassia, 34, a serial entrepreneur, teamed up to start the marketplace in San Francisco. They immediately began lobbying to change state and local laws that prevent people from running food businesses from their homes. Thanks partly to those efforts, Shef now operates in eight cities, including San Francisco, New York and Austin, and has delivered more than a million meals prepared by immigrants, laid-off line cooks and others. It won’t divulge how many chefs it currently works with but says 16,000 are on a waiting list to join. \"It’s a very personal mission for both of us,\" Salehi says.",
+    "equity": "$29 million",
+    "founders": "Joey Grassia (co-CEO), Alvin Salehi (co-CEO)",
+    "investors": "Andreessen Horowitz, Craft Ventures, M13",
+    "name": "Shef",
+    "revenue": "$3 million"
+  },
+  {
+    "description": "When homeowners need to sell their properties quickly, especially if those homes aren’t in great shape, they can fall prey to lowball offers from flippers. San Francisco-based Sundae offers an alternative in 23 U.S. markets. Its marketplace charges potential investors a fee of 5% to 7% for the service, and gives sellers the benefit of multiple cash offers with no repairs, no showings and the ability to close in as little as ten days. Stech, 35, was previously a founding partner of LendingHome, which provides loans to real estate investors. Swain, 50, was that company’s CFO. Their three-year-old company has signed on more than 4,500 investors.",
+    "equity": "$136 million",
+    "founders": "Josh Stech (CEO), Andrew Swain",
+    "investors": "Fifth Wall, Founders Fund, General Global Capital, QED Investors, Susa Ventures",
+    "name": "Sundae",
+    "revenue": "$10 million"
+  },
+  {
+    "description": "After working at hedge fund Farallon and private equity firm Cerberus, Gardner, 31, grew frustrated at how investment was restricted to the ultrawealthy. \"As a diverse founder coming from a humble background, I wanted people like my friends and family to have access,\" he says. So he teamed up with fellow Wharton undergrad, Percoco, and Stanford grad Bernardy to found Titan in 2017. They struggled to raise money at first, but eventually got into tech accelerator Y Combinator on their third try in 2018. Via a mobile and desktop app, clients have direct access to its own money managers, hired from the ranks of hedge fund analysts and principals, for as low as $100 without restrictions on their net worth. The company has 30,000 clients and counting with $750 million in assets under management.",
+    "equity": "$75 million",
+    "founders": "Max Bernardy, Clayton Gardner (co-CEO), Joe Percoco (co-CEO)",
+    "investors": "Andreessen Horowitz, General Catalyst, Y Combinator",
+    "name": "Titan",
+    "revenue": "$3 million"
+  },
+  {
+    "description": "Cacioppo was working as a product manager on Dropbox’s collaborative document project, Paper, when she and her team ran afoul of the file-sharing company’s legal team: Their efforts were making Dropbox’s customer contracts noncompliant. Inspired, she cofounded Vanta, based in San Francisco, to provide software to help. Today, tech darlings including Affinity, Lattice, Loom and Notion are some of the 1,500 businesses using Vanta’s tools to certify that they’re storing customer data securely in the cloud and maintaining that compliance over time. More points of compliance are coming as Vanta rearranges the components of its existing certifications like Lego blocks to cover new ones. \"We think of Vanta as a security company sort of masquerading as a compliance company,\" says Cacioppo, 35. \"A reason we work on what we do every day is because it actually affects real people.\"",
+    "equity": "$55 million",
+    "founders": "Christina Cacioppo (CEO), Erik Goldman",
+    "investors": "Sequoia, Y Combinator",
+    "name": "Vanta",
+    "revenue": "$9 million"
+  },
+  {
+    "description": "As SaaS software has spread, companies spend more time and money buying it, while SaaS firms hire ever more salespeople to break through the noise. Neu, 36, who spent his career as both a salesman of SaaS and a buyer of it, aims to help companies sort through the thicket of purchases with less aggravation. \"I saw on the sales side that selling SaaS was pretty terrible. It would take 90 days to close a deal, and 80% of deals don’t close, so there’s this massive inefficiency,\" he says. Meanwhile, on the buying side, \"SaaS is incredibly expensive—it’s often a top-five line item for companies, and the price you pay often depends on the salesperson you are speaking with.\" Boston-based Vendr, founded in 2019, acts as a middleman to those purchases. Neu started the company with two former employers—design firm InVision and sales software firm HubSpot—as his first customers. Today, customers, which pay between 1% and 5% of their software spend to Vendr for the service, include Canva, Reddit and DraftKings. The company expects revenue to triple this year.",
+    "equity": "$66 million",
+    "founders": "Ryan Neu (CEO)",
+    "investors": "Craft Ventures, F-Prime Capital, Tiger Global",
+    "name": "Vendr",
+    "revenue": "$4 million"
+  },
+  {
+    "description": "Fintech veterans Abdelkader and Jones abide by one mantra: You can’t hack what isn’t there. The challenge is that data is everywhere. They launched Very Good Security in 2016 to separate value from the data itself. The San Francisco-based firm collects sensitive data from companies, which is then segmented, dummified and stored in secure vaults until a transaction is made. That lets customers like DoorDash and Brex stop worrying about privacy regulations and credit card security compliance. \"Customers of data don’t necessarily need to see or hold or possess their data,\" Abdelkader says. \"They just want to be able to separate the value of data from custodianship of data.\" Abdelkader, 37, and Jones, 41, previously built payments platform Balanced, which ran payments for peer-to-peer marketplaces until its closure in 2015.",
+    "equity": "$105 million",
+    "founders": "Mahmoud Abdelkader (CEO), Marshall Jones",
+    "investors": "Andreessen Horowitz, Goldman Sachs, Vertex Ventures US",
+    "name": "Very Good Security",
+    "revenue": "$11 million"
+  },
+  {
+    "description": "While he was practicing as a neurosurgeon in the U.K., Mansi saw firsthand how surgery could go well, yet the patient would die because too much time had passed before getting to the operating room. In 2016, while working on an M.B.A. at Stanford Business School, he met Golan, an Israeli machine-learning postdoc who’d recently been discharged from the hospital after a suspected stroke. The two bonded over the lack of data to drive better medical decisions and pitched their idea to improve stroke care in a class run by former Google CEO Eric Schmidt, who offered seed funding through his firm Innovation Endeavors. The San Francisco-based company’s software cross-references CT images of a patient’s brain with its database of scans to find early signs of large vessel occlusion strokes. \"The algorithm will read the scan in 60 seconds of coming to the ER, and instead of taking four or five hours and 12 or 13 phone calls, 60 seconds later an alert will go off on my phone and I will be able to see all the images on my phone,\" says Mansi, 36. The result: Nearly 900 hospitals have signed up, including the Cleveland Clinic and Geisinger, and it became the rare AI technology approved by Medicare. Viz.ai is now expanding from strokes to pulmonary embolisms and aortic dissections.",
+    "equity": "$150 million",
+    "founders": "David Golan, Chris Mansi (CEO)",
+    "investors": "Greenoaks Capital, Innovation Endeavors, Insight Partners, Kleiner Perkins, Scale Venture Partners",
+    "name": "Viz.ai",
+    "revenue": "$12 million"
+  },
+  {
+    "description": "As virtual care skyrocketed during the Covid-19 pandemic, many digital health companies, hospitals and large employers were caught flatfooted, throwing together what Davey calls \"chicken wire and bubble gum\" solutions. Austin, Texas-based Wheel offers software to help them set up a telemedicine practice, including a network of vetted contract doctors and nurses. Unlike branded telehealth services like Teladoc, Wheel operates in the background with white-label tools that enable health providers or other digital health companies to offer virtual health services. Davey, 32, and Mulcahey, 38, first realized what a headache healthcare worker recruitment was, due to differing state regulations, while working at an early telehealth startup. In 2018, the duo decided to take a stab at his industrywide pain point with a staffing marketplace for virtual clinicians. Now the company expects its back-end software to deliver more than a million patient visits in 2021, a fivefold increase over 2020. In the post-pandemic world, virtual care is going to be \"table stakes for many different types of companies,\" says Davey. Wheel has also added psychologists and psychiatrists and plans to expand into triage care.",
+    "equity": "$66 million",
+    "founders": "Michelle Davey (CEO), Griffin Mulcahey",
+    "investors": "CRV, Lightspeed Venture Partners, Silverton Partners",
+    "name": "Wheel",
+    "revenue": "$8 million"
+  },
+  {
+    "description": "Sudanese doctor-turned-entrepreneur Iman Abuzeid, 36, and software engineer Rome Portlock, 41, cofounded this online marketplace for hiring nurses in 2017. Incredible Health flips traditional hiring on its head—letting employers, in this case hospitals, apply to nurses. Its matching algorithms help cut the hiring process from months to weeks. While it’s free for nurses, more than 500 hospitals, including Kaiser Permanente and HCA Healthcare, pay annual subscriptions priced according to their total number of hires. The San Francisco-based startup now operates in 21 states and expects to roll out nationwide in 2022. \"I wanted to build and create things that would have an impact on a large scale, not just one-on-one with patients,\" Abuzeid says.",
+    "equity": "$17 million",
+    "founders": "Iman Abuzeid (CEO), Rome Portlock",
+    "investors": "Andreessen Horowitz, Obvious Ventures",
+    "name": "Incredible Health",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "This all-in-one platform for barbershops started out as a booking site. It soon expanded into financial services and is now testing distribution of supplies such as razor blades. The Manhattan-based company charges its 2,000 customers a monthly fee of $100 to $250 per location and collects transaction fees on services. Songe LaRon, 37, quit a job at law firm Skadden Arps, and Dave Salvant, 36, ditched one as a sales associate at AXA to start the company. They took over a Manhattan barbershop to better learn the business. After a tough start convincing investors to back them, the pair got into the accelerator Y Combinator on their third try. Today investors have come around, and Squire’s valuation tripled to $750 million last July after a $60 million fundraise. \"We have to start putting money earlier in the pipeline for Black founders,\" LaRon says. \"Institutional capital needs to start taking more risk.\"",
+    "equity": "$143 million",
+    "founders": "Songe LaRon (CEO), Dave Salvant",
+    "investors": "CRV, Iconiq Capital, Tiger Global, Trinity Ventures",
+    "name": "Squire Technologies",
+    "revenue": "$4 million"
+  },
+  {
+    "description": "Pat Kinsel, 36, started Notarize after selling his previous company to Twitter in 2013 and realizing that the notary had failed to sign his documents. He had to convince state and local regulators that online notarization using cameras could be as secure as the service performed in person. Ultimately, he helped pass legislation allowing virtual notaries in 38 states, including Pennsylvania, Florida and Texas. \"I’ve got the scars and receipts,\" Kinsel says. Already more than 2,200 corporate customers, including title agency First American and real estate marketplace Zillow, as well as plenty of individuals, have tapped its online services—including proprietary identity verification tools—to skip the trip to a notary and connect with a professional via video chat instead.",
+    "equity": "$213 million",
+    "founders": "Pat Kinsel (CEO), Adam Pase",
+    "investors": "Camber Creek, Canapi Ventures, CapitalG, Polaris Partners",
+    "name": "Notarize",
+    "revenue": "$25 million"
+  }
+]

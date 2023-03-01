@@ -1,0 +1,28 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "Ahrefs",
+    "bookface",
+    "clsx",
+    "commitlint",
+    "crawlee",
+    "crunchbase",
+    "emazzotta",
+    "fontawesome",
+    "fortawesome",
+    "glassdoor",
+    "headlessui",
+    "hwow",
+    "nosniff",
+    "postbuild",
+    "Roadmap",
+    "SAMEORIGIN",
+    "sonarjs",
+    "startupintel",
+    "tailwindcss",
+    "tanstack",
+    "thrw",
+    "Xmark"
+  ]
+}

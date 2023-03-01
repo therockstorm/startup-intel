@@ -1,0 +1,15 @@
+.DS_Store
+.env*
+!.env.example
+.vercel
+npm-debug.log*
+
+/.next/
+/build
+/coverage
+/node_modules
+/public/robots.txt
+/public/sitemap*.xml
+/out/
+/results/lighthouse_pwa.svg
+/storage/

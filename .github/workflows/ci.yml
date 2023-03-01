@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push: { branches: [main] }
+  pull_request:
+
+env:
+  CI: true
+
+jobs:
+  build:
+    env:
+      FONT_AWESOME_NPM_AUTH_TOKEN: ${{ secrets.FONT_AWESOME_NPM_AUTH_TOKEN }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+      - uses: actions/setup-node@v3
+        with: { cache: "npm", node-version: "18" }
+      - run: npm ci --audit false --fund false
+      - run: npm run lint

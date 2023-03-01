@@ -1,0 +1,2942 @@
+[
+  {
+    "batch": "S09",
+    "description": "Economic infrastructure for the internet.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e5ccedd9995f6524b4a0379062eb67f7c991613e.png",
+    "name": "Stripe",
+    "rank": 1,
+    "url": "stripe.com",
+    "ycUrl": "https://www.ycombinator.com/companies/stripe"
+  },
+  {
+    "batch": "S12",
+    "description": "Marketplace for grocery delivery and pickup",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9750fca21baaee75e035f1baaf58df8e2f5dcc67.png",
+    "name": "Instacart",
+    "rank": 2,
+    "url": "instacart.com",
+    "ycUrl": "https://www.ycombinator.com/companies/instacart"
+  },
+  {
+    "batch": "W18",
+    "description": "OpenSea is the world’s leading peer-to-peer marketplace for NFTs",
+    "headquarters": "Menlo Park, CA, USA; New York, NY, USA; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/be12a7a3bea106077960a6e544db5840291bb150.png",
+    "name": "OpenSea",
+    "rank": 3,
+    "url": "opensea.io",
+    "ycUrl": "https://www.ycombinator.com/companies/opensea"
+  },
+  {
+    "batch": "W17",
+    "description": "The global online platform empowering independent retail.",
+    "headquarters": "San Francisco, CA, USA; Waterloo, ON, Canada; London, England, United Kingdom; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3ccfa8cd66f2a1d09da157956ae8b5686f3b2fe5.png",
+    "name": "Faire",
+    "rank": 4,
+    "url": "faire.com",
+    "ycUrl": "https://www.ycombinator.com/companies/faire"
+  },
+  {
+    "batch": "W17",
+    "description": "Business accounts, corporate cards, and spend management software.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/72237ca3782563f0b12ffe1fe9869d878c153ab6.png",
+    "name": "Brex",
+    "rank": 5,
+    "url": "brex.com",
+    "ycUrl": "https://www.ycombinator.com/companies/brex"
+  },
+  {
+    "batch": "W19",
+    "description": "The all-in-one HR platform for global teams.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9152bb798308624071239d0e8cb4421c8d24857d.png",
+    "name": "Deel",
+    "rank": 6,
+    "url": "deel.com",
+    "ycUrl": "https://www.ycombinator.com/companies/deel"
+  },
+  {
+    "batch": "W17",
+    "description": "Magically Simplify Your HR & IT",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2758f61527dbe7c44609bc669149123e07509b8d.png",
+    "name": "Rippling",
+    "rank": 7,
+    "url": "rippling.com",
+    "ycUrl": "https://www.ycombinator.com/companies/rippling"
+  },
+  {
+    "batch": "W12",
+    "description": "Provides growing businesses with everything to take care of their team",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6ce7845c2e268525f5f04915212ac0a106fb7e3d.png",
+    "name": "Gusto",
+    "rank": 8,
+    "url": "gusto.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gusto"
+  },
+  {
+    "batch": "W14",
+    "description": "Platform for global logistics.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/897ef3a983ed364ca3122044cf2d2a92e05b34bb.png",
+    "name": "Flexport",
+    "rank": 9,
+    "url": "flexport.com",
+    "ycUrl": "https://www.ycombinator.com/companies/flexport"
+  },
+  {
+    "batch": "W15",
+    "description": "India's leading financial platform for all things payments & banking…",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6a6aaf9a84fa4b7ddb53cabda7443c142a5a154.png",
+    "name": "Razorpay",
+    "rank": 10,
+    "url": "razorpay.com",
+    "ycUrl": "https://www.ycombinator.com/companies/razorpay"
+  },
+  {
+    "batch": "S16",
+    "description": "Data-centric infrastructure to accelerate the development of AI",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8c45a78eb56f4a95e41a3a77960b00fdfb4cd918.png",
+    "name": "Scale AI",
+    "rank": 11,
+    "url": "scale.com",
+    "ycUrl": "https://www.ycombinator.com/companies/scale-ai"
+  },
+  {
+    "batch": "S12",
+    "description": "Unlocking the power of biotech with modern software for modern science",
+    "headquarters": "Zürich, ZH, Switzerland; San Francisco, CA, USA; Boston, MA, USA; Belfast, Northern Ireland, United Kingdom; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/56dfbb621883fb62890bd66d7bd967984b974c12.png",
+    "name": "Benchling",
+    "rank": 12,
+    "url": "benchling.com",
+    "ycUrl": "https://www.ycombinator.com/companies/benchling"
+  },
+  {
+    "batch": "W13",
+    "description": "The leader in automated data movement",
+    "headquarters": "Oakland, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d6b5710a13038fe1daa1421a986e1f4a7839a65a.png",
+    "name": "Fivetran",
+    "rank": 13,
+    "url": "fivetran.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fivetran"
+  },
+  {
+    "batch": "W16",
+    "description": "On-demand delivery and financial services for Latin America.",
+    "headquarters": "Bogotá, Bogota, Colombia",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/44285cf605c3f1d288f2fb7c2f002f859ab92d0b.png",
+    "name": "Rappi",
+    "rank": 14,
+    "url": "rappi.com",
+    "ycUrl": "https://www.ycombinator.com/companies/rappi"
+  },
+  {
+    "batch": "S14",
+    "description": "People infrastructure for the future of work",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/211825b572def7bbe7c182d84f166129bc978b6b.png",
+    "name": "Checkr",
+    "rank": 15,
+    "url": "checkr.com",
+    "ycUrl": "https://www.ycombinator.com/companies/checkr"
+  },
+  {
+    "batch": "S12",
+    "description": "The easiest way to automate your work.",
+    "headquarters": "Remote; Mountain View, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d5d8aefda7d4e7fdbe927854bc8021fbacdcbfb3.png",
+    "name": "Zapier",
+    "rank": 16,
+    "url": "zapier.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zapier"
+  },
+  {
+    "batch": "S16",
+    "description": "Democratizing internet commerce for everyone in India",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ab92d5d14988836ad702438f37dfe41e030a774a.png",
+    "name": "Meesho",
+    "rank": 17,
+    "url": "meesho.com",
+    "ycUrl": "https://www.ycombinator.com/companies/meesho"
+  },
+  {
+    "batch": "",
+    "description": "A bank as smart as your phone.",
+    "headquarters": "London, England, United Kingdom; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b1262acc9e79773337df0be8c8de0cd79a0a813f.png",
+    "name": "Monzo Bank",
+    "rank": 18,
+    "url": "monzo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/monzo-bank"
+  },
+  {
+    "batch": "W16",
+    "description": "Building humanity’s multiplanetary future.",
+    "headquarters": "Cape Canaveral, FL, USA; Seattle, WA, USA; Los Angeles, CA, USA; John C. Stennis Space Center, MS, USA; Washington, DC, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/69fc3eaa7d024cb1636c3fb74c1b9ff45b63ca30.png",
+    "name": "Relativity Space",
+    "rank": 19,
+    "url": "relativityspace.com",
+    "ycUrl": "https://www.ycombinator.com/companies/relativity-space"
+  },
+  {
+    "batch": "S13",
+    "description": "Professional website design and publishing platform.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d6483c7eecc5184df599b358f29fae9878179566.png",
+    "name": "Webflow",
+    "rank": 20,
+    "url": "webflow.com",
+    "ycUrl": "https://www.ycombinator.com/companies/webflow"
+  },
+  {
+    "batch": "S16",
+    "description": "The world’s largest omnichannel communications platform",
+    "headquarters": "Amsterdam, NH, Netherlands",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/563bc6514eab1ccdb569103068a4a16f3f5e29fd.png",
+    "name": "MessageBird",
+    "rank": 21,
+    "url": "messagebird.com",
+    "ycUrl": "https://www.ycombinator.com/companies/messagebird"
+  },
+  {
+    "batch": "W20",
+    "description": "Whatnot is the largest livestream shopping platform in the U.S.",
+    "headquarters": "Remote; Los Angeles, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8cc4364cbc36079057551f98544d5fb6be675455.png",
+    "name": "Whatnot",
+    "rank": 22,
+    "url": "whatnot.com",
+    "ycUrl": "https://www.ycombinator.com/companies/whatnot"
+  },
+  {
+    "batch": "S17",
+    "description": "The first public safety operating system that eliminates crime.",
+    "headquarters": "Atlanta, GA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ee69b5c905088288ff0fc007921dde14514a40a1.png",
+    "name": "Flock Safety",
+    "rank": 23,
+    "url": "flocksafety.com",
+    "ycUrl": "https://www.ycombinator.com/companies/flock-safety"
+  },
+  {
+    "batch": "",
+    "description": "The world's most efficient digital freight network.",
+    "headquarters": "Seattle, WA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/627387718c7fc43469f89a36ed26d7378497cb09.png",
+    "name": "Convoy",
+    "rank": 24,
+    "url": "convoy.com",
+    "ycUrl": "https://www.ycombinator.com/companies/11874"
+  },
+  {
+    "batch": "W15",
+    "description": "Cloud solutions for the construction industry.",
+    "headquarters": "Columbia, MO, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png",
+    "name": "EquipmentShare",
+    "rank": 25,
+    "url": "equipmentshare.com",
+    "ycUrl": "https://www.ycombinator.com/companies/equipmentshare"
+  },
+  {
+    "batch": "W11",
+    "description": "Platform for the greatest products from the past, present and future.",
+    "headquarters": "Los Angeles, CA, USA; New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4f3a455935f36a6655742aae286b206df1cd13bd.png",
+    "name": "GOAT Group",
+    "rank": 26,
+    "url": "goatgroup.com",
+    "ycUrl": "https://www.ycombinator.com/companies/goat-group"
+  },
+  {
+    "batch": "W17",
+    "description": "Build internal tools fast.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0a4773159389a2bd38c10e6e9b5761d0a3666c30.png",
+    "name": "Retool",
+    "rank": 27,
+    "url": "retool.com",
+    "ycUrl": "https://www.ycombinator.com/companies/retool"
+  },
+  {
+    "batch": "W15",
+    "description": "Technology enabler and digital transformer of American food supply…",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a10cd6dd027a6f9927f0c0574be6404d3ed0c014.png",
+    "name": "GrubMarket",
+    "rank": 28,
+    "url": "grubmarket.com",
+    "ycUrl": "https://www.ycombinator.com/companies/grubmarket"
+  },
+  {
+    "batch": "S15",
+    "description": "Digital contracting platform for legal teams.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
+    "name": "Ironclad",
+    "rank": 29,
+    "url": "ironcladapp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ironclad"
+  },
+  {
+    "batch": "S16",
+    "description": "Helping businesses make and accept payments from anywhere in Africa.",
+    "headquarters": "Lagos, LA, Nigeria; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a1078b114f17bc04ce851bf929fc1bab80789469.png",
+    "name": "Flutterwave",
+    "rank": 30,
+    "url": "flutterwave.com",
+    "ycUrl": "https://www.ycombinator.com/companies/flutterwave"
+  },
+  {
+    "batch": "W16",
+    "description": "A communication, marketing, and payments platform for local…",
+    "headquarters": "Lehi, UT, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d90bc164db5dd25a81e6dcfa222470eadf2c783a.png",
+    "name": "Podium",
+    "rank": 31,
+    "url": "podium.com",
+    "ycUrl": "https://www.ycombinator.com/companies/podium"
+  },
+  {
+    "batch": "S15",
+    "description": "Provides payment infrastructure for Southeast Asia",
+    "headquarters": "Jakarta, Jakarta, Indonesia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/82971ab934851a55cee1aa3b11b22839902e7f2e.png",
+    "name": "Xendit",
+    "rank": 32,
+    "url": "xendit.co",
+    "ycUrl": "https://www.ycombinator.com/companies/xendit"
+  },
+  {
+    "batch": "W18",
+    "description": "Investing made simple for everyone in India.",
+    "headquarters": "Mumbai, MH, India; Bengaluru, KA, India",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e864a7ba119bd07bb6afa16b449f83125eca3524.png",
+    "name": "Groww",
+    "rank": 33,
+    "url": "groww.in",
+    "ycUrl": "https://www.ycombinator.com/companies/groww"
+  },
+  {
+    "batch": "W16",
+    "description": "A live online learning platform that empowers kids ages 3–18.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8d4f5bc63953a4887b889e74645b81f6aa339942.png",
+    "name": "Outschool",
+    "rank": 34,
+    "url": "outschool.com",
+    "ycUrl": "https://www.ycombinator.com/companies/outschool"
+  },
+  {
+    "batch": "W16",
+    "description": "Modern people management platform.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a3bbe5d7f8ca797e1e542c827ac00dda238b0b81.png",
+    "name": "Lattice",
+    "rank": 35,
+    "url": "lattice.com",
+    "ycUrl": "https://www.ycombinator.com/companies/lattice"
+  },
+  {
+    "batch": "S14",
+    "description": "Building the world's first fusion power plant",
+    "headquarters": "Everett, WA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b5119e7d1a685052ca06d144fde031fb2c13baf4.png",
+    "name": "Helion Energy",
+    "rank": 36,
+    "url": "helionenergy.com",
+    "ycUrl": "https://www.ycombinator.com/companies/helion-energy"
+  },
+  {
+    "batch": "S11",
+    "description": "We’re building the world’s bank payment network.",
+    "headquarters": "London, England, United Kingdom; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0ccdabab089f9b89cedc7a361ae2e169d4d6a942.png",
+    "name": "GoCardless",
+    "rank": 37,
+    "url": "gocardless.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gocardless"
+  },
+  {
+    "batch": "W14",
+    "description": "A developer-friendly and enterprise-grade search API.",
+    "headquarters": "Paris, Île-de-France, France; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3957efb32806e40351fb432ce3c38ae6d22865b3.png",
+    "name": "Algolia",
+    "rank": 38,
+    "url": "algolia.com",
+    "ycUrl": "https://www.ycombinator.com/companies/algolia"
+  },
+  {
+    "batch": "S10",
+    "description": "App store for server configurations.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8f74c3796e1b7675bab6c99118bcf9dd7b94ceec.png",
+    "name": "Docker",
+    "rank": 39,
+    "url": "docker.com",
+    "ycUrl": "https://www.ycombinator.com/companies/docker"
+  },
+  {
+    "batch": "W18",
+    "description": "Modern insurance brokerage.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce6ff3e82371f1e059506cc44d9d76fe899d0169.png",
+    "name": "Newfront",
+    "rank": 40,
+    "url": "newfront.com",
+    "ycUrl": "https://www.ycombinator.com/companies/newfront-insurance"
+  },
+  {
+    "batch": "W17",
+    "description": "Decarbonizing the chemicals industry.",
+    "headquarters": "Houston, TX, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8d4235cadbab6a51a7bfa10e7b2877bdb12a26fe.png",
+    "name": "Solugen",
+    "rank": 41,
+    "url": "solugen.com",
+    "ycUrl": "https://www.ycombinator.com/companies/solugen"
+  },
+  {
+    "batch": "S15",
+    "description": "A learning platform that enables you to train your staff or customers.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e1004ce910aafa76388e32ce5e89e431e2a22211.png",
+    "name": "Go1",
+    "rank": 42,
+    "url": "go1.com",
+    "ycUrl": "https://www.ycombinator.com/companies/go1"
+  },
+  {
+    "batch": "S20",
+    "description": "International banking infrastructure for global startups.",
+    "headquarters": "Remote; Miami, FL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/faca4c2138bb38fb870736801c5d004313420eb2.png",
+    "name": "Jeeves",
+    "rank": 43,
+    "url": "tryjeeves.com",
+    "ycUrl": "https://www.ycombinator.com/companies/jeeves"
+  },
+  {
+    "batch": "S18",
+    "description": "Payment operations tools for money movement.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a530f58c560c991cc2b9487c24cfa90465e961d6.png",
+    "name": "Modern Treasury",
+    "rank": 44,
+    "url": "moderntreasury.com",
+    "ycUrl": "https://www.ycombinator.com/companies/modern-treasury"
+  },
+  {
+    "batch": "S16",
+    "description": "Powering the animal health supply chain.",
+    "headquarters": "Remote; Miami, FL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c14ca2790645cac39d58fb3153dab0e3e2c7e005.png",
+    "name": "Vetcove",
+    "rank": 45,
+    "url": "vetcove.com",
+    "ycUrl": "https://www.ycombinator.com/companies/vetcove"
+  },
+  {
+    "batch": "S14",
+    "description": "Providing Amazon level logistics to e-commerce businesses.",
+    "headquarters": "Chicago, IL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a7fe6af4f0d7680132345ae356f0c1abe1939e2a.png",
+    "name": "ShipBob",
+    "rank": 46,
+    "url": "shipbob.com",
+    "ycUrl": "https://www.ycombinator.com/companies/shipbob"
+  },
+  {
+    "batch": "W16",
+    "description": "We make robots for biologists.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/218a1e71ef58cf5c6cbd797a5c9a25f5b4525037.png",
+    "name": "Opentrons",
+    "rank": 47,
+    "url": "opentrons.com",
+    "ycUrl": "https://www.ycombinator.com/companies/opentrons"
+  },
+  {
+    "batch": "S11",
+    "description": "The Leader in Digital Trust & Safety",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4eb5f9ca677956a27183ce3ae798b02616a1e3e2.png",
+    "name": "Sift",
+    "rank": 48,
+    "url": "sift.com",
+    "ycUrl": "https://www.ycombinator.com/companies/sift"
+  },
+  {
+    "batch": "W12",
+    "description": "Mobile money app for Africa",
+    "headquarters": "Remote; Dakar, Dakar Region, Senegal",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7bb010b1c1951d3cc6578fb3ff4c83700de7c376.png",
+    "name": "Wave",
+    "rank": 49,
+    "url": "wave.com",
+    "ycUrl": "https://www.ycombinator.com/companies/wave"
+  },
+  {
+    "batch": "S14",
+    "description": "Customer communications hub for building strong relationships",
+    "headquarters": "Paris, Île-de-France, France; Dublin, County Dublin, Ireland; Chicago, IL, USA; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/bf249c52ada525d9126563265f52ec4b3105ea54.png",
+    "name": "Front",
+    "rank": 50,
+    "url": "front.com",
+    "ycUrl": "https://www.ycombinator.com/companies/front"
+  },
+  {
+    "batch": "W18",
+    "description": "Helps simplify and centralize security for organizations of all sizes",
+    "headquarters": "Dublin, County Dublin, Ireland; San Francisco, CA, USA; New York, NY, USA; Sydney, NSW, Australia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/467c166ddaf90fc9994578d1004a017f5f1a2407.png",
+    "name": "Vanta",
+    "rank": 51,
+    "url": "vanta.com",
+    "ycUrl": "https://www.ycombinator.com/companies/vanta"
+  },
+  {
+    "batch": "S17",
+    "description": "API-connected healthcare infrastructure.",
+    "headquarters": "Remote; San Mateo, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c4a973a0300bcf108fdd2a681e5499d0d9f23c5e.png",
+    "name": "Truepill",
+    "rank": 52,
+    "url": "truepill.com",
+    "ycUrl": "https://www.ycombinator.com/companies/truepill"
+  },
+  {
+    "batch": "S20",
+    "description": "Plan, communicate, and benchmark your compensation in real-time.",
+    "headquarters": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b36a8ba8f46bbf87e4684ac2842bfe6dbe3cebc3.png",
+    "name": "Pave",
+    "rank": 53,
+    "url": "pave.com",
+    "ycUrl": "https://www.ycombinator.com/companies/pave-2"
+  },
+  {
+    "batch": "W19",
+    "description": "We use solar and wind power to make zero net carbon electrofuels",
+    "headquarters": "Santa Cruz, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a1439ba0d08371919c2c6e45e334b24fd8d43892.png",
+    "name": "Prometheus",
+    "rank": 54,
+    "url": "prometheusfuels.com",
+    "ycUrl": "https://www.ycombinator.com/companies/prometheus"
+  },
+  {
+    "batch": "W16",
+    "description": "Video infrastructure for developers",
+    "headquarters": "London, England, United Kingdom; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a333c6fd617000a30a9b5b1802346d0bfcf9e3fa.png",
+    "name": "Mux",
+    "rank": 55,
+    "url": "mux.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mux"
+  },
+  {
+    "batch": "W18",
+    "description": "Jasper is a leader in creating content using Artificial Intelligence",
+    "headquarters": "Austin, TX, USA; Salt Lake City, UT, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/18b90074b86630e3f25f2673c29d94e8c03c9018.png",
+    "name": "Jasper.ai",
+    "rank": 56,
+    "url": "jasper.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/jasper-ai"
+  },
+  {
+    "batch": "S16",
+    "description": "#1 Remote Patient Monitoring Platform",
+    "headquarters": "Mountain View, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9cccd2e88dc540efd8579f8a5c13f14c6551ea07.png",
+    "name": "Athelas",
+    "rank": 57,
+    "url": "athelas.com",
+    "ycUrl": "https://www.ycombinator.com/companies/athelas"
+  },
+  {
+    "batch": "W14",
+    "description": "Snapdocs digitizes real estate closings",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4391e46749d4be871f138c61fa409a9979d7739e.png",
+    "name": "Snapdocs",
+    "rank": 58,
+    "url": "snapdocs.com",
+    "ycUrl": "https://www.ycombinator.com/companies/snapdocs"
+  },
+  {
+    "batch": "S13",
+    "description": "The shipping infrastructure of the internet.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/37f58af9ede41176af776f779ec507cd820dd514.png",
+    "name": "EasyPost",
+    "rank": 59,
+    "url": "easypost.com",
+    "ycUrl": "https://www.ycombinator.com/companies/easypost"
+  },
+  {
+    "batch": "S11",
+    "description": "Apollo helps engineering teams accelerate delivery",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3d684926422fe826a03f5d68cd83bdb413d1c454.png",
+    "name": "Apollo",
+    "rank": 60,
+    "url": "apollographql.com",
+    "ycUrl": "https://www.ycombinator.com/companies/apollo"
+  },
+  {
+    "batch": "W15",
+    "description": "Self-Checkout using Computer Vision.",
+    "headquarters": "Palo Alto, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/bd7ff2b3db9bbbc82a79afababdad873d16b6e54.png",
+    "name": "Mashgin",
+    "rank": 61,
+    "url": "mashgin.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mashgin"
+  },
+  {
+    "batch": "W15",
+    "description": "On-demand prescription delivery.",
+    "headquarters": "Redwood City, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/59164e3d525f6f19d9a4e0867a66574ef9dedfe8.png",
+    "name": "NimbleRx",
+    "rank": 62,
+    "url": "nimblerx.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nimblerx"
+  },
+  {
+    "batch": "W18",
+    "description": "AI-powered identity verification solution for fraud prevention.",
+    "headquarters": "New York, NY, USA; London, England, United Kingdom; Barcelona, CT, Spain; Tallinn, Harju County, Estonia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
+    "name": "Veriff",
+    "rank": 63,
+    "url": "veriff.com",
+    "ycUrl": "https://www.ycombinator.com/companies/veriff"
+  },
+  {
+    "batch": "S20",
+    "description": "The future of B2B spend",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/36e20f89b10663bb956c6daad5f19a3ee1b8cf24.png",
+    "name": "Zip",
+    "rank": 64,
+    "url": "ziphq.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zip"
+  },
+  {
+    "batch": "W20",
+    "description": "Open-source EL(T) platform",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
+    "name": "Airbyte",
+    "rank": 65,
+    "url": "airbyte.com",
+    "ycUrl": "https://www.ycombinator.com/companies/airbyte"
+  },
+  {
+    "batch": "S18",
+    "description": "One-stop-shop for flexible family care",
+    "headquarters": "Miami, FL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8b6b5d357c2bb5599f3c6678242b725827948182.png",
+    "name": "Papa",
+    "rank": 66,
+    "url": "papa.com",
+    "ycUrl": "https://www.ycombinator.com/companies/papa"
+  },
+  {
+    "batch": "W16",
+    "description": "Protects organizations from getting breached through their APIs.",
+    "headquarters": "Tel Aviv-Yafo, Tel Aviv District, Israel; Palo Alto, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ee67d3955bee952b7146cbf36150b372e91df27a.png",
+    "name": "Salt Security",
+    "rank": 67,
+    "url": "salt.security",
+    "ycUrl": "https://www.ycombinator.com/companies/salt-security"
+  },
+  {
+    "batch": "W16",
+    "description": "The next generation of internet satellites.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6afe4b664eab03f91fa887d1af8e11a233591900.png",
+    "name": "Astranis",
+    "rank": 68,
+    "url": "astranis.com",
+    "ycUrl": "https://www.ycombinator.com/companies/astranis"
+  },
+  {
+    "batch": "W18",
+    "description": "The gold standard in cryptocurrency portfolio tracking and taxes",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/172469006c88092ffe4dad7ca65d735ec9d87502.png",
+    "name": "CoinTracker",
+    "rank": 69,
+    "url": "cointracker.io",
+    "ycUrl": "https://www.ycombinator.com/companies/cointracker"
+  },
+  {
+    "batch": "W17",
+    "description": "Connects healthcare facilities with nurses nearby.",
+    "headquarters": "Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e00070fbe06d18db6bc2760c388b722aae67859a.png",
+    "name": "Clipboard Health",
+    "rank": 70,
+    "url": "culture.clipboardhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/clipboard-health"
+  },
+  {
+    "batch": "W18",
+    "description": "Agile commission software to design, deploy & adapt commission plans.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d6335987a80e28fc8c303050aa104d2e7285ef01.png",
+    "name": "CaptivateIQ",
+    "rank": 71,
+    "url": "captivateiq.com",
+    "ycUrl": "https://www.ycombinator.com/companies/captivateiq"
+  },
+  {
+    "batch": "IK12",
+    "description": "Communication app for K-8 teachers, kids, and families",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5880942a2efc61218c66b07f0f2704038b3001e8.png",
+    "name": "ClassDojo",
+    "rank": 72,
+    "url": "classdojo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/classdojo"
+  },
+  {
+    "batch": "S17",
+    "description": "Talent engagement platform",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6a37f8c6b6d3cddaee978aab62ebe0f6bacec7db.png",
+    "name": "Gem",
+    "rank": 73,
+    "url": "gem.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gem"
+  },
+  {
+    "batch": "W18",
+    "description": "A mental health benefits platform for employers.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8f57f5afcce30f36c43831a578b13163b110301a.png",
+    "name": "Modern Health",
+    "rank": 74,
+    "url": "modernhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/modern-health"
+  },
+  {
+    "batch": "S15",
+    "description": "The easiest, most secure way to access all your infrastructure",
+    "headquarters": "Oakland, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/232b4ff716a738c3027603248f32b30a04836498.png",
+    "name": "Teleport",
+    "rank": 75,
+    "url": "goteleport.com",
+    "ycUrl": "https://www.ycombinator.com/companies/teleport"
+  },
+  {
+    "batch": "W16",
+    "description": "Affordable, profitable, and sustainable supersonic airplanes",
+    "headquarters": "Centennial, CO, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/99fad830d694e292b87e0628e50c052c9f87cf86.png",
+    "name": "Boom",
+    "rank": 76,
+    "url": "boomsupersonic.com",
+    "ycUrl": "https://www.ycombinator.com/companies/boom"
+  },
+  {
+    "batch": "W19",
+    "description": "The core engine of supply chain in LATAM",
+    "headquarters": "Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3adc2d7230f0a2c3c705c361a16f9f9b93e81b7d.png",
+    "name": "Nowports",
+    "rank": 77,
+    "url": "nowports.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nowports"
+  },
+  {
+    "batch": "S18",
+    "description": "Titan is building a new Schwab.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/de26262abf4718d6e7675de4856992155ef62ab1.png",
+    "name": "Titan",
+    "rank": 78,
+    "url": "titan.com",
+    "ycUrl": "https://www.ycombinator.com/companies/titan"
+  },
+  {
+    "batch": "S12",
+    "description": "Marketplace connecting consumers to financial advisors",
+    "headquarters": "Remote; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d79adb13b4acb20f9e08e876a7ad54319a3e7a10.png",
+    "name": "SmartAsset",
+    "rank": 79,
+    "url": "smartasset.com",
+    "ycUrl": "https://www.ycombinator.com/companies/smartasset"
+  },
+  {
+    "batch": "S16",
+    "description": "Harnesses business activity to unlock growth.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aa9f2a7f199091128aa875d1cb80df0bd183358b.png",
+    "name": "People.ai",
+    "rank": 80,
+    "url": "people.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/people-ai"
+  },
+  {
+    "batch": "W16",
+    "description": "The no1. conversations platform for mobile apps.",
+    "headquarters": "San Mateo, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdd426bda9ef275c28e96ced0d2eee0559bcf773.png",
+    "name": "Sendbird",
+    "rank": 81,
+    "url": "sendbird.com",
+    "ycUrl": "https://www.ycombinator.com/companies/sendbird"
+  },
+  {
+    "batch": "S09",
+    "description": "Product analytics to help convert, engage, and retain more users.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fc369509c4ffa1be8493f895eeb4c3150cb24729.png",
+    "name": "Mixpanel",
+    "rank": 82,
+    "url": "mixpanel.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mixpanel"
+  },
+  {
+    "batch": "S19",
+    "description": "Vendr is changing how companies find, buy and manage SaaS.",
+    "headquarters": "Boston, MA, USA; Charleston, SC, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a0a18a94193b88aba9845e4a0cd83768e08d5222.png",
+    "name": "Vendr.com",
+    "rank": 83,
+    "url": "vendr.com",
+    "ycUrl": "https://www.ycombinator.com/companies/vendr-com"
+  },
+  {
+    "batch": "W18",
+    "description": "Security auditing for Web3",
+    "headquarters": "Remote; Toronto, ON, Canada; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2dc377e8276c3eddb8f99613f0b90ed45fea6ee7.png",
+    "name": "Quantstamp",
+    "rank": 84,
+    "url": "quantstamp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/quantstamp"
+  },
+  {
+    "batch": "W14",
+    "description": "Tech-powered women's wellness.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ed160215b7a30dc30384bfcf6e726bac65688aff.png",
+    "name": "Bellabeat",
+    "rank": 85,
+    "url": "bellabeat.com",
+    "ycUrl": "https://www.ycombinator.com/companies/bellabeat"
+  },
+  {
+    "batch": "S17",
+    "description": "The genetic testing platform detecting and measuring disease.",
+    "headquarters": "Menlo Park, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7374f48e30f2dabadb3413903af69fcda589d67f.png",
+    "name": "BillionToOne",
+    "rank": 86,
+    "url": "billiontoone.com",
+    "ycUrl": "https://www.ycombinator.com/companies/billiontoone"
+  },
+  {
+    "batch": "W16",
+    "description": "Customizable beauty for hair, skin, and body care products.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c69054338f0f6889ab821fc3e59d609f38cfe4e1.png",
+    "name": "Function of Beauty",
+    "rank": 87,
+    "url": "functionofbeauty.com",
+    "ycUrl": "https://www.ycombinator.com/companies/function-of-beauty"
+  },
+  {
+    "batch": "S15",
+    "description": "The 401(k) for small and medium-sized businesses.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b1d2338596e801f39e8a6c668164ac020956c28f.png",
+    "name": "Human Interest",
+    "rank": 88,
+    "url": "humaninterest.com",
+    "ycUrl": "https://www.ycombinator.com/companies/human-interest"
+  },
+  {
+    "batch": "S18",
+    "description": "Consumer fintech for Indonesia",
+    "headquarters": "Remote; Jakarta, Jakarta, Indonesia",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e1bf471cb1ca823b88101b2542b323bf09e743d5.png",
+    "name": "Ajaib",
+    "rank": 89,
+    "url": "ajaib.co.id",
+    "ycUrl": "https://www.ycombinator.com/companies/ajaib"
+  },
+  {
+    "batch": "S17",
+    "description": "AI-powered checkout for retail.",
+    "headquarters": "Remote; Milan, Lombardy, Italy; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/06e2c69e078611382e48b1e2dbdf6cdf9d2e89cd.png",
+    "name": "Standard AI",
+    "rank": 90,
+    "url": "standard.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/standard-ai"
+  },
+  {
+    "batch": "W13",
+    "description": "Captures user interactions with no code to generate analytics.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0be58a0e5449236d7f3e0dbb741e2aadde9e2881.png",
+    "name": "Heap",
+    "rank": 91,
+    "url": "heap.io",
+    "ycUrl": "https://www.ycombinator.com/companies/heap"
+  },
+  {
+    "batch": "W19",
+    "description": "The everything store for restaurants in LATAM.",
+    "headquarters": "Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Mexico City, CDMX, Mexico; São Paulo, SP, Brazil",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/de610cdaa1b45fc16f2be037082405d108ec145d.png",
+    "name": "Frubana Inc",
+    "rank": 92,
+    "url": "frubana.com",
+    "ycUrl": "https://www.ycombinator.com/companies/frubana-inc"
+  },
+  {
+    "batch": "W16",
+    "description": "Apollo is the foundation of your entire go-to-market strategy.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/90090292c269ac533c4bfec2629f6be4bfd345fd.png",
+    "name": "Apollo.io",
+    "rank": 93,
+    "url": "apollo.io",
+    "ycUrl": "https://www.ycombinator.com/companies/apollo-io"
+  },
+  {
+    "batch": "W21",
+    "description": "10-Minute Grocery Delivery in India",
+    "headquarters": "MH, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b419835c59c3d3a4db7e0aaf094b54bb5cee0adb.png",
+    "name": "Zepto",
+    "rank": 94,
+    "url": "zeptonow.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zepto"
+  },
+  {
+    "batch": "S15",
+    "description": "Talent acquisition platform for hiring hourly workers",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/28a140ac4ad946fb66be477d6337e2d2fd5f8092.png",
+    "name": "Fountain",
+    "rank": 95,
+    "url": "fountain.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fountain"
+  },
+  {
+    "batch": "W18",
+    "description": "Collaborative in-browser IDE",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/233d387923712777913e62bff3a3ea50d70ed780.png",
+    "name": "Replit",
+    "rank": 96,
+    "url": "replit.com",
+    "ycUrl": "https://www.ycombinator.com/companies/replit"
+  },
+  {
+    "batch": "W21",
+    "description": "Tools & infra to build and scale high-quality blockchain applications.",
+    "headquarters": "Remote; Miami, FL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/641cf157d5c98793f172eb12060ccbaf1c980255.png",
+    "name": "QuickNode",
+    "rank": 97,
+    "url": "quicknode.com",
+    "ycUrl": "https://www.ycombinator.com/companies/quiknode"
+  },
+  {
+    "batch": "S20",
+    "description": "Rebuilding global transportation payments.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/12375b2a52ee867d95939da19768e87ca0b830e2.png",
+    "name": "AtoB",
+    "rank": 98,
+    "url": "atob.com",
+    "ycUrl": "https://www.ycombinator.com/companies/atob"
+  },
+  {
+    "batch": "W18",
+    "description": "Contact center AI platform.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1a491d2ba965415d5df942f6ec5f8b631059b253.png",
+    "name": "Observe.AI",
+    "rank": 99,
+    "url": "observe.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/observe-ai"
+  },
+  {
+    "batch": "W19",
+    "description": "We make it easier for B2B companies to transact with one another",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fedf74c9ad94dc349198477810eed3f94568f7ec.png",
+    "name": "Middesk",
+    "rank": 100,
+    "url": "middesk.com",
+    "ycUrl": "https://www.ycombinator.com/companies/middesk"
+  },
+  {
+    "batch": "S16",
+    "description": "Platform to grow your barbershop and maximize profitability.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2748c5f7b6f81c6d7e2a1bcfbdb0f677910f18a7.png",
+    "name": "Squire Technologies",
+    "rank": 101,
+    "url": "getsquire.com",
+    "ycUrl": "https://www.ycombinator.com/companies/squire-technologies"
+  },
+  {
+    "batch": "W20",
+    "description": "Connecting stakeholders across the healthcare ecosystem.",
+    "headquarters": "New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4ed8185d0faf80e127efdd3eb63fbd0e604f5e4a.png",
+    "name": "H1",
+    "rank": 102,
+    "url": "h1.co",
+    "ycUrl": "https://www.ycombinator.com/companies/h1"
+  },
+  {
+    "batch": "W19",
+    "description": "1st federally regulated exchange where people can trade on events",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ad3a7dcdbe0f26e0087eda6d5bdf6e1e2ef378aa.png",
+    "name": "Kalshi",
+    "rank": 103,
+    "url": "kalshi.com",
+    "ycUrl": "https://www.ycombinator.com/companies/kalshi"
+  },
+  {
+    "batch": "W15",
+    "description": "Live home fitness training powered by computer vision.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8d7bb4096474a73857a04dd3a797223c11e906d3.png",
+    "name": "Tempo",
+    "rank": 104,
+    "url": "tempo.fit",
+    "ycUrl": "https://www.ycombinator.com/companies/tempo"
+  },
+  {
+    "batch": "S19",
+    "description": "Building a better way to meet online.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7861de884111e3c22dce9bd8a25a30fafb7149ec.png",
+    "name": "Gather",
+    "rank": 105,
+    "url": "gather.town",
+    "ycUrl": "https://www.ycombinator.com/companies/gather-2"
+  },
+  {
+    "batch": "S20",
+    "description": "Build in a weekend. Scale to billions.",
+    "headquarters": "Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/72824c6619a275a9285002167a4aa732f4248c6e.png",
+    "name": "Supabase",
+    "rank": 106,
+    "url": "supabase.com",
+    "ycUrl": "https://www.ycombinator.com/companies/supabase"
+  },
+  {
+    "batch": "S13",
+    "description": "Improving education for every student.",
+    "headquarters": "Boston, MA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cf3c7c83086821a88ee659c700552b3a9a953709.png",
+    "name": "Panorama Education",
+    "rank": 107,
+    "url": "panoramaed.com",
+    "ycUrl": "https://www.ycombinator.com/companies/panorama-education"
+  },
+  {
+    "batch": "W12",
+    "description": "High Performance Computing Built for the Cloud",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/711fea8d5911eff2cca6ae58f7c2371f123c9dc1.png",
+    "name": "Rescale",
+    "rank": 108,
+    "url": "rescale.com",
+    "ycUrl": "https://www.ycombinator.com/companies/rescale"
+  },
+  {
+    "batch": "S19",
+    "description": "TRM is building a safer financial system for billions of people.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/19aa5130e3a0a349d200e7510f0c2fe8439a646f.png",
+    "name": "TRM Labs",
+    "rank": 109,
+    "url": "trmlabs.com",
+    "ycUrl": "https://www.ycombinator.com/companies/trm-labs"
+  },
+  {
+    "batch": "W13",
+    "description": "Empowering restaurants and small food makers to ship nationwide.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cca9f25bb14498b6d14a86b02534da1a12502e50.png",
+    "name": "Goldbelly",
+    "rank": 110,
+    "url": "goldbelly.com",
+    "ycUrl": "https://www.ycombinator.com/companies/goldbelly"
+  },
+  {
+    "batch": "W19",
+    "description": "Southeast Asia’s e-commerce logistics and enablement platform",
+    "headquarters": "Jakarta, Jakarta, Indonesia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d7e6eeda0da5998a1259c2403e1417212d97b487.png",
+    "name": "Shipper",
+    "rank": 111,
+    "url": "shipper.id",
+    "ycUrl": "https://www.ycombinator.com/companies/shipper"
+  },
+  {
+    "batch": "W20",
+    "description": "The fastest shipping for online shopping",
+    "headquarters": "Lima, Callao Region, Peru; Mexico City, CDMX, Mexico; Bogotá, Bogota, Colombia; Santiago, Santiago Metropolitan Region, Chile; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4707a1352fec836d973609bd19ed06185242a7ad.png",
+    "name": "99minutos",
+    "rank": 112,
+    "url": "99minutos.com",
+    "ycUrl": "https://www.ycombinator.com/companies/99minutos"
+  },
+  {
+    "batch": "W18",
+    "description": "A place for independent writing.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5fdff68c6d284e1d2cbab6306ca3f1e7774d4d36.png",
+    "name": "Substack",
+    "rank": 113,
+    "url": "substack.com",
+    "ycUrl": "https://www.ycombinator.com/companies/substack"
+  },
+  {
+    "batch": "W19",
+    "description": "The SMS revenue platform for e-commerce merchants",
+    "headquarters": "Remote; New York, NY, USA; Phoenix, AZ, USA; San Francisco, CA, USA; Denver, CO, USA; Los Angeles, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/feb213c736f108f91e8194abd3b972fee0e217c3.png",
+    "name": "Postscript",
+    "rank": 114,
+    "url": "postscript.io",
+    "ycUrl": "https://www.ycombinator.com/companies/postscript"
+  },
+  {
+    "batch": "S19",
+    "description": "Our operations software makes it easier to run--and grow--your cafe",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e7b7eb171eccce88cf7089d2997df49764f1c.png",
+    "name": "Odeko",
+    "rank": 115,
+    "url": "odeko.com",
+    "ycUrl": "https://www.ycombinator.com/companies/odeko"
+  },
+  {
+    "batch": "W14",
+    "description": "The management platform for the short term rental industry.",
+    "headquarters": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d59f731120bd004f3252c700f665371ea8be8b0e.png",
+    "name": "Guesty",
+    "rank": 116,
+    "url": "guesty.com",
+    "ycUrl": "https://www.ycombinator.com/companies/guesty"
+  },
+  {
+    "batch": "S18",
+    "description": "Manage your ledgers and avail Financial Services like Lending on your…",
+    "headquarters": "Bengaluru, KA, India",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/66b2f57ed74a17802ce2f389dc5be76a7d2e0fe0.png",
+    "name": "Khatabook",
+    "rank": 117,
+    "url": "khatabook.com",
+    "ycUrl": "https://www.ycombinator.com/companies/khatabook"
+  },
+  {
+    "batch": "S18",
+    "description": "Uses AI and data to convert website visitors into customers",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
+    "name": "Mutiny",
+    "rank": 118,
+    "url": "mutinyhq.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mutiny"
+  },
+  {
+    "batch": "S16",
+    "description": "Connecting Healthcare Professionals With Flexible, Local Shifts",
+    "headquarters": "Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/065c0b2204b133ab1f8cc1cc930565f852af43b4.png",
+    "name": "CareRev",
+    "rank": 119,
+    "url": "carerev.com",
+    "ycUrl": "https://www.ycombinator.com/companies/carerev"
+  },
+  {
+    "batch": "W20",
+    "description": "Yassir is the leading Super App for French Speaking Africa",
+    "headquarters": "Algeria",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/73bd927e75c509d21699165f6d43ad2c3f5acf76.png",
+    "name": "Yassir",
+    "rank": 120,
+    "url": "yassir.com",
+    "ycUrl": "https://www.ycombinator.com/companies/yassir"
+  },
+  {
+    "batch": "W18",
+    "description": "Shogun empowers brands to create exceptional ecommerce experience.",
+    "headquarters": "Remote; San Carlos, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c4c9d88ca349da23988cd75431bf7ae58301ff05.png",
+    "name": "Shogun",
+    "rank": 121,
+    "url": "getshogun.com",
+    "ycUrl": "https://www.ycombinator.com/companies/shogun"
+  },
+  {
+    "batch": "S15",
+    "description": "A flexible work app that connects businesses with hourly workers.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1712f8a08b08bb04e192934a1098d1b5144c875b.png",
+    "name": "Instawork",
+    "rank": 122,
+    "url": "instawork.com",
+    "ycUrl": "https://www.ycombinator.com/companies/instawork"
+  },
+  {
+    "batch": "S17",
+    "description": "All-in-one Finance for Every Southeast Asia Business",
+    "headquarters": "Jakarta, Jakarta, Indonesia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b71ac4245fd1b313b185f2e767a0c0a96e9b13b9.png",
+    "name": "FAZZ",
+    "rank": 123,
+    "url": "fazzfinancial.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fazz"
+  },
+  {
+    "batch": "S19",
+    "description": "Insurance and risk management tools for startups and growth-stage…",
+    "headquarters": "Remote; Chicago, IL, USA; San Francisco, CA, USA; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3d1d486d4edef6bd293253ef438f3cf9c1880507.png",
+    "name": "Vouch",
+    "rank": 124,
+    "url": "vouch.us",
+    "ycUrl": "https://www.ycombinator.com/companies/vouch"
+  },
+  {
+    "batch": "S17",
+    "description": "Jerry makes it really easy to save time and money on car expenses.",
+    "headquarters": "Palo Alto, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f9257ab537c34ef4ee8f5d98bf4afb1793755e28.png",
+    "name": "Jerry",
+    "rank": 125,
+    "url": "getjerry.com",
+    "ycUrl": "https://www.ycombinator.com/companies/jerry-inc"
+  },
+  {
+    "batch": "W18",
+    "description": "A modern payment processing platform focused on government agencies.",
+    "headquarters": "Remote; Oakland, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1f469f29205bdaeb83cbefb97085b4a311f3f670.png",
+    "name": "Promise",
+    "rank": 126,
+    "url": "promise-pay.com",
+    "ycUrl": "https://www.ycombinator.com/companies/promise"
+  },
+  {
+    "batch": "W16",
+    "description": "Protecting Today's Critical Infrastructure. Informing Tomorrow's.",
+    "headquarters": "Amsterdam, NH, Netherlands; Pittsburgh, PA, USA; Boston, MA, USA; Austin, TX, USA; New York, NY, USA; Houston, TX, USA; Abu Dhabi, Abu Dhabi, United Arab Emirates; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c17bde559082152735ce7ab0b91e0768c790bbee.png",
+    "name": "Gecko Robotics",
+    "rank": 127,
+    "url": "geckorobotics.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gecko-robotics"
+  },
+  {
+    "batch": "W19",
+    "description": "API-first stock and crypto brokerage platform",
+    "headquarters": "Remote; San Mateo, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/52a69dab52f99ab972ab44d22d038a190f461ac4.png",
+    "name": "Alpaca",
+    "rank": 128,
+    "url": "alpaca.markets",
+    "ycUrl": "https://www.ycombinator.com/companies/alpaca"
+  },
+  {
+    "batch": "W11",
+    "description": "The cloud-native, operational database built for speed and scale.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4c72efc7873353258c9e7e598b2787bb4764a7b6.png",
+    "name": "SingleStore",
+    "rank": 129,
+    "url": "singlestore.com",
+    "ycUrl": "https://www.ycombinator.com/companies/singlestore"
+  },
+  {
+    "batch": "W13",
+    "description": "The platform for building and operating time series applications.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png",
+    "name": "InfluxData",
+    "rank": 130,
+    "url": "influxdata.com",
+    "ycUrl": "https://www.ycombinator.com/companies/influxdata"
+  },
+  {
+    "batch": "W19",
+    "description": "Marketplace for homemade food",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/513394d94edc3e9fbdeb49f288d3ef4621c9a976.png",
+    "name": "Shef",
+    "rank": 131,
+    "url": "shef.com",
+    "ycUrl": "https://www.ycombinator.com/companies/shef"
+  },
+  {
+    "batch": "S20",
+    "description": "A spend management software that provides businesses visibility,…",
+    "headquarters": "Singapore, Singapore; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/573684f2ec0dab289ea0dd5bacd0ea7b65204a36.png",
+    "name": "Spenmo",
+    "rank": 132,
+    "url": "spenmo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/spenmo"
+  },
+  {
+    "batch": "W14",
+    "description": "Fintech SaaS platform for invoices, taxes, wealth management & credit.",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b9c7802fe390e275d36ad0835a41223e647bcf5a.png",
+    "name": "Clear",
+    "rank": 133,
+    "url": "clear.in",
+    "ycUrl": "https://www.ycombinator.com/companies/cleartax"
+  },
+  {
+    "batch": "W21",
+    "description": "Mobile Energy Storage Technology",
+    "headquarters": "Richmond, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7085b1cacdc3678e771186e5b7922d0cb6e93100.png",
+    "name": "Moxion Power Co.",
+    "rank": 134,
+    "url": "moxionpower.com",
+    "ycUrl": "https://www.ycombinator.com/companies/moxion-power-co"
+  },
+  {
+    "batch": "S17",
+    "description": "Transforming cities and rural areas through AV transit and technology",
+    "headquarters": "Ann Arbor, MI, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/82b246f4ed3cc8c8c2d7960c19d98452ed3ecf79.png",
+    "name": "May Mobility",
+    "rank": 135,
+    "url": "maymobility.com",
+    "ycUrl": "https://www.ycombinator.com/companies/may-mobility"
+  },
+  {
+    "batch": "W17",
+    "description": "Hosted Continuous Integration and Delivery for mobile apps",
+    "headquarters": "Remote; Budapest, Hungary",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e5308a0848139b34600dfa7eed02fb958647387.png",
+    "name": "Bitrise",
+    "rank": 136,
+    "url": "bitrise.io",
+    "ycUrl": "https://www.ycombinator.com/companies/bitrise"
+  },
+  {
+    "batch": "W20",
+    "description": "Run full stack apps close to your users.",
+    "headquarters": "Remote; Chicago, IL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1f45b27d4d49f4a54250a3f57030ed625d633c74.png",
+    "name": "Fly.io",
+    "rank": 137,
+    "url": "fly.io",
+    "ycUrl": "https://www.ycombinator.com/companies/fly-io"
+  },
+  {
+    "batch": "W18",
+    "description": "Marketplace for endurance events",
+    "headquarters": "London, England, United Kingdom; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/77a1184800501f165961e33ee72ec6ba5ea70721.png",
+    "name": "Let's Do This",
+    "rank": 138,
+    "url": "letsdothis.com",
+    "ycUrl": "https://www.ycombinator.com/companies/let-s-do-this"
+  },
+  {
+    "batch": "S19",
+    "description": "Sync data from your warehouse into the tools your business teams rely…",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b36436bcb84be8e217d46771a3d924ea6ba393a8.png",
+    "name": "Hightouch",
+    "rank": 139,
+    "url": "hightouch.com",
+    "ycUrl": "https://www.ycombinator.com/companies/hightouch"
+  },
+  {
+    "batch": "W12",
+    "description": "Fleet Transformation Cloud: maximize 🌱🌎 fleet usage, not just data!",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
+    "name": "Ridecell",
+    "rank": 140,
+    "url": "ridecell.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ridecell"
+  },
+  {
+    "batch": "W16",
+    "description": "Creative-as-a-service",
+    "headquarters": "Remote; Oslo, Oslo, Norway",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3f97e6f72e5f0f939f199ac6282cab34c72f7945.png",
+    "name": "Superside",
+    "rank": 141,
+    "url": "superside.com",
+    "ycUrl": "https://www.ycombinator.com/companies/superside"
+  },
+  {
+    "batch": "W18",
+    "description": "Digitize and Automate Complex Care Workflows",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d4adcbb7670278fde1c3c6856a264e0cdcf8adf7.png",
+    "name": "Memora Health",
+    "rank": 142,
+    "url": "memorahealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/memora-health"
+  },
+  {
+    "batch": "S06",
+    "description": "World's largest online library.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/01a86e89391dfdeb194190d1925b25fee5854301.png",
+    "name": "Scribd",
+    "rank": 143,
+    "url": "scribd.com",
+    "ycUrl": "https://www.ycombinator.com/companies/scribd"
+  },
+  {
+    "batch": "W15",
+    "description": "Artificial intelligence for drug discovery.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8a1ee6b77f74cda5b7dd8fc34a8f146336ecaf89.png",
+    "name": "Atomwise",
+    "rank": 144,
+    "url": "atomwise.com",
+    "ycUrl": "https://www.ycombinator.com/companies/atomwise"
+  },
+  {
+    "batch": "S14",
+    "description": "Empowering Patients for Deep Real World Data",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d5d30956a4bfecca2df896398ce2a95079fea2f9.png",
+    "name": "PicnicHealth",
+    "rank": 145,
+    "url": "picnichealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/picnichealth"
+  },
+  {
+    "batch": "S18",
+    "description": "The all-in-one business phone for teams.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ab46f30f5ef05d03f225ef3da3e32ae1664366c2.png",
+    "name": "OpenPhone",
+    "rank": 146,
+    "url": "openphone.com",
+    "ycUrl": "https://www.ycombinator.com/companies/openphone"
+  },
+  {
+    "batch": "W16",
+    "description": "Home boxing gym with motion trackers that compute punches and reps.",
+    "headquarters": "Newport Beach, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ad4b0a44e66abd052761cca849f1d5905d25f72.png",
+    "name": "FightCamp",
+    "rank": 147,
+    "url": "joinfightcamp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fightcamp"
+  },
+  {
+    "batch": "W18",
+    "description": "All-in-one Finance OS for businesses",
+    "headquarters": "Singapore, Singapore; Jakarta, Jakarta, Indonesia; Ho Chi Minh City, Ho Chi Minh City, Vietnam; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/753f62b42ec2f778dd6395d3ae91802c52ab6b5a.png",
+    "name": "Aspire",
+    "rank": 148,
+    "url": "aspireapp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/aspire"
+  },
+  {
+    "batch": "S14",
+    "description": "Hiro Systems build developer tools for Bitcoin and the Stacks layer",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/96d6585dd5c6970a5bdb324b4a4d6e71b977b149.png",
+    "name": "Hiro Systems",
+    "rank": 149,
+    "url": "hiro.so",
+    "ycUrl": "https://www.ycombinator.com/companies/hiro-systems"
+  },
+  {
+    "batch": "W18",
+    "description": "Order ahead at restaurants and get rewards with friends.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7ac73e2746670c96205a96ceaa3fe2fd8ff8b46c.png",
+    "name": "Snackpass",
+    "rank": 150,
+    "url": "snackpass.co",
+    "ycUrl": "https://www.ycombinator.com/companies/snackpass"
+  },
+  {
+    "batch": "W19",
+    "description": "Making car ownership more inclusive, flexible and simple.",
+    "headquarters": "São Paulo, SP, Brazil; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/550584b5ede9d05c71bf6270532602123644a502.png",
+    "name": "Kovi",
+    "rank": 151,
+    "url": "kovi.com.br",
+    "ycUrl": "https://www.ycombinator.com/companies/kovi"
+  },
+  {
+    "batch": "S17",
+    "description": "Cheese and dairy products from plant-derived dairy proteins",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/72e723ce1aab712607581b6fc0d418d1d4b869bf.png",
+    "name": "Nobell Foods",
+    "rank": 152,
+    "url": "nobellfoods.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nobell-foods"
+  },
+  {
+    "batch": "S13",
+    "description": "Lob is the only automation platform that transforms direct mail into…",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/400c96e59ec9e937535827fdd7b324a248dec955.png",
+    "name": "Lob",
+    "rank": 153,
+    "url": "lob.com",
+    "ycUrl": "https://www.ycombinator.com/companies/lob"
+  },
+  {
+    "batch": "W19",
+    "description": "Helps job training programs find qualified applicants.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5103b712f62c93b40cccda12194f44aa367bef34.png",
+    "name": "Career Karma",
+    "rank": 154,
+    "url": "careerkarma.com",
+    "ycUrl": "https://www.ycombinator.com/companies/career-karma"
+  },
+  {
+    "batch": "W16",
+    "description": "Mobile Apps Observability and Performance Monitoring Platform",
+    "headquarters": "San Francisco, CA, USA; Cairo, Cairo Governorate, Egypt",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/891bf2cd461f7e0ea63438afa0048989e0e8926b.png",
+    "name": "Instabug",
+    "rank": 155,
+    "url": "instabug.com",
+    "ycUrl": "https://www.ycombinator.com/companies/instabug"
+  },
+  {
+    "batch": "S17",
+    "description": "AI-Powered Building Management",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8ae8f5a94af62b1cae1e783c5ea5dc76b3ccc975.png",
+    "name": "VergeSense",
+    "rank": 156,
+    "url": "vergesense.com",
+    "ycUrl": "https://www.ycombinator.com/companies/vergesense"
+  },
+  {
+    "batch": "S14",
+    "description": "Rebuilding data in advertising to protect privacy",
+    "headquarters": "London, England, United Kingdom",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d141b2890a1f7b2c6364a0b57270fedfbad3b8f8.png",
+    "name": "Permutive",
+    "rank": 157,
+    "url": "permutive.com",
+    "ycUrl": "https://www.ycombinator.com/companies/permutive"
+  },
+  {
+    "batch": "S15",
+    "description": "The sleep fitness company.",
+    "headquarters": "Remote; New York, NY, USA; San Francisco, CA, USA; Miami, FL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b649c0ed7300661389c61da3478d9e510a6ef517.png",
+    "name": "Eight Sleep",
+    "rank": 158,
+    "url": "eightsleep.com",
+    "ycUrl": "https://www.ycombinator.com/companies/eight-sleep"
+  },
+  {
+    "batch": "W15",
+    "description": "Observability platform to control all of your log data",
+    "headquarters": "Remote; San Jose, CA, USA; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f3a71ea034c7bfc9aef393b47b27829a3413f0b3.png",
+    "name": "Mezmo",
+    "rank": 159,
+    "url": "mezmo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mezmo"
+  },
+  {
+    "batch": "W17",
+    "description": "Modern employee benefits & health savings account (HSA) provider",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/04df2fe7c073695661ca29d77ad166593ebc25d5.png",
+    "name": "Lively, Inc.",
+    "rank": 160,
+    "url": "livelyme.com",
+    "ycUrl": "https://www.ycombinator.com/companies/lively-inc"
+  },
+  {
+    "batch": "W19",
+    "description": "Restoring nature to solve climate change.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e55b15f7dfd0751a774fd43cb72476048b30df9.png",
+    "name": "Pachama",
+    "rank": 161,
+    "url": "pachama.com",
+    "ycUrl": "https://www.ycombinator.com/companies/pachama"
+  },
+  {
+    "batch": "S17",
+    "description": "Simplifying payouts at scale",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/91b6076921a7439ff3b490dee3e269710a65a792.png",
+    "name": "Routable",
+    "rank": 162,
+    "url": "routable.com",
+    "ycUrl": "https://www.ycombinator.com/companies/routable"
+  },
+  {
+    "batch": "S11",
+    "description": "Accelerate the World's Innovation",
+    "headquarters": "Remote; Mountain View, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6df4cc84a7b27db9480fd2d7bff6fa62ff56aacb.png",
+    "name": "HackerRank",
+    "rank": 163,
+    "url": "hackerrank.com",
+    "ycUrl": "https://www.ycombinator.com/companies/hackerrank"
+  },
+  {
+    "batch": "W18",
+    "description": "Powering a better future for textiles.",
+    "headquarters": "Montreal, QC, Canada",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b8f27e765f9d63d4654849ec852c4f841e0eadcf.png",
+    "name": "SRTX",
+    "rank": 164,
+    "url": "srtxlabs.com",
+    "ycUrl": "https://www.ycombinator.com/companies/srtx"
+  },
+  {
+    "batch": "S20",
+    "description": "The first digital payment experience company, built for B2B.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0f140790f5129a38a1edf2e297434c283bb0ca7c.png",
+    "name": "Balance",
+    "rank": 165,
+    "url": "getbalance.com",
+    "ycUrl": "https://www.ycombinator.com/companies/balance"
+  },
+  {
+    "batch": "W17",
+    "description": "Marketplace for insurance securitization.",
+    "headquarters": "Remote; United States",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3326697b08953d5914d07d4d39f5bca122a18fa8.png",
+    "name": "Ledger Investing",
+    "rank": 166,
+    "url": "ledgerinvesting.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ledger-investing"
+  },
+  {
+    "batch": "W18",
+    "description": "3D printing beautiful, high-quality, and sustainable homes.",
+    "headquarters": "Oakland, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/844d150018622773b3680a49be87e4fbbbe4a3bc.png",
+    "name": "Mighty Buildings",
+    "rank": 167,
+    "url": "mightybuildings.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mighty-buildings"
+  },
+  {
+    "batch": "S16",
+    "description": "The platform for all your life events.",
+    "headquarters": "Remote; San Francisco, CA, USA; Austin, TX, USA; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8788d5415324d0f1dfe2e0b95fa2c476ae31c275.png",
+    "name": "Joy",
+    "rank": 168,
+    "url": "withjoy.com",
+    "ycUrl": "https://www.ycombinator.com/companies/joy"
+  },
+  {
+    "batch": "W18",
+    "description": "An investment collective that builds your wealth using your data.",
+    "headquarters": "Remote; London, England, United Kingdom; New York, NY, USA; Toronto, ON, Canada",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/20832b0514186a0afae0afcfd60fcce0de0223c4.png",
+    "name": "Delphia",
+    "rank": 169,
+    "url": "delphia.com",
+    "ycUrl": "https://www.ycombinator.com/companies/delphia"
+  },
+  {
+    "batch": "W18",
+    "description": "Embedded banking software platform and marketplace",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fb0b666cc71eaf3fdcc64a67ec3b353f2339e37f.png",
+    "name": "Treasury Prime",
+    "rank": 170,
+    "url": "treasuryprime.com",
+    "ycUrl": "https://www.ycombinator.com/companies/treasury-prime"
+  },
+  {
+    "batch": "S18",
+    "description": "The complete toolkit to sell travel",
+    "headquarters": "London, England, United Kingdom",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a56646ea8754eaabe60adf7f11702391cc69ae0e.png",
+    "name": "Duffel",
+    "rank": 171,
+    "url": "duffel.com",
+    "ycUrl": "https://www.ycombinator.com/companies/duffel"
+  },
+  {
+    "batch": "W16",
+    "description": "Building foundational AI for speech transcription and understanding.",
+    "headquarters": "Remote; Ann Arbor, MI, USA; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/66d6853111f0008b026e5c57ef1f8860e400c956.png",
+    "name": "Deepgram",
+    "rank": 172,
+    "url": "deepgram.com",
+    "ycUrl": "https://www.ycombinator.com/companies/deepgram"
+  },
+  {
+    "batch": "S15",
+    "description": "Automated Accounts Payable",
+    "headquarters": "San Francisco, CA, USA; Bengaluru, KA, India; New York, NY, USA; Tampa, FL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2ddaee10acb71c657308a3d62234972fbca8392d.png",
+    "name": "Plate IQ",
+    "rank": 173,
+    "url": "plateiq.com",
+    "ycUrl": "https://www.ycombinator.com/companies/plate-iq"
+  },
+  {
+    "batch": "W18",
+    "description": "",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/166d205fe9401e4dad34c43418600c86a5b2f471.png",
+    "name": "Torch",
+    "rank": 174,
+    "url": "torch.io",
+    "ycUrl": "https://www.ycombinator.com/companies/torch"
+  },
+  {
+    "batch": "S12",
+    "description": "Secure Collaboration for Technical Teams",
+    "headquarters": "Remote; Palo Alto, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1828c07e7e0127350a2a1ce95943239d48691aaa.png",
+    "name": "Mattermost",
+    "rank": 175,
+    "url": "mattermost.com",
+    "ycUrl": "https://www.ycombinator.com/companies/mattermost"
+  },
+  {
+    "batch": "S15",
+    "description": "Digital trade financing for small businesses",
+    "headquarters": "MH, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fd4c1794856699806ba4d2424920a88c78f1f201.png",
+    "name": "Drip Capital",
+    "rank": 176,
+    "url": "dripcapital.com",
+    "ycUrl": "https://www.ycombinator.com/companies/drip-capital"
+  },
+  {
+    "batch": "W16",
+    "description": "To make food a renewable resource, for everyone",
+    "headquarters": "San Carlos, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6a367eb3261209b49872b8ae5c4bf82df615e90a.png",
+    "name": "Iron Ox",
+    "rank": 177,
+    "url": "ironox.com",
+    "ycUrl": "https://www.ycombinator.com/companies/iron-ox"
+  },
+  {
+    "batch": "S18",
+    "description": "A simple API for managing in-app subscriptions",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
+    "name": "RevenueCat",
+    "rank": 178,
+    "url": "revenuecat.com",
+    "ycUrl": "https://www.ycombinator.com/companies/revenuecat"
+  },
+  {
+    "batch": "W18",
+    "description": "Super is the first and leading Indonesian social commerce platform",
+    "headquarters": "Surabaya, East Java, Indonesia; Makassar, South Sulawesi, Indonesia",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b2e6a479f6bce7479db38cdc02766040277a9254.png",
+    "name": "Super",
+    "rank": 179,
+    "url": "superapp.id",
+    "ycUrl": "https://www.ycombinator.com/companies/super"
+  },
+  {
+    "batch": "W15",
+    "description": "Latin America's School of Technology",
+    "headquarters": "Remote; San Francisco, CA, USA; Santiago, Santiago Metropolitan Region, Chile; Mexico City, CDMX, Mexico; Madrid, Community of Madrid, Spain; Buenos Aires, CABA, Argentina; Bogotá, Bogota, Colombia; Lima, Callao Region, Peru",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b54bffd3bd06059fabfb2a7a0351e2e4c1e8e697.png",
+    "name": "Platzi",
+    "rank": 180,
+    "url": "platzi.com",
+    "ycUrl": "https://www.ycombinator.com/companies/platzi"
+  },
+  {
+    "batch": "S16",
+    "description": "Bridging a world of consumer-permissioned credit data",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4a1acae554a32ce11687de5ac7b708d914b04c5b.png",
+    "name": "Nova Credit",
+    "rank": 181,
+    "url": "novacredit.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nova-credit"
+  },
+  {
+    "batch": "S16",
+    "description": "Web3 Identity Wallet",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/190493234a6fff12dbec698756a71b558faa2267.png",
+    "name": "Proxy",
+    "rank": 182,
+    "url": "proxy.com",
+    "ycUrl": "https://www.ycombinator.com/companies/proxy"
+  },
+  {
+    "batch": "W20",
+    "description": "Better financial services for creators",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b45b4a40ee6990bb094f256f20eeef3730bba066.png",
+    "name": "Karat Financial",
+    "rank": 183,
+    "url": "trykarat.com",
+    "ycUrl": "https://www.ycombinator.com/companies/karat-financial"
+  },
+  {
+    "batch": "S19",
+    "description": "Supercharge your hiring",
+    "headquarters": "San Francisco, CA, USA; New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2f909fcfa4b1bfac3a61c82e3d1b8ee42e93bf79.png",
+    "name": "Dover",
+    "rank": 184,
+    "url": "dover.com",
+    "ycUrl": "https://www.ycombinator.com/companies/dover"
+  },
+  {
+    "batch": "S16",
+    "description": "A design brand creating innovative, award winning furniture.",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/11ae0a97ccc59088b788a8c0bab0b4819ab88ea0.png",
+    "name": "Burrow",
+    "rank": 185,
+    "url": "burrow.com",
+    "ycUrl": "https://www.ycombinator.com/companies/burrow"
+  },
+  {
+    "batch": "S19",
+    "description": "We build better immunotherapies",
+    "headquarters": "San Carlos, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6ebff96239c6b3bdc84c6e935bf7862294c380cd.png",
+    "name": "Asher Bio",
+    "rank": 186,
+    "url": "asherbio.com",
+    "ycUrl": "https://www.ycombinator.com/companies/asher-bio"
+  },
+  {
+    "batch": "S17",
+    "description": "Health enterprise API for data on doctors, insurance, costs, & quality",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cab3a7e8d27dfb21815596be3b4022593a738c64.png",
+    "name": "Ribbon Health",
+    "rank": 187,
+    "url": "ribbonhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ribbon-health"
+  },
+  {
+    "batch": "S18",
+    "description": "Simple and secure bookkeeping for Indian businesses.",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/319d958d1c1ed34dab6fa69de4c65c566d82fcc8.png",
+    "name": "OkCredit",
+    "rank": 188,
+    "url": "okcredit.in",
+    "ycUrl": "https://www.ycombinator.com/companies/okcredit"
+  },
+  {
+    "batch": "W17",
+    "description": "Mobile-first software for maintenance teams.",
+    "headquarters": "Los Angeles, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/faa6cbcaf3126fdfe71b274528ba20ca29f30eba.png",
+    "name": "UpKeep",
+    "rank": 189,
+    "url": "upkeep.com",
+    "ycUrl": "https://www.ycombinator.com/companies/upkeep"
+  },
+  {
+    "batch": "W20",
+    "description": "We are connecting every single Mexican to the financial system.",
+    "headquarters": "Mexico City, CDMX, Mexico; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/be08dda4b90b3b9b6dacc5ba166478966c41fd79.png",
+    "name": "Fondeadora",
+    "rank": 190,
+    "url": "fondeadora.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fondeadora"
+  },
+  {
+    "batch": "W20",
+    "description": "Medication & support to beat opioid addiction from home",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3cbf4c2fae04f0bf480c466e071e33c3b2be8a0d.png",
+    "name": "Ophelia",
+    "rank": 191,
+    "url": "ophelia.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ophelia"
+  },
+  {
+    "batch": "W20",
+    "description": "TrueNorth gives truckers a single place to manage their business.",
+    "headquarters": "Fort Worth, TX, USA; San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/88bc0fa14209c82724c39b4b394f18e06ea23e95.png",
+    "name": "TrueNorth",
+    "rank": 192,
+    "url": "truenorthfleet.com",
+    "ycUrl": "https://www.ycombinator.com/companies/truenorth"
+  },
+  {
+    "batch": "W19",
+    "description": "The charge card with access to coveted experiences.",
+    "headquarters": "San Francisco, CA, USA; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5267aca318aea43396ca74890f5c296b36c0e1e7.png",
+    "name": "Atlas",
+    "rank": 193,
+    "url": "atlascard.com",
+    "ycUrl": "https://www.ycombinator.com/companies/atlas-3"
+  },
+  {
+    "batch": "W18",
+    "description": "We grow cells for biotech companies.",
+    "headquarters": "South San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ac962091728b8d8d331a854791fa1b892cb9f93f.png",
+    "name": "Culture Biosciences",
+    "rank": 194,
+    "url": "culturebiosciences.com",
+    "ycUrl": "https://www.ycombinator.com/companies/culture-biosciences"
+  },
+  {
+    "batch": "W18",
+    "description": "The world's first digital clinic for substance addictions",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/04a236ea998ac803e3489444460679b872272b8e.png",
+    "name": "Quit Genius",
+    "rank": 195,
+    "url": "quitgenius.com",
+    "ycUrl": "https://www.ycombinator.com/companies/quit-genius"
+  },
+  {
+    "batch": "W16",
+    "description": "A smart-oven-paired subscription meal service.",
+    "headquarters": "Chicago, IL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5310201ff32ed85c3ae07e8b528e3b150e7e1c13.png",
+    "name": "Tovala",
+    "rank": 196,
+    "url": "tovala.com",
+    "ycUrl": "https://www.ycombinator.com/companies/tovala"
+  },
+  {
+    "batch": "S17",
+    "description": "The online coding school that invests in you.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2b6fdc259fedde3b68b83c8fefd7e604dd8a9ac0.png",
+    "name": "Bloom Institute of Technology",
+    "rank": 197,
+    "url": "bloomtech.com",
+    "ycUrl": "https://www.ycombinator.com/companies/bloom-institute-of-technology"
+  },
+  {
+    "batch": "W18",
+    "description": "Your all-in-one digital platform for trade across the Americas",
+    "headquarters": "New York, NY, USA; Mexico City, CDMX, Mexico; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
+    "name": "Nuvocargo",
+    "rank": 198,
+    "url": "nuvocargo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nuvocargo"
+  },
+  {
+    "batch": "S11",
+    "description": "Engage customers through personalized omni-channel messaging",
+    "headquarters": "San Mateo, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e909ca477c49ecc4630b711eb00e53523cd42a90.png",
+    "name": "OneSignal",
+    "rank": 199,
+    "url": "onesignal.com",
+    "ycUrl": "https://www.ycombinator.com/companies/onesignal"
+  },
+  {
+    "batch": "W19",
+    "description": "Onboard and integrate suppliers for dropship and marketplace",
+    "headquarters": "Toronto, ON, Canada; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/fba139c03e77ddf11aa6ea786e0630947149fce9.png",
+    "name": "Convictional",
+    "rank": 200,
+    "url": "convictional.com",
+    "ycUrl": "https://www.ycombinator.com/companies/convictional"
+  },
+  {
+    "batch": "W20",
+    "description": "Challenger bank for enterprises",
+    "headquarters": "São Paulo, SP, Brazil",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e1dbb85b5494650411849ba5779e10a6e394698c.png",
+    "name": "STARK BANK",
+    "rank": 201,
+    "url": "starkbank.com",
+    "ycUrl": "https://www.ycombinator.com/companies/stark-bank"
+  },
+  {
+    "batch": "S19",
+    "description": "Household needs, from bread to everything.",
+    "headquarters": "Cairo, Cairo Governorate, Egypt; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b0811b2ae46cac528f54fd8219ca136ec457ea9a.png",
+    "name": "Breadfast",
+    "rank": 202,
+    "url": "breadfast.com",
+    "ycUrl": "https://www.ycombinator.com/companies/breadfast"
+  },
+  {
+    "batch": "W21",
+    "description": "Spruce lets users control their data across the web.",
+    "headquarters": "Remote; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/68a1ca24e9abbfbe3da047d20591dcccda56d1b4.png",
+    "name": "Spruce Systems, Inc.",
+    "rank": 203,
+    "url": "spruceid.com",
+    "ycUrl": "https://www.ycombinator.com/companies/spruce-systems-inc"
+  },
+  {
+    "batch": "W20",
+    "description": "Pulley helps startups manage their equity and cap table",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e94020978bb07233af003f7335f4c64a30e4393a.png",
+    "name": "Pulley",
+    "rank": 204,
+    "url": "pulley.com",
+    "ycUrl": "https://www.ycombinator.com/companies/pulley"
+  },
+  {
+    "batch": "W14",
+    "description": "On-demand access to English tutors over video chat.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ef92cc0c693b52652b84ef72b1e2e48723ce5296.png",
+    "name": "Cambly",
+    "rank": 205,
+    "url": "cambly.com",
+    "ycUrl": "https://www.ycombinator.com/companies/cambly"
+  },
+  {
+    "batch": "S15",
+    "description": "We use human data and AI to develop better drugs faster.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c4cfdad3584cced8a30fec859292e2380372a30d.png",
+    "name": "Verge Genomics",
+    "rank": 206,
+    "url": "vergegenomics.com",
+    "ycUrl": "https://www.ycombinator.com/companies/verge-genomics"
+  },
+  {
+    "batch": "W15",
+    "description": "We automate operations for hospitals and health systems",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1defe75646f1d3885f2a5762f45c3977246f4ec8.png",
+    "name": "Qventus",
+    "rank": 207,
+    "url": "qventus.com",
+    "ycUrl": "https://www.ycombinator.com/companies/qventus"
+  },
+  {
+    "batch": "W17",
+    "description": "We make healthcare in emerging markets affordable and accessible",
+    "headquarters": "Austin, TX, USA; Lagos, LA, Nigeria; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/10030ef7dcb2b4b8041f1c934c69fda1273d6151.png",
+    "name": "Reliance Health",
+    "rank": 208,
+    "url": "getreliancehealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/reliance-health"
+  },
+  {
+    "batch": "W19",
+    "description": "Precision-first therapies",
+    "headquarters": "Remote; Palo Alto, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/91f103c5ea8ba96047f1ef891154ca0f0c8dea47.png",
+    "name": "Endpoint Health",
+    "rank": 209,
+    "url": "endpointhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/endpoint-health"
+  },
+  {
+    "batch": "W19",
+    "description": "Online engineering college for India. Learn technical skills & get…",
+    "headquarters": "Chennai, TN, India",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/93debe185cf01796dca3de42aa2f07d3e37fbab2.png",
+    "name": "Skill-lync",
+    "rank": 210,
+    "url": "skill-lync.com",
+    "ycUrl": "https://www.ycombinator.com/companies/skill-lync"
+  },
+  {
+    "batch": "W19",
+    "description": "Software for the commercial services industry.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7c5d3a6d72aa7ddc98296b94c59a3ba4b3e19f96.png",
+    "name": "Convex",
+    "rank": 211,
+    "url": "convex.com",
+    "ycUrl": "https://www.ycombinator.com/companies/convex"
+  },
+  {
+    "batch": "S18",
+    "description": "Online convenience store for residential and office buildings",
+    "headquarters": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/bee0807cb6febcaa2c22dd16ba6bbaee02ad4e89.png",
+    "name": "Avo",
+    "rank": 212,
+    "url": "avonow.com",
+    "ycUrl": "https://www.ycombinator.com/companies/avo-2"
+  },
+  {
+    "batch": "S19",
+    "description": "Helping businesses achieve their mobile future",
+    "headquarters": "Buenos Aires, CABA, Argentina; Palo Alto, CA, USA; Los Angeles, CA, USA; Salt Lake City, UT, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1671ff39ac27942e80000d91d16f869cbf382ca9.png",
+    "name": "Embrace",
+    "rank": 213,
+    "url": "embrace.io",
+    "ycUrl": "https://www.ycombinator.com/companies/embrace"
+  },
+  {
+    "batch": "W17",
+    "description": "Continuous Deployment at any scale, for all developers.",
+    "headquarters": "Remote; San Mateo, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a277dff0e01ae8e2d167bb45110ee91451328cae.png",
+    "name": "Armory",
+    "rank": 214,
+    "url": "armory.io",
+    "ycUrl": "https://www.ycombinator.com/companies/armory"
+  },
+  {
+    "batch": "S19",
+    "description": "Online pets supplies for Latin America with over 4000 products & 20…",
+    "headquarters": "Bogotá, Bogota, Colombia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d1d0a96d3caa0ed417a09c003a03a851b6493e70.png",
+    "name": "LAIKA",
+    "rank": 215,
+    "url": "laika.com.co",
+    "ycUrl": "https://www.ycombinator.com/companies/laika"
+  },
+  {
+    "batch": "S21",
+    "description": "The easiest way for any business to offer delivery",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
+    "name": "Nash",
+    "rank": 216,
+    "url": "usenash.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nash"
+  },
+  {
+    "batch": "W16",
+    "description": "The best video experiences run on Daily",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/083decee45eda78a7354a1d02bf58c39968706d4.png",
+    "name": "Daily",
+    "rank": 217,
+    "url": "daily.co",
+    "ycUrl": "https://www.ycombinator.com/companies/daily"
+  },
+  {
+    "batch": "W21",
+    "description": "High quality, on-demand content studio",
+    "headquarters": "Remote; Toronto, ON, Canada",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7c1930a0e6b9985022cea66eb7051474a32007d3.png",
+    "name": "Maker AI",
+    "rank": 218,
+    "url": "maker.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/maker-ai"
+  },
+  {
+    "batch": "S12",
+    "description": "The best way to launch, manage and measure social impact programs",
+    "headquarters": "Missoula, MT, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aab09ec98d8bdad2001ed8e71a0274b75c3da4e4.png",
+    "name": "Submittable",
+    "rank": 219,
+    "url": "submittable.com",
+    "ycUrl": "https://www.ycombinator.com/companies/submittable"
+  },
+  {
+    "batch": "S16",
+    "description": "The All-in-One Learning Platform",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8f03f4eafb54558705a3d931f287372468b614ff.png",
+    "name": "WorkRamp",
+    "rank": 220,
+    "url": "workramp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/workramp"
+  },
+  {
+    "batch": "S18",
+    "description": "End-to-end clinical trial execution built on cutting-edge software.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9070d2918d98b995f163db656f1d59d390583b53.png",
+    "name": "Curebase",
+    "rank": 221,
+    "url": "curebase.com",
+    "ycUrl": "https://www.ycombinator.com/companies/curebase"
+  },
+  {
+    "batch": "W17",
+    "description": "AI company transforming enterprise physical security to prevent…",
+    "headquarters": "San Jose, CA, USA; Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/624d0ce6f387431048bed692cfded210ffc7d139.png",
+    "name": "Ambient.ai",
+    "rank": 222,
+    "url": "ambient.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/ambient-ai"
+  },
+  {
+    "batch": "W15",
+    "description": "Personalized drug discovery for blood cancer.",
+    "headquarters": "Foster City, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c2bf47d120c3bdde2a9ad11d9f05f1c08a72ca0e.png",
+    "name": "Notable Labs",
+    "rank": 223,
+    "url": "notablelabs.com",
+    "ycUrl": "https://www.ycombinator.com/companies/notable-labs"
+  },
+  {
+    "batch": "W21",
+    "description": "Redcliffe Labs is India's Largest Omni-channel Diagnostics platform",
+    "headquarters": "Gurugram, HR, India; Delhi, DL, India; Noida, UP, India",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b9e3c4bc934297fbdde47eea1cf4c9de32e1a325.png",
+    "name": "Redcliffe Lifetech",
+    "rank": 224,
+    "url": "redcliffelabs.com",
+    "ycUrl": "https://www.ycombinator.com/companies/redcliffe-lifetech"
+  },
+  {
+    "batch": "S21",
+    "description": "SuperApp for users and merchants in LATAM",
+    "headquarters": "Caracas, Dto. Capital, Venezuela; Santa Cruz de la Sierra, Santa Cruz Department, Bolivia; Los Angeles, CA, USA; Miami, FL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/787eb4a9de615a922a26c27f02b3f9ced148e4d4.png",
+    "name": "Yummy",
+    "rank": 225,
+    "url": "yummysuperapp.com",
+    "ycUrl": "https://www.ycombinator.com/companies/yummy-inc"
+  },
+  {
+    "batch": "S15",
+    "description": "GiveCampus is the fundraising platform for schools.",
+    "headquarters": "Remote; Seattle, WA, USA; Washington, DC, USA; Burlington, VT, USA; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/55a1d2299284203df1bfdb4eb60c9ad5ca6328d2.png",
+    "name": "GiveCampus",
+    "rank": 226,
+    "url": "go.givecampus.com",
+    "ycUrl": "https://www.ycombinator.com/companies/givecampus"
+  },
+  {
+    "batch": "S20",
+    "description": "Accounting & Payments app for 60M micro-businesses in Indonesia",
+    "headquarters": "Remote; Jakarta, Jakarta, Indonesia",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ea907a1b87549241f7b6d528f2704f3c3341d802.png",
+    "name": "BukuWarung",
+    "rank": 227,
+    "url": "bukuwarung.com/app",
+    "ycUrl": "https://www.ycombinator.com/companies/bukuwarung"
+  },
+  {
+    "batch": "W14",
+    "description": "AI-powered Language Operations platform",
+    "headquarters": "Pittsburgh, PA, USA; Cebu City, Central Visayas, Philippines; San Francisco, CA, USA; Lisbon, Lisbon, Portugal; London, England, United Kingdom; Timișoara, TM, Romania; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6d36cb19e3763316417518c3b4a2fe8f501c6bbc.png",
+    "name": "Unbabel",
+    "rank": 228,
+    "url": "unbabel.com",
+    "ycUrl": "https://www.ycombinator.com/companies/unbabel"
+  },
+  {
+    "batch": "W16",
+    "description": "Self-Driving Customer Care",
+    "headquarters": "San Mateo, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a39a790ec2d3d1805e80c70308782d153f1c2294.png",
+    "name": "Netomi",
+    "rank": 229,
+    "url": "netomi.com",
+    "ycUrl": "https://www.ycombinator.com/companies/netomi"
+  },
+  {
+    "batch": "W19",
+    "description": "Develop Your CI/CD Pipelines as Code and Run Them Anywhere",
+    "headquarters": "Remote; Boulder, CO, USA; Bogotá, Bogota, Colombia; Vancouver, WA, USA; Montevideo, Montevideo Department, Uruguay; Ponta Delgada, Azores, Portugal; San Francisco, CA, USA; London, England, United Kingdom; Seattle, WA, USA; Portland, OR, USA; Lyon, Auvergne-Rhône-Alpes, France; Buenos Aires, CABA, Argentina",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a64005bed7a505fdb8ec6767c1f1c599ebf660ca.png",
+    "name": "Dagger",
+    "rank": 230,
+    "url": "dagger.io",
+    "ycUrl": "https://www.ycombinator.com/companies/dagger"
+  },
+  {
+    "batch": "W19",
+    "description": "Building software to remove friction in air travel",
+    "headquarters": "Bellevue, WA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c9d7afc54af529857754d964bfc73b84afbdd763.png",
+    "name": "Gordian Software",
+    "rank": 231,
+    "url": "gordiansoftware.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gordian-software"
+  },
+  {
+    "batch": "W14",
+    "description": "Axoni is building the next generation of capital markets technology",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8c4cc56e4a37201555dc18cf1c50c92082ad616b.png",
+    "name": "Axoni",
+    "rank": 232,
+    "url": "axoni.com",
+    "ycUrl": "https://www.ycombinator.com/companies/axoni"
+  },
+  {
+    "batch": "S19",
+    "description": "Compound is a wealth manager for people who work at tech companies.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2f11e5dada8d8ebbf9967a5104a41e9b99bc1fd2.png",
+    "name": "Compound",
+    "rank": 233,
+    "url": "withcompound.com",
+    "ycUrl": "https://www.ycombinator.com/companies/compound"
+  },
+  {
+    "batch": "W20",
+    "description": "Next-generation DNA synthesis using enzymes",
+    "headquarters": "Emeryville, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2b2832322fabbb9e5f2c1715ec5ca0ffdcf53f34.png",
+    "name": "Ansa Biotechnologies",
+    "rank": 234,
+    "url": "ansabio.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ansa-biotechnologies"
+  },
+  {
+    "batch": "S17",
+    "description": "Next-gen digital payments provider for India.",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7eb68658869d911582ae784bc8ff049cb6b4a898.png",
+    "name": "Cashfree Payments",
+    "rank": 235,
+    "url": "cashfree.com",
+    "ycUrl": "https://www.ycombinator.com/companies/cashfree-payments"
+  },
+  {
+    "batch": "S15",
+    "description": "Powers OTT online video providers with video developer tools.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d22ccb72e758575588245bb8f517bbe35f7421e7.png",
+    "name": "Bitmovin",
+    "rank": 236,
+    "url": "bitmovin.com",
+    "ycUrl": "https://www.ycombinator.com/companies/bitmovin"
+  },
+  {
+    "batch": "S17",
+    "description": "LTSE is an ecosystem for visionary business.",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c4eb3cefb725e1a8d1e43e578f29268446d786af.png",
+    "name": "Long Term Stock Exchange",
+    "rank": 237,
+    "url": "ltse.com",
+    "ycUrl": "https://www.ycombinator.com/companies/long-term-stock-exchange"
+  },
+  {
+    "batch": "S18",
+    "description": "Wealth manager",
+    "headquarters": "Santiago, Santiago Metropolitan Region, Chile; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cbf5d38f9bacbb95da30894913569c413307b19d.png",
+    "name": "Fintual",
+    "rank": 238,
+    "url": "fintual.com",
+    "ycUrl": "https://www.ycombinator.com/companies/fintual"
+  },
+  {
+    "batch": "S17",
+    "description": "APIs for AI models",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/10887edbd9771d54d34bdf7780c6f3cda92e7366.png",
+    "name": "AssemblyAI",
+    "rank": 239,
+    "url": "assemblyai.com",
+    "ycUrl": "https://www.ycombinator.com/companies/assemblyai"
+  },
+  {
+    "batch": "S22",
+    "description": "Modern enterprise software for sales leaders",
+    "headquarters": "Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
+    "name": "TigerEye",
+    "rank": 240,
+    "url": "tigereye.com",
+    "ycUrl": "https://www.ycombinator.com/companies/tigereye"
+  },
+  {
+    "batch": "W18",
+    "description": "Health insurance for remote teams",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ddb944ea80d22a29ddc64949877063e0dd8d1343.png",
+    "name": "SafetyWing",
+    "rank": 241,
+    "url": "safetywing.com",
+    "ycUrl": "https://www.ycombinator.com/companies/safetywing"
+  },
+  {
+    "batch": "S14",
+    "description": "API platform for partners to issue branded debit and credit cards to…",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/75e540aa00e6d4d7c686312ec0d7b3d44772f12e.png",
+    "name": "Apto Payments",
+    "rank": 242,
+    "url": "aptopayments.com",
+    "ycUrl": "https://www.ycombinator.com/companies/apto-payments"
+  },
+  {
+    "batch": "S19",
+    "description": "Have you heard of Ready Player One?  We're building it for real people",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a7c073a2ccf01b410c9d549753dd965b8febee93.png",
+    "name": "Ramen VR",
+    "rank": 243,
+    "url": "ramenvr.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ramen-vr"
+  },
+  {
+    "batch": "S19",
+    "description": "The Universal API for commerce and accounting",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/58546f561c6a3cd285083ee0d5e1c3c9c285fcb2.png",
+    "name": "Rutter",
+    "rank": 244,
+    "url": "rutterapi.com",
+    "ycUrl": "https://www.ycombinator.com/companies/rutter"
+  },
+  {
+    "batch": "S20",
+    "description": "Platform for breakthrough mental health research and treatment",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b4f3d459b478dce62a166d067de40d57ce74e9b0.png",
+    "name": "Osmind",
+    "rank": 245,
+    "url": "osmind.org",
+    "ycUrl": "https://www.ycombinator.com/companies/osmind"
+  },
+  {
+    "batch": "W19",
+    "description": "Eclipse Foods is building the future of dairy using micelles, the…",
+    "headquarters": "Oakland, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/515be9fcda4dad738d6f69b48e4df0e71ed64103.png",
+    "name": "Eclipse Foods",
+    "rank": 246,
+    "url": "eclipsefoods.com",
+    "ycUrl": "https://www.ycombinator.com/companies/eclipse-foods"
+  },
+  {
+    "batch": "S20",
+    "description": "Gilgamesh Pharmaceuticals, a Clinical stage biotechnology company…",
+    "headquarters": "Remote; New York, NY, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/22862a35e633350fc6345c3ab3f594a54629f1b2.png",
+    "name": "Gilgamesh Pharmaceuticals",
+    "rank": 247,
+    "url": "gilgameshpharmaceutical.com",
+    "ycUrl": "https://www.ycombinator.com/companies/gilgamesh-pharmaceuticals"
+  },
+  {
+    "batch": "W21",
+    "description": "All-in-one real estate marketplace for Latin America",
+    "headquarters": "Santiago, Santiago Metropolitan Region, Chile; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f58147331ea247e7f1b2605dfc3f60dbee27a141.png",
+    "name": "Houm",
+    "rank": 248,
+    "url": "houm.com",
+    "ycUrl": "https://www.ycombinator.com/companies/houm"
+  },
+  {
+    "batch": "S18",
+    "description": "High throughput design of cells for therapeutics applications.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/19742afe098c42bc063afc58ef5bcbe750051380.png",
+    "name": "64x Bio",
+    "rank": 249,
+    "url": "64xbio.com",
+    "ycUrl": "https://www.ycombinator.com/companies/64x-bio"
+  },
+  {
+    "batch": "S21",
+    "description": "The bank for young solo entrepreneurs.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a16a09957704451334262d0e10e575dc15ff06d1.png",
+    "name": "Slash",
+    "rank": 250,
+    "url": "joinslash.com",
+    "ycUrl": "https://www.ycombinator.com/companies/slash"
+  },
+  {
+    "batch": "S16",
+    "description": "A carbon MRV solution for energy and hard-to-abate sectors",
+    "headquarters": "Toronto, ON, Canada; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/95373ab4e095e01315210960a86d3d588ac47f83.png",
+    "name": "Validere",
+    "rank": 251,
+    "url": "validere.com",
+    "ycUrl": "https://www.ycombinator.com/companies/validere"
+  },
+  {
+    "batch": "W15",
+    "description": "Inspection software for renewable energy & sustainable infrastructure",
+    "headquarters": "Remote; Santa Monica, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/06e32a7ff9f034ea9a91bf3c37be592aaf617047.png",
+    "name": "Zeitview",
+    "rank": 252,
+    "url": "zeitview.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zeitview"
+  },
+  {
+    "batch": "W21",
+    "description": "We’re on a mission, and it starts with 100% reusable rockets.",
+    "headquarters": "Seattle, WA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5b6ec112b5b27c2252e3d1392c3e444d8ddbd451.png",
+    "name": "Stoke Space",
+    "rank": 253,
+    "url": "stokespace.com",
+    "ycUrl": "https://www.ycombinator.com/companies/stoke-space"
+  },
+  {
+    "batch": "S18",
+    "description": "We build cities for people, not cars.",
+    "headquarters": "Tempe, AZ, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
+    "name": "Culdesac",
+    "rank": 254,
+    "url": "culdesac.com",
+    "ycUrl": "https://www.ycombinator.com/companies/culdesac"
+  },
+  {
+    "batch": "S19",
+    "description": "Global mobility platform for companies and employees",
+    "headquarters": "Remote; San Francisco, CA, USA; Lisbon, Lisbon, Portugal; New York, NY, USA; London, England, United Kingdom; Berlin, Berlin, Germany; Hamburg, HH, Germany; Barcelona, CT, Spain; Amsterdam, NH, Netherlands",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1a073d7b6fb46a3985e339af2a958647f0f4ae4d.png",
+    "name": "Localyze",
+    "rank": 255,
+    "url": "localyze.com",
+    "ycUrl": "https://www.ycombinator.com/companies/localyze"
+  },
+  {
+    "batch": "W21",
+    "description": "Digital ledger App for Latam microbusinesses",
+    "headquarters": "Bogotá, Bogota, Colombia; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/22a2db8472fb087e350b2fb2e013f633f97d013d.png",
+    "name": "Treinta",
+    "rank": 256,
+    "url": "treinta.co",
+    "ycUrl": "https://www.ycombinator.com/companies/treinta"
+  },
+  {
+    "batch": "S21",
+    "description": "The IP operating system for creating, managing and protecting IPs",
+    "headquarters": "Los Angeles, CA, USA; Paris, Île-de-France, France; Seoul, Seoul, South Korea; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e090676e13257c11dfb75067589489f952bb4bb5.png",
+    "name": "MarqVision",
+    "rank": 257,
+    "url": "marqvision.com",
+    "ycUrl": "https://www.ycombinator.com/companies/marqvision"
+  },
+  {
+    "batch": "W21",
+    "description": "Carbon capture for semi-trucks",
+    "headquarters": "Detroit, MI, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/22b6829346a08e83b56852b94f5e8748a17be818.png",
+    "name": "Remora",
+    "rank": 258,
+    "url": "remoracarbon.com",
+    "ycUrl": "https://www.ycombinator.com/companies/remora"
+  },
+  {
+    "batch": "W19",
+    "description": "All-in-one recruiting software for high growth companies",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/84f5ec42a731e2a4bc57b3b87ef4d96724952ff6.png",
+    "name": "Ashby",
+    "rank": 259,
+    "url": "ashbyhq.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ashby"
+  },
+  {
+    "batch": "W19",
+    "description": "Precision medicine for Africans and the global population",
+    "headquarters": "Lagos, LA, Nigeria",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f0d268f1433885c466eead20338651157ba4886f.png",
+    "name": "54Gene",
+    "rank": 260,
+    "url": "54gene.com",
+    "ycUrl": "https://www.ycombinator.com/companies/54gene"
+  },
+  {
+    "batch": "S18",
+    "description": "Africa's leading supply chain technology platform.",
+    "headquarters": "Kampala, Central Region, Uganda; Lagos, LA, Nigeria; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3747c5c49f2601da338131da70e02c5d928efb09.png",
+    "name": "Kobo360",
+    "rank": 261,
+    "url": "kobo360.com",
+    "ycUrl": "https://www.ycombinator.com/companies/kobo360"
+  },
+  {
+    "batch": "S19",
+    "description": "Construction & industrial logistics platform.",
+    "headquarters": "Ventura, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/d0def2ab990562a326f79a5b928123d9101a44ba.png",
+    "name": "Curri",
+    "rank": 262,
+    "url": "curri.com",
+    "ycUrl": "https://www.ycombinator.com/companies/curri"
+  },
+  {
+    "batch": "W17",
+    "description": "Local services marketplace that connects providers with new customers",
+    "headquarters": "Seoul, South Korea",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/949d18eff196662c6fe0d32da65dd061d3b005b5.png",
+    "name": "Soomgo",
+    "rank": 263,
+    "url": "soomgo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/soomgo"
+  },
+  {
+    "batch": "S18",
+    "description": "Transforms how grocery stores buy highly perishable foods.",
+    "headquarters": "Seattle, WA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/30d8273cf77bf9ee7c72f1c08b3457034ba910b3.png",
+    "name": "Shelf Engine",
+    "rank": 264,
+    "url": "shelfengine.com",
+    "ycUrl": "https://www.ycombinator.com/companies/shelf-engine"
+  },
+  {
+    "batch": "W19",
+    "description": "The first SecretOps Platform.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/3d95925328b3ae3b4a268f9a6c805059711c5235.png",
+    "name": "Doppler",
+    "rank": 265,
+    "url": "doppler.com",
+    "ycUrl": "https://www.ycombinator.com/companies/doppler"
+  },
+  {
+    "batch": "W13",
+    "description": "We're Robinhood for pre-IPO startups. Everyone can invest $100.",
+    "headquarters": "San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
+    "name": "Wefunder",
+    "rank": 266,
+    "url": "wefunder.com",
+    "ycUrl": "https://www.ycombinator.com/companies/wefunder"
+  },
+  {
+    "batch": "W19",
+    "description": "Find beautiful homes",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/dcf6e1a573bd469deaf497a44224b21356c1f65e.png",
+    "name": "ZeroDown",
+    "rank": 267,
+    "url": "zerodown.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zerodown"
+  },
+  {
+    "batch": "W17",
+    "description": "Snappr is the one-stop-shop for visual content creation",
+    "headquarters": "Medellín, Antioquia, Colombia; San Francisco, CA, USA; Manila, NCR, Philippines",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2d4b8eea553ccc3ff1a645fc2affd4f8c5fc3b26.png",
+    "name": "Snappr",
+    "rank": 268,
+    "url": "snappr.com",
+    "ycUrl": "https://www.ycombinator.com/companies/snappr"
+  },
+  {
+    "batch": "S18",
+    "description": "An online provider for greater mental health",
+    "headquarters": "Helsinki, Finland; San Mateo, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff0e4ec05f88c63eda462c8b5d235f5b4a5e19c0.png",
+    "name": "Meru Health",
+    "rank": 269,
+    "url": "meruhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/meru-health"
+  },
+  {
+    "batch": "S18",
+    "description": "Pine Park Health opens doctor offices in assisted living facilities.",
+    "headquarters": "Oakland, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1105aeef684fcc3dee8229702c50ea3f518ac8e1.png",
+    "name": "Pine Park Health",
+    "rank": 270,
+    "url": "Pineparkhealth.com",
+    "ycUrl": "https://www.ycombinator.com/companies/pine-park-health"
+  },
+  {
+    "batch": "W21",
+    "description": "Electric boat-planes for fast, affordable regional transportation",
+    "headquarters": "North Kingstown, RI, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e0c83c9ecbf81c8809be20d15fe4abf91f2789dc.png",
+    "name": "REGENT",
+    "rank": 271,
+    "url": "regentcraft.com",
+    "ycUrl": "https://www.ycombinator.com/companies/regent"
+  },
+  {
+    "batch": "S11",
+    "description": "Powering scientific outsourcing",
+    "headquarters": "Remote; Palo Alto, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0db3228fbd884724c2ad75aeac20b60376478518.png",
+    "name": "Science Exchange",
+    "rank": 272,
+    "url": "scienceexchange.com",
+    "ycUrl": "https://www.ycombinator.com/companies/science-exchange"
+  },
+  {
+    "batch": "W17",
+    "description": "Banking and payment services for small businesses in Nigeria",
+    "headquarters": "Lagos, LA, Nigeria; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/df1f2387282fcfbd2c12fe132115b6a2f5601924.png",
+    "name": "Nomba",
+    "rank": 273,
+    "url": "nomba.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nomba"
+  },
+  {
+    "batch": "W20",
+    "description": "Open Finance API platform for Latam.",
+    "headquarters": "São Paulo, SP, Brazil; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/8a630e8e8c65d44c6d85d84dfe4c115d9c8671c2.png",
+    "name": "Belvo",
+    "rank": 274,
+    "url": "belvo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/belvo"
+  },
+  {
+    "batch": "W20",
+    "description": "BeGo Connects cargo shippers with truck suppliers in Mexico and US",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/41774322b4a2953269f06a425e25469f1a097d69.png",
+    "name": "BeGo",
+    "rank": 275,
+    "url": "bego.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/be-go"
+  },
+  {
+    "batch": "W21",
+    "description": "A bank for remote workers connected to payroll",
+    "headquarters": "Remote; Miami, FL, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5dbb79988f18a52e0b199ca7f510d224c687729f.png",
+    "name": "Ontop",
+    "rank": 276,
+    "url": "getontop.com",
+    "ycUrl": "https://www.ycombinator.com/companies/ontop"
+  },
+  {
+    "batch": "S19",
+    "description": "Insurance and Risk Management for Landlords",
+    "headquarters": "Sarasota, FL, USA; Chicago, IL, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c757df7647cbc57ffb24fcd425ca28f9f9c83f8d.png",
+    "name": "Obie",
+    "rank": 277,
+    "url": "ObieInsurance.com",
+    "ycUrl": "https://www.ycombinator.com/companies/obie"
+  },
+  {
+    "batch": "W21",
+    "description": "Buy and grow profitable e-commerce companies selling on Amazon and DTC",
+    "headquarters": "Remote; Washington, DC, USA; Miami, FL, USA; Toronto, ON, Canada",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/28e8b66601bd99b04c0ccbfe410627db14923431.png",
+    "name": "Moonshot Brands",
+    "rank": 278,
+    "url": "moonshotbrands.com",
+    "ycUrl": "https://www.ycombinator.com/companies/moonshot-brands"
+  },
+  {
+    "batch": "W16",
+    "description": "Tools to build financial security for people with essential jobs",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/7ab8fa26571630366add5d76d46ba876b673c7b9.png",
+    "name": "Landed",
+    "rank": 279,
+    "url": "landed.com",
+    "ycUrl": "https://www.ycombinator.com/companies/landed"
+  },
+  {
+    "batch": "W11",
+    "description": "Zerocater is building better workplace culture through food.",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a645292b4d6ec9338b10e2556390bfcc54ee0b7a.png",
+    "name": "Zerocater",
+    "rank": 280,
+    "url": "zerocater.com",
+    "ycUrl": "https://www.ycombinator.com/companies/zerocater"
+  },
+  {
+    "batch": "W19",
+    "description": "Nabis is the largest licensed cannabis wholesale platform.",
+    "headquarters": "San Francisco, CA, USA; New York, NY, USA; Los Angeles, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6b1f0448fe9e816db7b8e9986418bb4e67d4f019.png",
+    "name": "Nabis",
+    "rank": 281,
+    "url": "nabis.com",
+    "ycUrl": "https://www.ycombinator.com/companies/nabis"
+  },
+  {
+    "batch": "S19",
+    "description": "Modern online payments for the Philippines",
+    "headquarters": "Taguig, NCR, Philippines; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/4dbbdf11aa95883486f40814fe98f6187b29b527.png",
+    "name": "PayMongo",
+    "rank": 282,
+    "url": "paymongo.com",
+    "ycUrl": "https://www.ycombinator.com/companies/paymongo"
+  },
+  {
+    "batch": "W18",
+    "description": "Voice-controlled games on smart speakers, TVs, and mobile",
+    "headquarters": "San Francisco, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9f0d1fed30e4c74c866f99e37ec1de04b5bbc0bd.png",
+    "name": "Volley",
+    "rank": 283,
+    "url": "volleythat.com",
+    "ycUrl": "https://www.ycombinator.com/companies/volley"
+  },
+  {
+    "batch": "S20",
+    "description": "🖼️ Give your software the sense of sight.",
+    "headquarters": "Remote; Des Moines, IA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
+    "name": "Roboflow",
+    "rank": 284,
+    "url": "roboflow.com",
+    "ycUrl": "https://www.ycombinator.com/companies/roboflow"
+  },
+  {
+    "batch": "S19",
+    "description": "We help companies scale marketing campaigns through WhatsApp",
+    "headquarters": "Remote; Seattle, WA, USA; São Paulo, SP, Brazil",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e327caabc10297ebb160260940994aa368fe6f3d.png",
+    "name": "treble.ai",
+    "rank": 285,
+    "url": "treble.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/treble-ai"
+  },
+  {
+    "batch": "W20",
+    "description": "Open source product operating system",
+    "headquarters": "Remote; San Francisco, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f0b4836a182b382bf652dda6326d85410d0f78be.png",
+    "name": "PostHog",
+    "rank": 286,
+    "url": "posthog.com",
+    "ycUrl": "https://www.ycombinator.com/companies/posthog"
+  },
+  {
+    "batch": "S19",
+    "description": "Legacy helps you test, improve, and freeze your sperm",
+    "headquarters": "Remote; Cambridge, MA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/1c02b41e587eed23f3ca35f6f7c921db840e8cbb.png",
+    "name": "Legacy",
+    "rank": 287,
+    "url": "givelegacy.com",
+    "ycUrl": "https://www.ycombinator.com/companies/legacy"
+  },
+  {
+    "batch": "S19",
+    "description": "Open-source, design centric software for interacting with blockchains",
+    "headquarters": "New York, NY, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/28f27645fc5edf8589ed512ab974bba4e165bad1.png",
+    "name": "Rainbow",
+    "rank": 288,
+    "url": "rainbow.me",
+    "ycUrl": "https://www.ycombinator.com/companies/rainbow"
+  },
+  {
+    "batch": "W21",
+    "description": "Amazon-like logistics for e-commerce companies in Latam",
+    "headquarters": "Buenos Aires, CABA, Argentina; Mexico City, CDMX, Mexico",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/900e06ccec71c45e4dd753c77d8990799b8ae20e.png",
+    "name": "clicOH",
+    "rank": 289,
+    "url": "clicoh.com",
+    "ycUrl": "https://www.ycombinator.com/companies/clicoh"
+  },
+  {
+    "batch": "S15",
+    "description": "Long range, wireless energy distribution that scales",
+    "headquarters": "Emeryville, CA, USA",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2996d2661354e506266f6122ea522379aa429590.png",
+    "name": "Reach Labs",
+    "rank": 290,
+    "url": "reachlabs.co",
+    "ycUrl": "https://www.ycombinator.com/companies/reach-labs"
+  },
+  {
+    "batch": "S20",
+    "description": "E-commerce personalization for fashion",
+    "headquarters": "Stockholm, Stockholm County, Sweden; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ab7c0b045e631107c80e1bfa7e008c9c211f8bb9.png",
+    "name": "Depict",
+    "rank": 291,
+    "url": "depict.ai",
+    "ycUrl": "https://www.ycombinator.com/companies/depict"
+  },
+  {
+    "batch": "S19",
+    "description": "India’s first neobank for teenagers",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/319c4ca66fa53bdc1e6c40bcff4a0ea5aebe575d.png",
+    "name": "FamPay",
+    "rank": 292,
+    "url": "fampay.in",
+    "ycUrl": "https://www.ycombinator.com/companies/fampay"
+  },
+  {
+    "batch": "S20",
+    "description": "Automated ERP for distributors.",
+    "headquarters": "San Francisco, CA, USA; Los Angeles, CA, USA; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/5fe4ce1410d8f06bc2d1f59d61a7c96d9c9fccdd.png",
+    "name": "Recurrency",
+    "rank": 293,
+    "url": "recurrency.com",
+    "ycUrl": "https://www.ycombinator.com/companies/recurrency"
+  },
+  {
+    "batch": "S21",
+    "description": "Corporate Card solution for Indian businesses",
+    "headquarters": "Bengaluru, KA, India; Remote",
+    "logoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/17ef37d6752b041cef8cbde238930aba2834a6a3.png",
+    "name": "Karbon Card",
+    "rank": 294,
+    "url": "karboncard.com",
+    "ycUrl": "https://www.ycombinator.com/companies/karbon-card"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "description": "Walter Cruttenden, who previously ran the investment banking arm of E-Trade, and his son Jeff started fintech Acorns in 2012 with the idea to \"round up\" customers’ spare change from debit- and credit-card purchases and automatically invest it. They focused on ETFs, building an algorithm with help from Nobel Prize-winning economist Harry Markowitz. In 2014, the duo launched and brought in CEO Noah Kerner, a 42-year-old serial entrepreneur. Acorns, which has 7.7 million users and $2.3 billion of assets under management, charges $1 a month for investments. It also offers retirement and checking accounts for $3 a month. On March 18, 2020, as the S&P 500 dropped 5%, Acorns saw its biggest surge of new customers in a day. \"Every downturn has ended in an upturn,\" says Kerner.",
+    "equity": "$257 mil",
+    "founders": "Jeff Cruttenden, Walter Cruttenden;  CEO: Noah Kerner",
+    "investors": "Bain Capital, e.ventures, Greycroft, NBCUniversal, PayPal, TPG Capital",
+    "name": "Acorns",
+    "revenue": "$50 mil"
+  },
+  {
+    "description": "Looking for an online class on Coursera’s website, or checking NPR for your favorite radio show? You may not know it, but you’ll be using Algolia’s software. Those companies and the likes of Twitch, Under Armour and Slack are among 9,000 businesses that rely on Algolia to power the search boxes on their sites and, in turn, increase online engagement and revenue. Visitors make 3 billion searches a day with the San Francisco-based firm’s help. Now the startup is also offering to automatically personalize websites for each visitor and provide analytics on what happens after a search, like whether it leads to a purchase. \"The bar of expectations of a great experience is set by Google, Netflix and Facebook, and it’s only getting higher,\" says cofounder Dessaigne, 43. \"99.9% of companies can’t bridge that gap between what they could do internally and expectations of their users. That’s where we fit in.\"",
+    "equity": "$184 mil",
+    "founders": "Nicolas Dessaigne, Julien Lemoine; CEO: Bernadette Nixon",
+    "investors": "Accel, Alven, SaaStr Fund, Salesforce Ventures",
+    "name": "Algolia",
+    "revenue": "$50 mil"
+  },
+  {
+    "description": "From its headquarters in New York, Andela works to solve the tech-worker shortage in the United States by identifying and training software developers in Africa and then embedding them into the remote engineering teams of companies like Microsoft, Facebook and Google. Johnson, 36, cofounded the company two months after taking his first startup, online education firm 2U, public in 2014. \"We have become the primary pipeline connecting the technology ecosystems across Africa with the U.S,\" he says. Though the Covid-19 pandemic has slowed Andela’s plans for expansion as companies freeze hiring, Johnson argues that over the long term it will increase companies’ comfort with hiring workers thousands of miles away.",
+    "equity": "$181 mil",
+    "founders": "Iyinoluwa Aboyeji, Ian Carnevale, Nadayar Enegesi, Jeremy Johnson (CEO), Brice Nkengsa, Christina Sass",
+    "investors": "Chan Zuckerberg Initiative, CRE Venture Capital, Generation Investment Management, Spark Capital",
+    "name": "Andela",
+    "revenue": "$50 mil"
+  },
+  {
+    "description": "Wickramasekara was an undergrad at MIT when he came up with the idea for a cloud-based Crispr design tool to help scientists. Eight years later, Regeneron, Gilead and hundreds of other companies use its collaborative R&D software. As many customers rush to come up with vaccines and treatments for Covid-19, Benchling is on call as needed—but has stopped pushing software updates to those whose projects require total lockdown.",
+    "equity": "$114 mil",
+    "founders": "Ashu Singhal,  Sajith Wickramasekara (CEO)",
+    "investors": "Alkeon, Andreessen Horowitz, Benchmark, Menlo Ventures, Thrive Capital, Y Combinator",
+    "name": "Benchling",
+    "revenue": "$21 mil"
+  },
+  {
+    "description": "Five years ago, Kinariwala waited nearly an hour in line at his local Duane Reade to get medication for a sinus infection, only to find out it was out of stock. The experience led him to start New York City-based Capsule, which offers its pharmacy services by text or app, with free courier delivery to your door within a two-hour window. During the coronavirus crisis, \"[Capsule] went from something that was a convenience to essential,\" says Kinariwala, 37, who has an M.B.A. from Stanford and previously worked as a retail and healthcare investor. Having succeeded in the New York City market and flush with cash, Capsule is now plotting out future expansion. \"We’ll be everywhere in the next 18 months,\" Kinariwala says. \"We’re not going to launch one at a time. There will be a bunch of places.\"",
+    "equity": "$270 mil",
+    "founders": "Eric Kinariwala (CEO)",
+    "investors": "Glade Brook Capital, TCV, Thrive Capital",
+    "name": "Capsule",
+    "revenue": "$100 mil"
+  },
+  {
+    "description": "Cybersecurity insurance firm Coalition helps companies recover up to $15 million in losses from ransomware attacks, extortion, fraud and security breaches. It also helps prevent those losses by scanning the internet to detect vulnerabilities and alert users to potential threats. Motta, 36, who previously fought against cyberspace adversaries while at the CIA, joined forces with Hering, the 37-year-old former CEO of mobile cybersecurity unicorn Lookout, to launch the San Francisco-based firm. \"When I was working for the government, there was no mandate to protect companies,\" Motta says. \"With Coalition we can protect American businesses, particularly those that aren’t big enough to afford comprehensive cybersecurity technologies.\"",
+    "equity": "$125 mil",
+    "founders": "John Hering, Joshua Motta (CEO)",
+    "investors": "Hillhouse Capital, Ribbit Capital, Valor Equity Partners, Vy Capital",
+    "name": "Coalition",
+    "revenue": "$27 mil"
+  },
+  {
+    "description": "Cockroaches are notoriously tough to kill. Entrepreneur Kimball, 46, likes the analogy at his startup, Cockroach Labs. Companies run off the startup’s cloud-based relational databases, he says, are more resilient, shielded from outages or system failures. \"You’re not doing postmortems,\" he says. New York-based Cockroach Labs has built an impressive clientele of nearly 100 clients, including Bose, Comcast and Netflix. In May, the company raised $87 million, valuing it at $850 million. \"We’ve brought the category into the cloud era,\" says Kimball.",
+    "equity": "$195 mil",
+    "founders": "Ben Darnell, Spencer Kimball (CEO), Peter Mattis",
+    "investors": "Altimeter, Benchmark, Bond, GV, Index Ventures, Redpoint",
+    "name": "Cockroach Labs",
+    "revenue": "$5 mil"
+  },
+  {
+    "description": "Cofounders Junio and Kraning came up with the idea for Expanse while serving as consultants to Darpa, the Department of Defense’s research arm. Today the San Francisco-based startup provides customers, such as CVS and PayPal, with an overview of their internet-connected assets including domains, IP addresses and cloud infrastructure, allowing them to monitor online vulnerabilities and cyberattacks. \"I realized that with declining costs of computation, bandwidth and data storage startups could now index the internet for exposures the same way governments with huge budgets could,\" says Junio, 36.",
+    "equity": "$136 mil",
+    "founders": "Tim Junio (CEO), Matt Kraning, Shaun Maguire",
+    "investors": "Founders Fund, IVP, New Enterprise Associates, TPG Capital",
+    "name": "Expanse",
+    "revenue": "$30 mil"
+  },
+  {
+    "description": "When Fivetran’s cofounders, Fraser and Brown, first launched the automated data-integration company in 2012, the pair saw little interest from investors. Over time, however, the value of data integration has become clear. \"It is a really valuable form of infrastructure if you do it well, like power coming out of a wall,\" says CEO Fraser, 36, a former scientist at Emerald Therapeutics. Fivetran, whose name is a play on IBM’s 1950s coding system, Fortran, centralizes an organization’s data from siloed sources using pre-built connectors so that it’s available for complex data analytics. So far the company has built more than 130 automated connectors to data sources that include Salesforce, Oracle and Dropbox. Customers include Square, DocuSign and ClassPass.",
+    "equity": "$60 mil",
+    "founders": "Taylor Brown, George Fraser (CEO)",
+    "investors": "Andreessen Horowitz, CEAS, Matrix Partners, Y Combinator",
+    "name": "Fivetran",
+    "revenue": "$15 mil"
+  },
+  {
+    "description": "Gong’s software automatically ingests and scans a user’s communications with customers—emails, phone calls or video chats—to detect who is ready to pitch for an upgrade, or at risk of closing their account. The time savings makes the Big Brother-like discomfort of being so closely tracked an easy tradeoff, says CEO Bendov. \"It’s like having Google versus a human-curated directory,\" he says. Bendov, 55, the former CEO of business-intelligence software startup SiSense, teamed up with Eilon Reshef, 48, who previously cofounded software firm WebCollage, to launch Gong in 2015. Some businesses have struggled during the spread of Covid-19 as workers stay home, but San Francisco-based Gong is benefiting. \"Trends that we thought would take years, for people to work more remotely, are happening in weeks,\" Bendov says.",
+    "equity": "$133 mil",
+    "founders": "Amit Bendov (CEO), Eilon Reshef",
+    "investors": "Battery Ventures, Norwest Venture Partners, Sequoia",
+    "name": "Gong",
+    "revenue": "$20 mil"
+  },
+  {
+    "description": "After devastating wildfires ripped through California’s wine country (where Abraham and Pechet each have homes) in 2017, the cofounders started Homebound in nearby Santa Rosa to help other homeowners rebuild—managing each step from building permits and insurance claims to design and construction. \"As we watched people try to navigate the process and the complexity of everything they had to do to build a home, we knew there were really simple technology tools that were used in other industries that could make the process simpler,\" says CEO Pechet, 38. Today Homebound is rebuilding 150 homes lost to fires.",
+    "equity": "$53 mil",
+    "founders": "Jack Abraham,  Nikki Pechet (CEO)",
+    "investors": "Atomic, Fifth Wall, Thrive Capital",
+    "name": "Homebound",
+    "revenue": "$10 mil"
+  },
+  {
+    "description": "\"Contracts are the atomic unit of business, but they’re slow, inefficient and uninteresting to make,\" says Ironclad cofounder Boehmig. That’s where Ironclad steps in. The San Francisco-based startup’s software allows businesses to process, edit, share and reference contracts with ease. Customers including MasterCard, Staples and Reddit work closely with Ironclad’s team of legal engineers to customize Ironclad for their needs. Chief technical officer GoGwilt, 31, is an ex-Palantir engineer with three degrees from MIT; CEO Boehmig, 38, is a former investment banker and corporate lawyer.",
+    "equity": "$84 mil",
+    "founders": "Jason Boehmig (CEO), Cai GoGwilt",
+    "investors": "Accel, Sequoia, Y Combinator",
+    "name": "Ironclad",
+    "revenue": "$10 mil"
+  },
+  {
+    "description": "About 50 million people suffer from mental health issues every year in the United States, but the biggest hurdle isn’t treatment—it’s access. Ebersman, 50, left his job as Facebook’s chief financial officer in 2014 to tackle the problem. Lyra’s solution: Help companies offer mental-health benefits to their employees. Some 40 companies have jumped on board, including eBay, Pinterest and Starbucks, giving more than a million people access to Lyra’s 3,000 therapists, coaches and physicians. Now the coronavirus is further stressing Americans and putting a spotlight on mental health. The Burlingame, California-based company expects revenue to double this year, to $100 million. \"Today more than ever, companies are aware this is an important part of the puzzle,\" Ebersman says.",
+    "equity": "$176 mil",
+    "founders": "Dena Bravata,  David Ebersman (CEO), Bob Kocher, Bryan Roberts",
+    "investors": "Glynn Capital, Greylock Partners, IVP, Meritech Capital, Tenaya Capital, Venrock",
+    "name": "Lyra Health",
+    "revenue": "$50 mil"
+  },
+  {
+    "description": "Its $1,495 tech-enabled mirrors serve as home gyms; customers then pay another $39 a month for unlimited exercise classes in everything from cardio and strength to yoga. Putnam, a 36-year-old former ballerina and founder of boutique fitness studio Refine Method, launched the product two years ago. Already growing fast before the coronavirus closed gyms and sent workers home, New York City-based Mirror is \"seeing Christmas in April,\" she says.",
+    "equity": "$72 mil",
+    "founders": "Brynn Putnam (CEO)",
+    "investors": "Lerer Hippeau, Point72 Ventures, Spark Capital",
+    "name": "Mirror",
+    "revenue": "$45 mil"
+  },
+  {
+    "description": "With the help of AI, the company automates IT support using natural-language processing so that tasks such as unlocking accounts or adding colleagues to email groups can be resolved technologically rather than with the help of an actual IT person. \"On average, it takes at least three days for an IT ticket at a large enterprise to get resolved, which is not fast enough for a modern economy,\" says CEO Shah. \"With Moveworks’ natural language processing, we can resolve these same issues in minutes, or even seconds.\" The Mountain View, California-based startup launched in 2016. Two years later, its custom-built AI was able to resolve just 5% to 8% of a company’s IT tickets. Today, thanks to sophisticated machine learning, that number has surged to roughly 40%, gaining customers that include Broadcom and LinkedIn. Shah, a 42-year-old serial entrepreneur, now hopes to expand beyond IT to human resources, legal, marketing and finance.",
+    "equity": "$105 mil",
+    "founders": "Jiang Chen, Vaibhav Nivargi, Bhavin Shah (CEO), Varun Singh",
+    "investors": "Bain Capital, Iconiq Capital, Kleiner Perkins, Lightspeed",
+    "name": "Moveworks",
+    "revenue": "$10 mil"
+  },
+  {
+    "description": "Four years after Zenefits’ controversial founder Conrad resigned under pressure, he’s back with Rippling. The startup’s software manages employees’ payroll, benefits, hardware and applications all in one place, making sure that onboarding employees goes smoothly and saving small and medium-size businesses time on administrative work.",
+    "equity": "$100 mil",
+    "founders": "Parker Conrad (CEO), Prasanna Sankar",
+    "investors": "Initialized Capital, Kleiner Perkins, Y Combinator",
+    "name": "Rippling",
+    "revenue": "$10 mil"
+  },
+  {
+    "description": "Serial entrepreneur Traff, 37, learned about shipping the hard way with a previous startup, CopyCat Paintings, a Hong Kong-based art reproduction business. \"We dealt with blackmail, extortion and one kidnapping. We solved all the problems, except for shipping,\" he recalls. So in 2017, he teamed up with Price, 38, a former McKinsey consultant focused on supply-chain issues, to start Shipwell. Helped by AI and machine learning, Austin, Texas-based Shipwell offers freight tracking and analytics that can improve efficiency and save customers like Premier Packaging and Crystal Geyser millions in shipping costs. \"With the global pandemic, companies realize the supply chain is no longer back-office,\" Traff says. \"It is mission critical.\"",
+    "equity": "$47 mil",
+    "founders": "Gregory Price (CEO), Jason Traff",
+    "investors": "Fifth Wall, First Round Capital, Georgian Partners",
+    "name": "Shipwell",
+    "revenue": "$30 mil"
+  },
+  {
+    "description": "Founders Peterson, Galbreath and Lackey met as developers at Etsy, where they designed cybersecurity for the site’s e-commerce operations. In the process, they realized that they were at the forefront of a real security need. In 2014, they founded Los Angeles-based Signal Sciences, which protects companies’ Web apps from cyberattacks. Demand is booming as work that used to happen on intranets now happens over the open web as employees work from home. CEO Peterson, 36, expects the remote-work trend to accelerate in the future.",
+    "equity": "$62 mil",
+    "founders": "Nick Galbreath, Zane Lackey, Andrew Peterson (CEO)",
+    "investors": "CRV, Harrison Metal, Index Ventures, Lead Edge Capital, OATV",
+    "name": "Signal Sciences",
+    "revenue": "$30 mil"
+  },
+  {
+    "description": "SmartRent brings smart home technology, such as smart locks and thermostats, to multifamily properties. The Scottsdale, Arizona, startup charges up to $1,000 for installation and hardware, plus $5 to $10 a month. The smart locks let potential tenants take private, self-guided tours of vacant apartments, a service expected to be particularly important during the pandemic. SmartRent has partnered with nearly 100 owners, including Essex Property Trust (also an investor) to get its home-tech in 90,000 units—with a goal to hit 300,000 by year-end. CEO Haldeman, 42, was previously chief technology officer at Colony Starwood Homes (now Invitation Homes) and knows the pain property owners face. \"We’re really operators,\" he says. \"We aren’t tech guys; we’re not in the Bay Area.\"",
+    "equity": "$102 mil",
+    "founders": "Lucas Haldeman (CEO)",
+    "investors": "Bain Capital, RET Ventures, Spark Capital",
+    "name": "SmartRent",
+    "revenue": "$35 mil"
+  },
+  {
+    "description": "Chakrabarti and Hunt, both 31, developed strains of gene-edited bacteria with enzymes that can turn corn sugar into chemicals that are usually made by breaking down oil. The Houston outfit can then biologically produce ingredients for hand sanitizer and clean up wastewater. Next up, CEO Chakrabarti hopes to develop sustainable fertilizers for farmers.",
+    "equity": "$68 mil",
+    "founders": "Gaurab Chakrabarti (CEO), Sean Hunt",
+    "investors": "Fifty Years, Founders Fund, Y Combinator",
+    "name": "Solugen",
+    "revenue": "$12 mil"
+  },
+  {
+    "description": "Superhuman, which charges Gmail and iPhone users $30 per month, claims to help users get through emails twice as fast in pursuit of \"inbox zero\": an inbox clear of messages requiring a response. Its founders sold their previous startup, plug-in Rapportive, to LinkedIn in 2012.",
+    "equity": "$51 mil",
+    "founders": "Conrad Irwin, Vivek Sodera, Rahul Vohra (CEO)",
+    "investors": "Andreessen Horowitz, First Round",
+    "name": "Superhuman",
+    "revenue": "$20 mil"
+  },
+  {
+    "description": "Serial entrepreneur Brown, 40, has been thinking about how to help people overcome debt since he was a teenager in a household where money was tight. \"Especially among the educated elite in America, there’s a big lack of empathy for people who don’t reach their financial goals,\" he says. He didn’t think that giving people the context and tools to handle debt was enough to solve the problem. So in 2015, he founded Tally, an automated app that helps people pay off their credit-card debt, with Platz, 40. With Tally users take photos of their credit cards and, if they qualify (they must have a FICO score of 660 or higher), Tally offers them a new line of credit. Then its algorithm determines a single monthly payment and prioritizes payments based on their interest rates. Credit-card debt is expensive (with an average APR of 15.05% last year, according to the Federal Reserve), and Tally says it can typically save users five percentage points on their rates. The San Francisco-based company currently manages $500 million of debt, a number that’s likely to grow as consumer debt mounts.",
+    "equity": "$92 mil",
+    "founders": "Jason Brown (CEO), Jasper Platz",
+    "investors": "Andreessen Horowitz, Cowboy Ventures, Kleiner Perkins, Shasta Ventures",
+    "name": "Tally",
+    "revenue": "$20 mil"
+  },
+  {
+    "description": "Tray’s workflow automation tools help businesses with such tasks as generating marketing leads and processing payments. British expats Waldron, Russell and Lewis started Tray in London in 2012 and bootstrapped for five years (sometimes reselling boots on eBay to raise cash) before getting substantial funding from investors and relocating to San Francisco. Now customers, including Zendesk and GitHub, pay $595 and up a month. By integrating applications through a graphical interface, Tray aids marketing teams in automatically generating and contacting leads and spares IT departments hours slogging through boilerplate code. \"We’ve written Tray to allow people to get ahead,\" says CEO Waldron, 35.",
+    "equity": "$109 mil",
+    "founders": "Dominic Lewis, Alistair Russell, Richard Waldron (CEO)",
+    "investors": "GGV Capital, Meritech Capital, Mosaic Ventures, Spark Capital, True Ventures",
+    "name": "Tray.io",
+    "revenue": "$15 mil"
+  },
+  {
+    "description": "Trusted Health helps match nurses with the hospitals that need them. Founders Sliwinski, 33, and Pierce, 32, met at Hired, where they learned about marketplaces, and adapted that knowledge to nursing, spurred by the experience of Sliwinski’s mother, a nurse. The U.S. faces a shortage of nurses, and even before the coronavirus pandemic, the three-year-old company’s business was booming. Since then, San Francisco-based Trusted has been scrambling to keep up with demand. \"We’ve seen an unprecedented increase in signups and a threefold increase in open roles on our platform [at the pandemic’s peak],\" says Pierce, who notes that upwards of 1,500 hospitals have signed up on the site. While this year is for keeping up with demands in nursing, in the longer term, Trusted figures its business model could be adapted to other healthcare workers.",
+    "equity": "$25 mil",
+    "founders": "Matt Pierce, Lennie Sliwinski (CEO)",
+    "investors": "Craft Ventures, Felicis Ventures, Founder Collective",
+    "name": "Trusted Health",
+    "revenue": "$28 mil"
+  },
+  {
+    "description": "Back in 2008, Brandon Rodman started his first company, Recall Solutions, to help dentists schedule appointments over the phone. He soon realized that texting could be more efficient. \"The phone is still super important, [but] nobody has made it more powerful,\" says Rodman, 39. In 2011, Rodman took that idea to start Lehi, Utah-based Weave. He focused on dentists at first, then added optometrists, clinics, veterinarians and other professionals, the majority of whom pay $595 per month for its products, including VoIP phones, pay terminals and two-way texting. With the coronavirus pushing businesses to rethink operations, Weave has added a \"curbside waiting room\" that lets patients text when they’ve arrived and businesses respond when they’re ready.",
+    "equity": "$152 mil",
+    "founders": "Clint Berry, Brandon Rodman (CEO), Jared Rodman",
+    "investors": "A.Capital Ventures, Catalyst Investors, Crosslink Capital, Lead Edge Capital, Tiger Global Management",
+    "name": "Weave",
+    "revenue": "$50 mil"
+  }
+]

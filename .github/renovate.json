@@ -1,0 +1,28 @@
+{
+  "extends": [
+    ":combinePatchMinorReleases",
+    ":disableRateLimiting",
+    ":enableVulnerabilityAlertsWithLabel(security)",
+    ":timezone(America/Denver)",
+    "config:js-app",
+    "group:allNonMajor",
+    "npm:unpublishSafe",
+    "schedule:weekly"
+  ],
+  "hostRules": [
+    {
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//Vdd8YkmLphsADvgJmuBZM+Txc3MqhSEkecYQSq+aTgUvtQJo3xVIM67PuD2FcAXg2evJpgGSsfTJbllxd8Inm+Q76l5Srp0R7NTbZ2PfxFyW94gkYwYnFso56O8VVZTGq9Q0UxiTkPe48cO77OvU+nRXWPFVmRoIVCSZ/YohDoP4Nv72Q8Nei6vQpyk+kxXVs7pWBLQ7JfRc+l4oPH5zP33mpntiHQCb3BDYTbe0T0+MYIFDKvBoiAmHwvmkzksQywLPfY/+oc4f9fe9fcvSpeCqbJ1bTEWW4xXi9ccXqsKm/jA9LZv5TwltsRAcNgW6rYbQc2RY4A29wXABwDsdzU80DDvsS2gzg/HuJYf8LgJYn5at9DrYKSOxvdE4D/YrvkaUPUzEwKzO9680WBuMKYpZPqJWukd1E9uMPB7cIWWG6V3ylqPOC1oBsoUPOWu2sx04UXKtNW8p9j10x1CuxgyDFWtkm0E1O2Wu7qXl4VCdgXoZMAJK3Bd4SSXOkTAmqKaP7PJnXWGld3quIjlRoqrnj0C54rMCY8YJuLmqsuSamaoDwxyViG0+LROOYcnkCPjsfCEKs3XafSIThxWrMAwWiOGgVHlal+yWy1Onf+Soz7rTokSZLzE4EJb+g1vvNYYnDvQGAx4PdJPI5JlObKvtxg/hwaokGEfAL9fDwgXSdwFN8LlhZmD5CHwwmGElmCusBArDhSaxZlTqQ2XQTt545pbF8aL7HVbbLo7grPB4JgPNeyRaaVcs78vTI8JRBGjHCUqpHtB1tunSfdfiygmCdXv31ikFcI7hMOhOQY+BMr5erqjhlm8cYFpZTKWoPI+SN5Bv7O3c"
+      },
+      "hostType": "npm",
+      "matchHost": "https://npm.fontawesome.com/"
+    }
+  ],
+  "packageRules": [
+    {
+      "automerge": true,
+      "matchDepTypes": ["devDependencies"],
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
+    }
+  ]
+}

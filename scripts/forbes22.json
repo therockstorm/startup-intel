@@ -1,0 +1,202 @@
+[
+  {
+    "description": "When Warren, 33, and Bandeali, 31, met six years ago, they shared a belief that all forms of value, be it traditional assets such as fiat currencies, stocks and bonds or digital collectibles like video game items, would eventually be tokenized. \"We envisioned a future where there are billions of these different types of tokens,\" says Warren. With this idea in mind, he and Bandeali started 0x Labs, which enables developers and businesses to create new markets for their tokens on major blockchains, including Ethereum and Avalanche. The San Francisco-based firm also operates decentralized exchange (DEX) aggregator Matcha, a search engine of sorts that helps traders optimize costs by showing the best prices across a number of exchanges. Last month, Matcha handled approximately $1 billion of the total $5.2 billion in DEX aggregator trading. In April, 0x partnered with Coinbase, the largest cryptocurrency exchange in the U.S., to power Coinbase's new marketplace for NFTs.",
+    "equity": "$85 million",
+    "founders": "Amir Bandeali (co-CEO), Will Warren (co-CEO)",
+    "investors": "Greylock Partners, Pantera Capital",
+    "name": "0x Labs",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "Three years ago, Velivela, 32, who had previously worked as a robotics engineer at self-driving car company Cruise, teamed up with Misra (ex-Uber) and Arora (who'd developed a cryptocurrency price-tracking app) to launch an Uber for buses. After Covid hit, they quickly pivoted to working on a Stripe or Square for transportation. As they traveled to trucking hubs like Stockton, California, to find out what truckers needed, they learned about fuel cards offered by Wex and Fleetcor and thought they could do better. With AtoB, they built a dashboard where truckers could see the price of fuel, their exact fuel charges and the like, all of it connected with the fleet-tracking software. \"We can use the telematics to prevent fraud and improve fuel efficiency,\" Velivela says. With a zero-fee fuel card that offers a five-cents-per-gallon discount gaining traction with truckers and the recent launch of a new payroll product, revenue is expected to surpass $20 million this year.",
+    "equity": "$100 million",
+    "founders": "Harshita Arora, Tushar Misra, Vignan Velivela (CEO)",
+    "investors": "Bloomberg Beta, Elad Gil, General Catalyst",
+    "name": "AtoB",
+    "revenue": "$2 million"
+  },
+  {
+    "description": "The cofounders met at Texas Instruments where they had the idea for a new chip business to remove bottlenecks throughout data centers. The problem was that connectivity wasn't keeping up with advances in artificial intelligence and machine learning. \"That was the aha moment for us,\" says Gajendra, 48. \"This AI and machine learning train is heading really fast.\" So in 2017, they quit their jobs to start Santa Clara, California-based Astera to create connectivity solutions that could help keep data flowing. It designs its chips on the cloud, speeding up that process, and has them fabricated by TSMC. To get Amazon's AWS as an early customer, the founders went to their contacts and told them why they'd need such a solution to data-center bottlenecks. \"I don't know how convinced they were, but in the past we had done a good job on execution,\" says Mohan, 49. \"When they got convinced was when we delivered on our commitment. Customers now come to us, and say, â€˜We have this problem, how do we solve it?'\" With data centers growing fast, Astera's revenue is expected to reach $100 million this year.",
+    "equity": "$85 million",
+    "founders": "Sanjay Gajendra, Jitendra Mohan (CEO), Casey Morrison",
+    "investors": "Avigdor Willenz Group, Fidelity, Sutter Hill",
+    "name": "Astera Labs",
+    "revenue": "$35 million"
+  },
+  {
+    "description": "Nearly four-year-old Atmosphere offers what CEO Leo Resig, 42, describes as \"audio-optional\" videos from YouTube, Snapchat, TikTok and other sources for bars, beauty salons, doctors' offices and other businesses. Resig and his brother John, 43, had first delved into the world of streaming in 2015 when they sought to extend the reach of their first combined ventureâ€\"theChive, a Buzzfeed-esque websiteâ€\"via video content, creating Chive TV. Recognizing they couldn't compete in the crowded consumer space filled with media goliaths with deep pockets, the brothers launched Austin, Texas-based Atmosphere in 2018. Free for facilities, the service is supported by ad revenue from clients such as Jack Daniel's, DraftKings, government agencies and state lotteries. Atmosphere now streams in more than 30,000 venues globally, capturing 35 million unique visitors a month.",
+    "equity": "$140 million",
+    "founders": "Alen Durbuzovic, Michael Grisko, John Resig, Leo Resig (CEO), Eric Spielman",
+    "investors": "S3 Ventures, SageView Capital, Valor Equity Partners",
+    "name": "Atmosphere",
+    "revenue": "$25 million"
+  },
+  {
+    "description": "After waiting too long to get a haircut and forgetting to call until late at night, Stavropoulos, 35, wondered why getting a hair appointment wasn't as easy as ordering a pizza. \"We were just ranting in a Millennial kind of way,\" says Danna, 34. \"Why is this so inconvenient?\" Soon, the two were going door-to-door to interview salon owners in Santa Monica, California. They quit their jobs at social content firm Fullscreen and started Boulevard in 2016 as a simple booking platform. Today, the Los Angeles-based company, which operates in all 50 states, helps more than 2,000 salons, spas and nail salons. Its biggest customer is a high-end department store chain. While the company started with booking, today it gets most of its revenue from handling payments. Boulevard even offers customers its own silver box that can sit on the front desk to handle transactions. \"It's wildly efficient and it gives us control,\" Stavropoulos says. \"That has turned into our most profitable and healthy revenue stream.\"",
+    "equity": "$130 million",
+    "founders": "Matt Danna (CEO), Sean Stavropoulos",
+    "investors": "Bonfire Ventures, Index Ventures, Point72, Toba Capital",
+    "name": "Boulevard",
+    "revenue": "$16 million"
+  },
+  {
+    "description": "At the 2018 Mobile World Congress in Barcelona, Shah presented a thesis to a potential customer about how enterprises needed better wireless connectivity to power their automation and digital transformation. Four years later, Celona, named as a tribute to the city of Barcelona, offers technology that helps companies deploy, operate and integrate 5G cellular technology with their existing IT infrastructure. \"We are on a journey of making cellular as accessible to enterprises as WiFi has been over the last 15 to 20 years,\" says Shah, 44, who previously worked as an executive at Federated Wireless. The Cupertino, California-based company, which counts Verizon and Google as clients, expects revenue to triple this year.",
+    "equity": "$100 million",
+    "founders": "Vinay Anneboina, Ravi Mulam, Rajeev Shah (CEO), Mehmet Yavuz",
+    "investors": "DigitalBridge Group, Lightspeed Venture Partners, Norwest Venture Partners, NTT Venture Capital, Qualcomm Ventures",
+    "name": "Celona",
+    "revenue": "$3 million"
+  },
+  {
+    "description": "Nigerian immigrant Arodiogbu, 31, cofounded CloudTrucks after selling self-driving car startup Scotty Labs to DoorDash in 2019. While other startups focus on digital freight, CloudTrucks, based in San Francisco, helps truckers, especially small owner-operators, manage operations. For instance, it offers insurance at a lower cost than a one- or two-man trucking operation could otherwise get. \"We don't just help them on transactions,\" Arodiogbu says. \"We help them generate more revenue, improve cash flow, lower costs and meet compliance, which is more challenging these days.\" With 3.4 million truck drivers in the U.S., Arodiogbu, who had been a product manager at HR firm Zenefits before it crashed in 2015 and at tech-enabled real estate firm Opendoor in 2016, has bigger plans, including such tools as a no-fee credit card for truck drivers. \"We have invested a lot in the software and data science to help them,\" he says.",
+    "equity": "$142 million",
+    "founders": "Tobenna Arodiogbu (CEO), George Ezenna, Jin Shieh",
+    "investors": "Caffeinated Capital, Craft Ventures, Tiger Global",
+    "name": "CloudTrucks",
+    "revenue": "$4 million"
+  },
+  {
+    "description": "CEO Kudale, who was formerly the chief operations officer of a cloud-security company, spent 100 days at a startup accelerator in Des Moines, Iowa, working on the launch of his own cyber insurance shop. Founded in January 2019, Cowbell, located in Pleasanton, California, uses artificial intelligence to identify risks and has signed on more than 18,000 small and midsize businesses as policy holders. Kudale, a clay pigeon shooting enthusiast, chose the name Cowbell for its reference to attracting the whereabouts of a herd as it moves from one place to another. \"Cowbell is a risk detection or early warning signal,\" he says. \"Cybersecurity response has to go beyond response and recovery.\"",
+    "equity": "$123 million",
+    "founders": "Trent Cooksley, Rajeev Gupta, Jack Kudale (CEO), Prab Reddy",
+    "investors": "Anthemis Group, Brewer Lane Ventures, Manchester Story Group",
+    "name": "Cowbell Cyber",
+    "revenue": "$20 million"
+  },
+  {
+    "description": "Elprin, 38, started Domino Data Lab with two colleagues from billionaire Ray Dalio's Bridgewater Associates. Having worked with the world's largest enterprises at the hedge fund, the trio developed Domino with the same customers in mind. The San Francisco-based startup hopes to go big by convincing large companies to pay for its subscription-based product rather than spending the resources to build their own data science setups. Bayer and Lockheed Martin, for instance, now have hundreds of data scientists who use Domino to accelerate research and speed development of AI models. At Bayer, Domino's software has helped the agricultural division to figure out how to increase seed production for farmers, while at Johnson & Johnson, it's helped to accelerate scientists' ability to find cancer cells in research. The venture arm of cloud giant Snowflake recently invested in the nine-year-old startup.",
+    "equity": "$228 million",
+    "founders": "Nick Elprin (CEO), Chris Yang, Matthew Granade",
+    "investors": "Coatue, Great Hill Partners, Highland Capital Partners, Sequoia Capital, Zetta Venture Partners",
+    "name": "Domino Data Lab",
+    "revenue": "$50 million"
+  },
+  {
+    "description": "Israeli immigrant Barzilai, 38, launched two companies in his 20s. Like many founders, he offered his employees equity as part of their compensation package, but noticed few ever actually exercised their options. More than 55% of startup stock options go unexercised, leaving a stunning $33 billion on the table, he says. \"Early startup employees are extremely valuable and many that should be wealthy today aren't,\" he says. \"Equity needs to be equitable.\" For his third act, Barzilai and friends Golan and Radashkovich launched EquityBee in 2018 to help employees understand their options and cash out by connecting them with accredited investors. Employees get funds immediately for their private-company equity and avoid the risk of taking out a loan in hopes that their startup will go public or be acquired. Investors pay a discounted price based on past valuations and receive a percentage of the future value of the employees' stock, which is held by EquityBee in an investment fund. As for EquityBee, it gets a 5% fee from the seller and receives any carried interest when companies are sold or go public. So far it has helped thousands of employees at more than 100 startups and claims to have minted a myriad of new millionaires.",
+    "equity": "$87 million",
+    "founders": "Oren Barzilai (CEO), Oded Golan, Mody Radashkovich",
+    "investors": "Group 11",
+    "name": "EquityBee",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "When onetime semi-professional soccer player Herd, 32, tried to build a fintech company in his native Scotland, he couldn't get workers to relocate. In 2019, he pivoted, launching FirstBase to streamline equipment management for remote workers. FirstBase automates the purchase, setup and return of equipment like laptops, desks and chairs to support remote businesses. \"Remote work democratizes talent and offers such a higher quality of life,\" he says. In the early days, Herd sold bitcoin to fund the business and stayed in a 24-room hostel in London to pitch investors. Today the company serves more than 100 clients, which pay an average of $12 a month per employee for its software.",
+    "equity": "$65 million",
+    "founders": "Trey Bastian, Chris Herd (CEO)",
+    "investors": "Alpaca VC, Andreessen Horowitz, Kleiner Perkins",
+    "name": "FirstBase",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "Fountain helps businesses including Deliveroo, Stitch Fix and Sweetgreen find hourly workers. To do so, the San Francisco-based company relies on robotic process automation. It nudges applicants with texts that start with the basics (\"Are you over 18?\") to find people who match the job and keep them engaged, then offers those candidates on-the-spot interviews. Cai and Ryu, who are 25 and 30, launched the company in 2014. Two years ago, they brought on Behr, who'd previously founded fleet management startup Stratim, as CEO to help the company expand.",
+    "equity": "$225 million",
+    "founders": "Jeremy Cai, Keith Ryu, Sean Behr (CEO)",
+    "investors": "B Capital, DCM Ventures, Origin Ventures, SoftBank, Uncork Capital",
+    "name": "Fountain",
+    "revenue": "$40 million"
+  },
+  {
+    "description": "More than 70 million people work hourly jobs as dishwashers, cooks, forklift operators and the like. Meghani, 41, who previously managed a sales team of 150 at Groupon, founded Instawork, located in San Francisco, in 2015 to match these workers (it has 2 million in its system) with open positions using its own algorithm. Job applicants get access for free, while customers (including the stadiums of the New York Yankees and Mets) pay various percentages depending on the job type. \"I spend a lot of time thinking about what a LinkedIn for hourly workers would look like,\" Meghani says. He had earlier tried to start a company that made educational games, but the seed of the idea for Instawork came while talking to the owner of an Italian restaurant in San Francisco's North Beach neighborhood about how hard it was to hire dishwashers. Instawork paid its placed workers an average hourly rate of $19.68 in June; they can opt to receive the money on a debit card almost immediately after clocking out of a shift. Even if the economy should fall into recession, Meghani figures Instawork will continue to do well matching part-timers with companies that might no longer want permanent employees.",
+    "equity": "$100 million",
+    "founders": "Sumir Meghani (CEO), Saureen Shah",
+    "investors": "Benchmark, Craft Ventures, Spark Capital",
+    "name": "Instawork",
+    "revenue": "$100 million"
+  },
+  {
+    "description": "In 2012, Snejina Zacharia, then an M.B.A. student at MIT, had a car accident that caused her insurance premiums to spike. She searched online for more than three hours and called agents and carriers directly. After filling out the same forms multiple times, she learned she could lower her premiums only by tripling her deductible. \"Insurance shopping is complicated; it's fragmented; people don't have an easy way to search all carriers in one place,\" says Zacharia, 45, a native of Bulgaria who came to the U.S. in 2003. So she started Insurify to enable users to search, compare, buy and manage their car, home and life insurance policies all in one place. She cofounded the company with her husband, Giorgos Zacharia, 48, a native of Cyprus who is now president of travel firm Kayak, and Kiryazov, 37, former director of digital strategy at Northeastern University. Today, the Cambridge, Massachusetts, firm has 160 employees, nearly one third split between Pakistan and her hometown of Sofia. Zacharia says success hasn't come easy: \"It's much harder when you're a foreigner, and double harder when you're a female founder.\"",
+    "equity": "$128 million",
+    "founders": "Giorgos Zacharia, Snejina Zacharia (CEO), Tod Kiryazov",
+    "investors": "MassMutual Ventures, Motive Insurtech, Nationwide Ventures, Rationalwave, Viola FinTech",
+    "name": "Insurify",
+    "revenue": "$40 million"
+  },
+  {
+    "description": "Kin Insurance uses machine learning to offer better, cheaper home insurance. It runs aerial imagery through an image-processing algorithm, and analyzes databases like the multiple listing service to come up with an accurate determination of the state of the house to be insured. Because traditional insurance companies don't get good data by asking owners and agents architectural questions, they \"price too high for homes that are less risky and price too low for homes that are more risky,\" says Harper, 42, who previously worked as a management consultant with Boston Consulting. The Chicago-based company expects premiums to more than double this year to $250 million.",
+    "equity": "$227 million",
+    "founders": "Sean Harper (CEO), Lucas Ward",
+    "investors": "500 Startups, August Capital, Commerce Ventures, Flourish, Hudson Structured Capital, Senator Investment Group, QED Investors",
+    "name": "Kin Insurance",
+    "revenue": "$30 million"
+  },
+  {
+    "description": "Smith, 36, sold his membership-based online grocery service Shipt to Target for $550 million in 2018. Now he's back with Landing, another member networkâ€\"this one for furnished apartments with flexible leases. (See story.)",
+    "equity": "$237 million",
+    "founders": "Bill Smith (CEO)",
+    "investors": "Delta-v Capital, Foundry Group, Greycroft",
+    "name": "Landing",
+    "revenue": "$83 million"
+  },
+  {
+    "description": "In 2016, Smith, 31, and Silverman, 38, realized they could transform the burgeoning wholesale legal cannabis market with software. Until then, the industry had largely relied on an old-school daisy chain of phone calls, meetups and bags of cash. Today, New York City-based LeafLink's wholesale marketplace helps 8,300 retail outlets across 30 states buy cannabis products online from 3,400 brands. The company also launched a payment product to reduce the amount of cash transactions in the $25 billion legal industry, which has limited access to the banking system thanks to the continued federal ban on marijuana.",
+    "equity": "$131 million",
+    "founders": "Zach Silverman, Ryan Smith (CEO)",
+    "investors": "Founders Fund, L2, Lerer Hippeau, Nosara Capital, Thrive",
+    "name": "LeafLink",
+    "revenue": "$28 million"
+  },
+  {
+    "description": "Sunak, 38, and Combs, 39, founded LinkSquares in 2015 to offer AI-driven software to help businesses manage their contracts. They'd struggled with just that issue after their previous employer was sold, and the company's new owners sought information about the contracts that had been executed. \"Contracts weren't tracked and all of them were sort of different,\" Sunak recalls. \"Chris and I cold-emailed hundreds of business general counsels and found the problem wasn't unique to us. We found contract management in general was a super painful, manual time-suck of a problem.\" Sunak, an engineer by trade, spent a year and a half building the software before signing on his first customer. It's now used by more than 600 companies including Fitbit, Wayfair and TGI Fridays, which pay between $20,000 and $500,000 for the software.",
+    "equity": "$162 million",
+    "founders": "Chris Combs, Vishal Sunak (CEO)",
+    "investors": "G Squared, Hyperplane, Jump Capital, Sorenson Capital",
+    "name": "LinkSquares",
+    "revenue": "$11 million"
+  },
+  {
+    "description": "Former Bain consultant Eidelman, 37, founded his first company, Whistleâ€\"a pet-tracking device businessâ€\"in 2012. Four years later it was acquired by Mars Petcare for an undisclosed price, and Eidelman became an entrepreneur in residence at Mars, spending a lot of time in its veterinary clinics Banfield and VCA. \"Seeing how out-of-date these clinics were made me want to create pet care for the 21st century,\" he says. With Bowman, 39, and Jacobs, 35, Eidelman set up members-only service Modern Animal in 2019. It has four locations in Los Angeles, seven more on the way in L.A. and San Francisco and a mobile app through which customers can set up in-person appointments or get 24/7 virtual care. It has 20,000 members (who currently pay $129 a year to join) and a waiting list of thousands more.",
+    "equity": "$150 million",
+    "founders": "David Bowman, Steven Eidelman (CEO), Ben Jacobs",
+    "investors": "Founders Fund, True Ventures",
+    "name": "Modern Animal",
+    "revenue": "$5 million"
+  },
+  {
+    "description": "This Miami-based fintech focuses exclusively on small businesses, offering them easy, affordable banking that includes no monthly fees or minimum balances, refunds on all ATM fees, mobile apps and exclusive perks. Not a bank itself, it partners with Middlesex Federal Savings. Rangel, 35, the son of Cuban immigrants who grew up in Miami, founded Novo in 2016. It has signed up more than 100,000 customers since. Last year, the firmâ€\"which is also on the Forbes Fintech 50â€\"processed around $5 billion of total transactions.",
+    "equity": "$136 million",
+    "founders": "Tyler McIntyre, Michael Rangel (CEO)",
+    "investors": "Crosslink Capital, Stripes, Valar Ventures",
+    "name": "Novo",
+    "revenue": "$8 million"
+  },
+  {
+    "description": "Ocrolus uses automation to analyze financial documents. It can easily classify them, capture key data fields, detect fraud and classify cash flows. What makes Ocrolus, founded in 2014, different is that it combines automation with more than 700 human data verifiers to solve for quality control. Bobley, 30, says that the pairing of software with human quality control allows Ocrolus to handle documents where data isn't in the same place each time and where the image quality is imperfect, such as faxes and scans. The New York City-based company counts PayPal, SoFit and Plaid among its customers.",
+    "equity": "$127 million",
+    "founders": "Peter Bobley, Sam Bobley (CEO), John Guerci, Victoria Meakin",
+    "investors": "Bullpen Capital, Fin Capital, Laconia, Oak HC/FT",
+    "name": "Ocrolus",
+    "revenue": "$27 million"
+  },
+  {
+    "description": "Using machine learning to analyze bank transactions, Petal offers credit cards to people who might previously have been disqualified. It has two no-annual-fee cardsâ€\"one for those with fair or poor credit and another for those with thin or no creditâ€\"that reward on-time payments with cash back starting at 1%. \"Traditional credit scores just look at debt,\" says Jason (Gross) Rosen, 35. \"Petal chooses to look at spending and the holistic picture of people's financial lives including income, bills and savings.\" Since its 2017 launch, the New York City-based company has issued more than 300,000 cards with its banking partner WebBank. More than 40% of those approved by Petal last year had previously been denied credit, according to Petal's CEO. The company won't disclose default rates.",
+    "equity": "$240 million",
+    "founders": "Jack Arenas, David Ehrich, Andrew Endicott, Jason (Gross) Rosen (CEO), Berk Ustun",
+    "investors": "Brooklyn Bridge Ventures, Tarsadia Investments, Valar Ventures",
+    "name": "Petal",
+    "revenue": "$26 million"
+  },
+  {
+    "description": "The trio founded R-Zero in April 2020 in an effort to use ultraviolet-based disinfection to slow the spread of Covid-19. Helped by chief scientist Richard Wade, who had worked in the areas of air pollution and public health since 1975, R-Zero developed affordable UV-based hardware that disinfects, software and sensors that gauge certain risks to air quality and a dashboard to provide analytics. Its low price, in turn, enabled it to sell to schools, restaurants, hotels and corporations. Today, the company, located in Salt Lake City, hopes to use its technology to change how people think about indoor air quality long after the pandemic has receded from view. \"I think we can come out of Covid and build a safer, healthier new normal,\" says Morgan, 33, who was previously vice president of engineering at startup iCracked and worked on stent development at Abbott. R-Zero's revenue is on track to triple this year.",
+    "equity": "$170 million",
+    "founders": "Ben Boyer, Eli Harris, Grant Morgan (CEO)",
+    "investors": "CDPQ, DBL Partners, World Innovation Lab",
+    "name": "R-Zero",
+    "revenue": "$13 million"
+  },
+  {
+    "description": "CEO Mehta, who developed more than 15 apps as a teen, cofounded Secureframe at age 23 after facing delays when trying to pass complex security reviews and certifications for his previous employer. \"I thought maybe we can automate this in a couple of different ways,\" says Mehta, a first-generation Indian who has a bachelor's degree in computer science from University of California, Santa Cruz. Today, the San Francisco-based company provides security and compliance automation services that integrate with a company's human resources, IT systems and cloud services.",
+    "equity": "$78 million",
+    "founders": "Shrav Mehta (CEO), Natasja Nielsen",
+    "investors": "Accomplice Ventures, Base10 Partners, Gradient Ventures, Kleiner Perkins",
+    "name": "Secureframe",
+    "revenue": "$6 million"
+  },
+  {
+    "description": "Settle, headquartered in San Francisco, is a cash-flow management firm that mostly helps small e-commerce brands that sell cookware, furniture and a host of other items. Its big differentiator, Koenig says, is that it has its own working capital so customers can choose to pay for items such as inventory and marketing with their own money or with Settle's, then pay Settle back once they generate order revenue. Koenig, 36, a Polish immigrant and Johns Hopkins grad, worked as head of credit for fintech Affirm until 2019. \"To compete with something that has a lot of customers and strong network effects, you can't build something slightly better, you have to build something 10x better,\" he says.",
+    "equity": "$82 million",
+    "founders": "Aleksander Koenig (CEO)",
+    "investors": "Founders Fund, Kleiner Perkins, Ribbit Capital, SciFi Ventures",
+    "name": "Settle",
+    "revenue": "$14 million"
+  }
+]
