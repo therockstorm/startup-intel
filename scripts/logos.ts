@@ -1,36 +1,44 @@
+import { createWriteStream } from "node:fs";
+import { dirname, join } from "node:path";
+import type { Stream } from "node:stream";
+import { fileURLToPath } from "node:url";
+
 import axios from "axios";
 import { camelCase } from "camel-case";
-import { createWriteStream } from "fs";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
 
 import COMPANIES from "../src/data/list.json" assert { type: "json" };
-import { Company } from "../src/lib/types.js";
+import type { Company } from "../src/lib/types.js";
+import { isNullOrUndefined } from "../src/lib/util.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const companies: Company[] = COMPANIES;
-// const companies = [{ name: "yCombinator" }];
 
 await Promise.all(
   companies.map(async (c) => {
-    const res = await axios.get(
+    const response = await axios.get(
       `https://autocomplete.clearbit.com/v1/companies/suggest?query=${encodeURIComponent(
         c.name
       )}`,
       { validateStatus: () => true }
     );
-    if (res.data == null || res.data.length === 0 || res.data[0].logo == null) {
+    if (
+      isNullOrUndefined(response.data) ||
+      response.data.length === 0 ||
+      isNullOrUndefined(response.data[0].logo)
+    ) {
       console.log("No data for", c.name);
       return undefined;
     }
-    const img = await axios({
+
+    const imgResponse = await axios<Stream>({
       method: "get",
       responseType: "stream",
-      url: res.data[0].logo,
+      url: response.data[0].logo as string,
       validateStatus: () => true,
     });
-    return img.data.pipe(
+
+    return imgResponse.data.pipe(
       createWriteStream(
         join(__dirname, "..", "storage", "logos", `${camelCase(c.name)}.png`)
       )

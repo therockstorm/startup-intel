@@ -7,15 +7,21 @@
   "xo": {
     "extends": [
       "plugin:@next/next/core-web-vitals",
+      "plugin:typescript-sort-keys/recommended",
       "xo-react"
     ],
     "plugins": [
-      "simple-import-sort"
+      "simple-import-sort",
+      "typescript-sort-keys"
     ],
     "prettier": true,
     "rules": {
       "@typescript-eslint/naming-convention": "off",
       "@typescript-eslint/triple-slash-reference": "off",
+      "no-await-in-loop": "warn",
+      "react/jsx-sort-props": "warn",
+      "react/sort-prop-types": "warn",
+      "sort-keys": "warn",
       "import/extensions": "off",
       "import/order": "off",
       "simple-import-sort/imports": "warn",
@@ -28,7 +34,7 @@
     "@commitlint/cli": "17.4.4",
     "@commitlint/config-conventional": "17.4.4",
     "@next/eslint-plugin-next": "13.2.3",
-    "@types/node": "18.14.2",
+    "@types/node": "18.14.4",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "autoprefixer": "10.4.13",
@@ -39,10 +45,11 @@
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-simple-import-sort": "10.0.0",
+    "eslint-plugin-typescript-sort-keys": "2.1.0",
     "husky": "8.0.3",
-    "next-sitemap": "3.1.55",
+    "next-sitemap": "4.0.1",
     "prettier": "2.8.4",
-    "prettier-plugin-tailwindcss": "0.2.3",
+    "prettier-plugin-tailwindcss": "0.2.4",
     "sharp": "0.31.3",
     "tailwindcss": "3.2.7",
     "ts-node": "10.9.1",
@@ -70,7 +77,7 @@
     "clean": "rm -rf .next/ node_modules/",
     "dev": "next dev",
     "format": "prettier --write .",
-    "lint": "xo --ignore scripts",
+    "lint": "xo",
     "postbuild": "next-sitemap --config next-sitemap.config.cjs",
     "prepare": "husky install",
     "script:crawl": "ts-node ./scripts/yCombinator23.ts",

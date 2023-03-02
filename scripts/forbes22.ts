@@ -1,11 +1,16 @@
-import { JSDOMCrawler } from "crawlee";
-import { writeFileSync } from "fs";
-import { join } from "path";
+import { writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-import { queryByXPath, queryByXPathAll } from "./crawl";
+import { JSDOMCrawler } from "crawlee";
+
+import { isNullOrUndefined } from "../src/lib/util.js";
+import { queryByXPath, queryByXPathAll } from "./crawl.js";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const crawler = new JSDOMCrawler({
-  requestHandler: ({ window }) => {
+  requestHandler({ window }) {
     const { document } = window;
 
     const context = queryByXPath({
@@ -28,13 +33,13 @@ const crawler = new JSDOMCrawler({
     const names = queryByXPathAll({ ...args, path: ".//h3" });
 
     let i = 3;
-    const res = [];
+    const response = [];
     for (
       let name = names.iterateNext(), idx = 0;
-      name != null;
+      !isNullOrUndefined(name);
       name = names.iterateNext(), idx++
     ) {
-      res.push({
+      response.push({
         description: textNode(`.//p[${idx + 2}]`),
         equity: h4(i + 1),
         founders: h4(i),
@@ -47,7 +52,7 @@ const crawler = new JSDOMCrawler({
 
     writeFileSync(
       join(__dirname, "forbes22.json"),
-      JSON.stringify(res, null, 2)
+      JSON.stringify(response, null, 2)
     );
   },
 });

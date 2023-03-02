@@ -1,7 +1,9 @@
 import { promises, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+
 import { camelCase } from "camel-case";
+
 import {
   type Company,
   type CompanyName,
@@ -14,12 +16,10 @@ import { isNullOrUndefined, typedParse } from "../src/lib/util.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-// eslint-disable-next-line @typescript-eslint/naming-convention
 const OUT_PATH = join(__dirname, "..", "src", "data");
 
 type FilePath = string;
 
-// eslint-disable-next-line @typescript-eslint/naming-convention
 const LISTS: Record<IntelList, Readonly<{ filePath: FilePath }>> = {
   [IntelList.forbes20]: { filePath: join(__dirname, "forbes20.json") },
   [IntelList.forbes21]: { filePath: join(__dirname, "forbes21.json") },
@@ -30,28 +30,18 @@ const LISTS: Record<IntelList, Readonly<{ filePath: FilePath }>> = {
 };
 
 async function main() {
-  const files = await Promise.all(
+  const files: List[][] = await Promise.all(
     Object.values(LISTS).map(async ({ filePath }) => read({ filePath }))
   );
   const hwow: HiringWithoutWhiteboards[] = await read({
     filePath: join(__dirname, "hwow.json"),
   });
-
-  const reducer = (
-    acc: Record<string, HiringWithoutWhiteboards>,
-    data: HiringWithoutWhiteboards
-  ) => {
-    acc[camelCase(data.name)] = data;
-    return acc;
-  };
-
-  const initialValue: Record<string, HiringWithoutWhiteboards> = {};
-  // eslint-disable-next-line unicorn/no-array-reduce
-  const hwowById = hwow.reduce((a, d) => reducer(a, d), initialValue);
+  const hwowById: Record<string, HiringWithoutWhiteboards> = {};
+  for (const d of hwow) hwowById[camelCase(d.name)] = d;
 
   const list: Record<CompanyName, Company> = {};
-  files.forEach((data, i) => {
-    data.forEach((d) => {
+  for (const [i, data] of files.entries()) {
+    for (const d of data) {
       const existing = list[d.name];
       const asYc = d as YCombinator;
       list[d.name] = {
@@ -70,8 +60,8 @@ async function main() {
             : toUrl(asYc.url),
         },
       };
-    });
-  });
+    }
+  }
 
   writeFileSync(
     join(OUT_PATH, "list.json"),
@@ -93,5 +83,4 @@ async function read<T = List[]>({
   return typedParse<T>(c);
 }
 
-// eslint-disable-next-line unicorn/prefer-top-level-await
-void main();
+await main();
