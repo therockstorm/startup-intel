@@ -1,5 +1,7 @@
-import { Footer } from "./Footer";
-import { Header } from "./Header";
+import React from "react";
+
+import { Footer } from "./footer";
+import { Header } from "./header";
 
 type Props = Readonly<{
   children: React.ReactNode;

@@ -1,10 +1,11 @@
 import "@/globals.css";
 
-import { AppProps } from "next/app";
+import type { AppProps } from "next/app";
 import Head from "next/head";
 import { DefaultSeo } from "next-seo";
+import React from "react";
 
-import { SITE_TITLE, SITE_URL } from "@/lib/seo";
+import { SITE_TITLE, SITE_URL } from "../lib/seo";
 
 export default function App({ Component, pageProps }: AppProps) {
   return (

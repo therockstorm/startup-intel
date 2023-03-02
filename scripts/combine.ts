@@ -1,23 +1,25 @@
+import { promises, writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { camelCase } from "camel-case";
-import { promises, writeFileSync } from "fs";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
-
 import {
-  Company,
-  CompanyName,
-  HiringWithoutWhiteboards,
+  type Company,
+  type CompanyName,
+  type HiringWithoutWhiteboards,
   IntelList,
-  List,
-  YC,
+  type List,
+  type YCombinator,
 } from "../src/lib/types.js";
+import { isNullOrUndefined, typedParse } from "../src/lib/util.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+// eslint-disable-next-line @typescript-eslint/naming-convention
 const OUT_PATH = join(__dirname, "..", "src", "data");
 
 type FilePath = string;
 
+// eslint-disable-next-line @typescript-eslint/naming-convention
 const LISTS: Record<IntelList, Readonly<{ filePath: FilePath }>> = {
   [IntelList.forbes20]: { filePath: join(__dirname, "forbes20.json") },
   [IntelList.forbes21]: { filePath: join(__dirname, "forbes21.json") },
@@ -29,35 +31,43 @@ const LISTS: Record<IntelList, Readonly<{ filePath: FilePath }>> = {
 
 async function main() {
   const files = await Promise.all(
-    Object.values(LISTS).map(({ filePath }) => read({ filePath }))
+    Object.values(LISTS).map(async ({ filePath }) => read({ filePath }))
   );
   const hwow: HiringWithoutWhiteboards[] = await read({
     filePath: join(__dirname, "hwow.json"),
   });
-  const hwowById = hwow.reduce((acc, data) => {
+
+  const reducer = (
+    acc: Record<string, HiringWithoutWhiteboards>,
+    data: HiringWithoutWhiteboards
+  ) => {
     acc[camelCase(data.name)] = data;
     return acc;
-  }, {} as Record<string, HiringWithoutWhiteboards>);
+  };
+
+  const initialValue: Record<string, HiringWithoutWhiteboards> = {};
+  // eslint-disable-next-line unicorn/no-array-reduce
+  const hwowById = hwow.reduce((a, d) => reducer(a, d), initialValue);
 
   const list: Record<CompanyName, Company> = {};
   files.forEach((data, i) => {
     data.forEach((d) => {
       const existing = list[d.name];
-      const asYc = d as YC;
+      const asYc = d as YCombinator;
       list[d.name] = {
         description: asYc.description ?? existing?.description ?? undefined,
-        hiringWithoutWhiteboards: hwowById[camelCase(d.name)] != null,
+        hiringWithoutWhiteboards: !isNullOrUndefined(
+          hwowById[camelCase(d.name)]
+        ),
         lists: [...(existing?.lists ?? []), { ...d, list: i }],
         name: d.name,
         urls: {
-          logo:
-            asYc.logoUrl != null
-              ? toUrl(asYc.logoUrl)
-              : existing?.urls.logo ?? undefined,
-          website:
-            asYc.url != null
-              ? toUrl(asYc.url)
-              : existing?.urls.website ?? undefined,
+          logo: isNullOrUndefined(asYc.logoUrl)
+            ? existing?.urls.logo ?? undefined
+            : toUrl(asYc.logoUrl),
+          website: isNullOrUndefined(asYc.url)
+            ? existing?.urls.website ?? undefined
+            : toUrl(asYc.url),
         },
       };
     });
@@ -70,15 +80,18 @@ async function main() {
   writeFileSync(join(OUT_PATH, "byId.json"), JSON.stringify(list));
 }
 
-function toUrl(val?: string) {
-  return val == null || val.startsWith("http") ? val : `https://${val}`;
+function toUrl(value?: string) {
+  return isNullOrUndefined(value) || value.startsWith("http")
+    ? value
+    : `https://${value}`;
 }
 
 async function read<T = List[]>({
   filePath,
 }: Readonly<{ filePath: FilePath }>): Promise<T> {
   const c = await promises.readFile(filePath, { encoding: "utf8" });
-  return JSON.parse(c);
+  return typedParse<T>(c);
 }
 
-main();
+// eslint-disable-next-line unicorn/prefer-top-level-await
+void main();

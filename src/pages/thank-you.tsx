@@ -1,7 +1,9 @@
-import { Container } from "@/components/Container";
-import { Layout } from "@/components/Layout";
-import { Prose } from "@/components/Prose";
-import Seo from "@/components/Seo";
+import React from "react";
+
+import { Container } from "@/components/container";
+import { Layout } from "@/components/layout";
+import { Prose } from "@/components/prose";
+import Seo from "@/components/seo";
 import { SITE_TITLE } from "@/lib/seo";
 
 export default function ThankYou() {
@@ -17,7 +19,7 @@ export default function ThankYou() {
             <div>
               <h1 className="font-medium">Thanks for subscribing.</h1>
             </div>
-            <p>You{"'"}ll get an email as new features are released.</p>
+            <p>You&apos;ll get an email as new features are released.</p>
           </Prose>
         </Container>
       </Layout>

@@ -1,6 +1,8 @@
-import { Layout } from "@/components/Layout";
-import Seo from "@/components/Seo";
-import Table from "@/components/Table";
+import React from "react";
+
+import { Layout } from "@/components/layout";
+import Seo from "@/components/seo";
+import Table from "@/components/table";
 import { SITE_TITLE } from "@/lib/seo";
 
 export default function Home(): JSX.Element {

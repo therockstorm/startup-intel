@@ -3,9 +3,9 @@ import React from "react";
 
 const VARIANTS = {
   primary:
-    "bg-gray-800 font-semibold text-gray-100 hover:bg-gray-700 active:bg-gray-800 active:text-gray-100/70",
+    "bg-blue-700 font-semibold text-gray-100 hover:bg-blue-600 active:bg-blue-700 active:text-gray-100/70",
   secondary:
-    "bg-gray-50 font-medium text-gray-900 hover:bg-gray-100 active:bg-gray-100 active:text-gray-900/60",
+    "bg-blue-50 font-medium text-gray-900 hover:bg-blue-100 active:bg-blue-100 active:text-gray-900/60",
 };
 
 type Props = React.DetailedHTMLProps<
@@ -30,5 +30,7 @@ export function Button({
     className
   );
 
-  return <button className={className} onClick={onClick} {...props} />;
+  return (
+    <button className={className} type="button" onClick={onClick} {...props} />
+  );
 }

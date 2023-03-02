@@ -13,6 +13,7 @@ const TYPES = {
 };
 
 type Props = Readonly<{
+  // eslint-disable-next-line @typescript-eslint/ban-types
   context?: Node | null;
   document: Document;
   path: string;

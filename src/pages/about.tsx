@@ -1,16 +1,18 @@
-import { Container } from "@/components/Container";
-import { ExternalLink } from "@/components/ExternalLink";
-import { Layout } from "@/components/Layout";
-import { Newsletter } from "@/components/Newsletter";
-import { Prose } from "@/components/Prose";
-import Seo from "@/components/Seo";
+import React from "react";
+
+import { Container } from "@/components/container";
+import { ExternalLink } from "@/components/external-link";
+import { Layout } from "@/components/layout";
+import { Newsletter } from "@/components/newsletter";
+import { Prose } from "@/components/prose";
+import Seo from "@/components/seo";
 import { SITE_TITLE } from "@/lib/seo";
 
 export default function About() {
   return (
     <>
       <Seo
-        description={`Learn more about StartupIntel, helping job seekers discover tech startups worth their time.`}
+        description="Learn more about StartupIntel, helping job seekers discover tech startups worth their time."
         title={`About - ${SITE_TITLE}`}
       />
       <Layout>
@@ -28,8 +30,8 @@ export default function About() {
             </p>
             <p>40 hours a week. 2,000 hours a year.</p>
             <p>
-              That{"'"}s a lot of time to spend at a place that isn{"'"}t doing
-              good or going anywhere.
+              That&apos;s a lot of time to spend at a place that isn&apos;t
+              doing good or going anywhere.
             </p>
             <p>
               StartupIntel gathers lists of startups published by reputable
@@ -60,7 +62,7 @@ export default function About() {
                   </li>
                   <li>
                     <a href="https://wellfound.com/10-of-10-in-2022">
-                      AngelList/wellfound 10 of 10
+                      AngelList/Wellfound 10 of 10
                     </a>
                   </li>
                   <li>
@@ -83,8 +85,8 @@ export default function About() {
             </ul>
 
             <p>
-              Did you find a bug or have a feature request that isn{"'"}t on the
-              roadmap? This project is open-source, please create a{" "}
+              Did you find a bug or have a feature request that isn&apos;t on
+              the roadmap? This project is open-source, please create a{" "}
               <a href="https://github.com/therockstorm/startup-intel/issues">
                 GitHub issue
               </a>

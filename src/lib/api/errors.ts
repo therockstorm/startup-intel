@@ -1,4 +1,4 @@
-import { NextApiResponse } from "next";
+import type { NextApiResponse } from "next";
 import { ApiError } from "next/dist/server/api-utils";
 
 export enum StatusCode {
@@ -13,12 +13,12 @@ export const ERRORS = {
   notFound: new ApiError(StatusCode.NotFound, ""),
 };
 
-export type ApiErrorReq = Readonly<{
-  errors?: readonly Readonly<{ detail: string }>[];
+export type ApiErrorRequest = Readonly<{
+  errors?: ReadonlyArray<Readonly<{ detail: string }>>;
   res: NextApiResponse;
   status: StatusCode;
 }>;
 
-export function apiError({ errors, res, status }: ApiErrorReq) {
+export function apiError({ errors, res, status }: ApiErrorRequest) {
   res.status(status).json({ code: StatusCode[status], errors, status });
 }

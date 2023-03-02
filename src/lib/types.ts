@@ -25,7 +25,7 @@ type Forbes = Readonly<{
   revenue: string;
 }>;
 
-export type YC = Readonly<{
+export type YCombinator = Readonly<{
   batch: string;
   description: string;
   headquarters: string;
@@ -42,7 +42,7 @@ export type HiringWithoutWhiteboards = Readonly<{
   url: string;
 }>;
 
-export type List = Base & (Forbes | YC);
+export type List = Base & (Forbes | YCombinator);
 
 export type Company = Readonly<{
   description: string;

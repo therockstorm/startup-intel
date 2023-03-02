@@ -9,13 +9,14 @@ import React from "react";
 import Logo from "@/images/logos/startup-intel.svg";
 import { SITE_TITLE } from "@/lib/seo";
 
-import { Button } from "./Button";
+import { Button } from "./button";
 
-const navigation: Readonly<{ href: string; name: string }>[] = [
+const navigation: Array<Readonly<{ href: string; name: string }>> = [
   { href: "/about", name: "About" },
 ];
 
 export function Header() {
+  const logo = Logo as string;
   const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
 
   return (
@@ -29,7 +30,7 @@ export function Header() {
             <Image
               alt={`${SITE_TITLE} logo`}
               className="h-8 w-auto"
-              src={Logo}
+              src={logo}
             />
             <span className="ml-2 text-3xl">StartupIntel</span>
           </Link>
@@ -37,9 +38,9 @@ export function Header() {
         <div className="hidden md:flex md:gap-x-12">
           {navigation.map((item) => (
             <Link
+              key={item.name}
               className="text-sm font-semibold leading-6 text-gray-900"
               href={item.href}
-              key={item.name}
             >
               {item.name}
             </Link>
@@ -51,8 +52,10 @@ export function Header() {
         <div className="flex md:hidden">
           <button
             className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
-            onClick={() => setMobileMenuOpen(true)}
             type="button"
+            onClick={() => {
+              setMobileMenuOpen(true);
+            }}
           >
             <span className="sr-only">Open main menu</span>
             <FontAwesomeIcon
@@ -66,8 +69,8 @@ export function Header() {
       <Dialog
         as="div"
         className="md:hidden"
-        onClose={setMobileMenuOpen}
         open={mobileMenuOpen}
+        onClose={setMobileMenuOpen}
       >
         <div className="fixed inset-0 z-10" />
         <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
@@ -77,13 +80,15 @@ export function Header() {
               <Image
                 alt={`${SITE_TITLE} logo`}
                 className="h-8 w-auto"
-                src={Logo}
+                src={logo}
               />
             </Link>
             <button
               className="-m-2.5 rounded-md p-2.5 text-gray-700"
-              onClick={() => setMobileMenuOpen(false)}
               type="button"
+              onClick={() => {
+                setMobileMenuOpen(false);
+              }}
             >
               <span className="sr-only">Close menu</span>
               <FontAwesomeIcon
@@ -98,9 +103,9 @@ export function Header() {
               <div className="space-y-2 py-6">
                 {navigation.map((item) => (
                   <Link
+                    key={item.name}
                     className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                     href={item.href}
-                    key={item.name}
                   >
                     {item.name}
                   </Link>
@@ -124,25 +129,27 @@ function Form({ className }: Readonly<{ className?: string }>) {
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
-    const res = await fetch("/api/subscriptions", {
+    const response = await fetch("/api/subscriptions", {
       body: JSON.stringify({ email }),
       method: "POST",
     });
-    if (res.status === 200) setSubscribed(true);
-    else console.error(res.status, await res.json());
+    if (response.status === 200) setSubscribed(true);
+    else console.error(response.status, await response.json());
   }
 
   return (
-    <form className={className} onSubmit={handleSubmit}>
+    <form className={className} onSubmit={async (event) => handleSubmit(event)}>
       <div className="flex">
         <input
+          required
           aria-label="Email address"
           className="min-w-0 flex-auto rounded-md text-sm"
-          onChange={(e) => setEmail(e.target.value)}
           placeholder="Email address"
-          required
           type="email"
           value={email}
+          onChange={(event) => {
+            setEmail(event.target.value);
+          }}
         />
         <Button
           className={clsx("ml-4 flex-none", subscribed && "bg-green-700")}

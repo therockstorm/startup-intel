@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { usePathname } from "next/navigation";
 import { NextSeo } from "next-seo";
+import React from "react";
 
 import { SITE_URL } from "@/lib/seo";
 

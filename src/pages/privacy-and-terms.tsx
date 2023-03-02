@@ -1,16 +1,17 @@
 import Link from "next/link";
+import React from "react";
 
-import { Container } from "@/components/Container";
-import { Layout } from "@/components/Layout";
-import { Prose } from "@/components/Prose";
-import Seo from "@/components/Seo";
+import { Container } from "@/components/container";
+import { Layout } from "@/components/layout";
+import { Prose } from "@/components/prose";
+import Seo from "@/components/seo";
 import { SITE_TITLE } from "@/lib/seo";
 
 export default function PrivacyAndTerms() {
   return (
     <>
       <Seo
-        description={`Privacy policy and terms of service. StartupIntel: discover tech startups that matter.`}
+        description="Privacy policy and terms of service. StartupIntel: discover tech startups that matter."
         title={`Privacy and Terms - ${SITE_TITLE}`}
       />
       <Layout>
@@ -25,17 +26,16 @@ export default function PrivacyAndTerms() {
                 Plausible
               </a>{" "}
               for privacy-focused website usage. ConvertKit stores your email
-              address if you provide it. We don
-              {"'"}t collect or track anything else. Privacy is important.
+              address if you provide it. We don&apos;t collect or track anything
+              else. Privacy is important.
             </p>
             <h2>Terms of service</h2>
             <small>Updated 2023-02-26</small>
             <p>
-              Please read these terms of service ({'"'}terms{'"'}) carefully
-              before using startupintel.dev ({'"'}website{'"'}, {'"'}service
-              {'"'}) operated by Rocky Warren ({'"'}us{'"'}, {'"'}we{'"'}, {'"'}
-              our{'"'}
-              ).
+              Please read these terms of service (&quot;terms&quot;) carefully
+              before using startupintel.dev (&quot;website&quot;, &quot;service
+              &quot;) operated by Rocky Warren (&quot;us&quot;, &quot;we&quot;,
+              &quot; our&quot; ).
             </p>
 
             <h3>Conditions of use</h3>

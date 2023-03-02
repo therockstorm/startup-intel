@@ -1,4 +1,4 @@
-import { StaticImageData } from "next/image";
+import type { StaticImageData } from "next/image";
 
 import crunchbase from "@/images/logos/crunchbase.png";
 import forbes from "@/images/logos/forbes.png";
@@ -54,7 +54,7 @@ const FORBES_KEYS = [
 ];
 
 type IntelListData = Readonly<{
-  keys: Readonly<{ display: string; key: string; type?: "link" }>[];
+  keys: Array<Readonly<{ display: string; key: string; type?: "link" }>>;
   logo: StaticImageData;
   title: string;
   url: string;

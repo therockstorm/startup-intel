@@ -2,7 +2,7 @@ import { faEnvelope } from "@fortawesome/pro-light-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 
-import { Button } from "@/components/Button";
+import { Button } from "@/components/button";
 
 type Props = Readonly<{
   className?: string;
@@ -21,12 +21,12 @@ export function Newsletter({
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
-    const res = await fetch("/api/subscriptions", {
+    const response = await fetch("/api/subscriptions", {
       body: JSON.stringify({ email }),
       method: "POST",
     });
-    if (res.status === 200) setSubscribed(true);
-    else console.error(res.status, await res.json());
+    if (response.status === 200) setSubscribed(true);
+    else console.error(response.status, await response.json());
   }
 
   return (
@@ -34,7 +34,7 @@ export function Newsletter({
       className={`not-prose rounded-2xl border border-zinc-100 p-6 text-sm dark:border-zinc-700/40 ${
         className ?? ""
       }`}
-      onSubmit={handleSubmit}
+      onSubmit={async (event) => handleSubmit(event)}
     >
       <h2 className="flex font-semibold text-zinc-900 dark:text-zinc-100">
         <FontAwesomeIcon className="h-6 w-6 flex-none" icon={faEnvelope} />
@@ -48,13 +48,15 @@ export function Newsletter({
       )}
       <div className="mt-6 flex">
         <input
+          required
           aria-label="Email address"
           className="min-w-0 flex-auto rounded-md text-sm"
-          onChange={(e) => setEmail(e.target.value)}
           placeholder="Email address"
-          required
           type="email"
           value={email}
+          onChange={(event) => {
+            setEmail(event.target.value);
+          }}
         />
         <Button className="ml-4 flex-none" type="submit">
           Get updates

@@ -1,9 +1,10 @@
-import { JSDOMCrawler } from "crawlee";
-import { writeFileSync } from "fs";
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
+import { writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-import { queryByXPath, queryByXPathAll } from "./crawl";
+import { JSDOMCrawler } from "crawlee";
+
+import { queryByXPath, queryByXPathAll } from "./crawl.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 

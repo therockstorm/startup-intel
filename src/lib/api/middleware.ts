@@ -1,7 +1,7 @@
-import { NextApiHandler, NextApiRequest, NextApiResponse } from "next";
+import type { NextApiHandler, NextApiRequest, NextApiResponse } from "next";
 import { ApiError } from "next/dist/server/api-utils";
 
-import { apiError, ApiErrorReq, StatusCode } from "./errors";
+import { apiError, type ApiErrorRequest, StatusCode } from "./errors";
 
 export const METHODS = { delete: "DELETE", get: "GET", post: "POST" } as const;
 const methods = Object.values(METHODS);
@@ -11,20 +11,23 @@ export function withErrorHandling(
   handler: NextApiHandler,
   methods: readonly Method[]
 ) {
-  return async function (req: NextApiRequest, res: NextApiResponse) {
+  return async function (request: NextApiRequest, response: NextApiResponse) {
     try {
-      const allowedMethod = methods.includes(req.method as Method);
-      if (allowedMethod) return await handler(req, res);
+      const allowedMethod = methods.includes(request.method as Method);
+      if (allowedMethod) return handler(request, response);
 
-      return apiError({ res, status: StatusCode.UnsupportedMediaType });
-    } catch (error) {
+      apiError({
+        res: response,
+        status: StatusCode.UnsupportedMediaType,
+      });
+    } catch (error: unknown) {
       console.error(error);
-      return apiError({ ...toApiErrorReq(error), res });
+      apiError({ ...toApiErrorRequest(error), res: response });
     }
   };
 }
 
-function toApiErrorReq(error: unknown): Omit<ApiErrorReq, "res"> {
+function toApiErrorRequest(error: unknown): Omit<ApiErrorRequest, "res"> {
   if (error instanceof ApiError) {
     return {
       errors: error.message ? [{ detail: error.message }] : undefined,

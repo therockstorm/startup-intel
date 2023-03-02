@@ -8,14 +8,14 @@ import React from "react";
 import COMPANIES from "@/data/list.json";
 import { HWOW, LINKS, LISTS } from "@/lib/lists";
 import { SITE_TITLE } from "@/lib/seo";
-import { Company } from "@/lib/types";
+import type { Company } from "@/lib/types";
 import { toDisplayUrl } from "@/lib/url";
 import { truncate } from "@/lib/util";
 
-import { Button } from "./Button";
-import { ExternalLink } from "./ExternalLink";
-import Search from "./Filter";
-import { Tooltip } from "./Tooltip";
+import { Button } from "./button";
+import { ExternalLink } from "./external-link";
+import Search from "./filter";
+import { Tooltip } from "./tooltip";
 
 function sortCompanies(cs: Company[], sortNameAsc: boolean) {
   return cs.sort(
@@ -44,9 +44,9 @@ export default function Table() {
 
   React.useEffect(() => {
     // https://tailwindcss.com/docs/screens
-    window.addEventListener("resize", () =>
-      setIsMobile(window.innerWidth < 768)
-    );
+    window.addEventListener("resize", () => {
+      setIsMobile(window.innerWidth < 768);
+    });
   });
 
   function handleFilterChange(event: React.ChangeEvent<HTMLInputElement>) {
@@ -101,12 +101,12 @@ export default function Table() {
                       .slice(startIndex, startIndex + PAGE_SIZE)
                       .map((company) => (
                         <tr
-                          className=" hover:bg-gray-50"
                           key={paramCase(company.name)}
+                          className=" hover:bg-gray-50"
                         >
                           <td
                             className="cursor-pointer whitespace-nowrap py-4 pl-4 pr-3 sm:pl-6"
-                            onClick={() =>
+                            onClick={async () =>
                               router.push(
                                 `/details/${encodeURIComponent(company.name)}`
                               )
@@ -232,13 +232,20 @@ export default function Table() {
                           </p>
                         </div>
                         <div className="flex flex-1 justify-between sm:justify-end">
-                          <Button onClick={handlePrevious} variant="secondary">
+                          <Button
+                            variant="secondary"
+                            onClick={() => {
+                              handlePrevious();
+                            }}
+                          >
                             Previous
                           </Button>
                           <Button
                             className="ml-3"
-                            onClick={handleNext}
                             variant="secondary"
+                            onClick={() => {
+                              handleNext();
+                            }}
                           >
                             Next
                           </Button>

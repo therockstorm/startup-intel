@@ -1,3 +1,5 @@
+import React from "react";
+
 type Props = Readonly<{
   children: React.ReactNode;
   text: string;
