@@ -18,13 +18,13 @@
     "rules": {
       "@typescript-eslint/naming-convention": "off",
       "@typescript-eslint/triple-slash-reference": "off",
+      "import/extensions": "off",
+      "import/order": "off",
       "no-await-in-loop": "warn",
       "react/jsx-sort-props": "warn",
       "react/sort-prop-types": "warn",
-      "sort-keys": "warn",
-      "import/extensions": "off",
-      "import/order": "off",
       "simple-import-sort/imports": "warn",
+      "sort-keys": "warn",
       "unicorn/prefer-node-protocol": "off"
     },
     "space": true
