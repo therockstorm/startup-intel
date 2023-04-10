@@ -59,6 +59,7 @@
     "xo": "0.54.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "6.4.0",
     "@fortawesome/pro-light-svg-icons": "6.4.0",
     "@fortawesome/react-fontawesome": "0.2.0",
     "@headlessui/react": "1.7.13",

@@ -20,7 +20,7 @@ const companies: CompaniesById = COMPANIES;
 
 export default function Details() {
   const router = useRouter();
-  if (typeof router.query.name === "undefined") return null;
+  if (router.query.name === undefined) return null;
 
   const name = head(router.query.name) ?? "";
   const company = companies[name];

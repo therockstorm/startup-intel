@@ -25,7 +25,7 @@ export function truncate(value: string, n: number, useWordBoundary = true) {
 
 // eslint-disable-next-line @typescript-eslint/ban-types
 export function isNullOrUndefined(value: unknown): value is null | undefined {
-  return value === null || typeof value === "undefined";
+  return value === null || value === undefined;
 }
 
 export function typedParse<T>(value: string): T {
