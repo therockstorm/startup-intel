@@ -18,7 +18,7 @@ export function Footer() {
   const date = new Date().getFullYear();
   return (
     <footer>
-      <div className="mx-auto max-w-7xl pt-10 pb-8 text-sm md:flex md:items-center md:justify-between">
+      <div className="mx-auto max-w-7xl pb-8 pt-10 text-sm md:flex md:items-center md:justify-between">
         <ul className="flex justify-center space-x-4 md:order-2">
           {links.map((link) => (
             <li key={link.text}>
