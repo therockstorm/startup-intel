@@ -12,7 +12,7 @@ const CONVERT_KIT_API_KEY = required(
 );
 
 export default withErrorHandling(
-  function (request: NextApiRequest, response: NextApiResponse) {
+  async function (request: NextApiRequest, response: NextApiResponse) {
     if (request.method === METHODS.post) return post(request, response);
 
     // eslint-disable-next-line @typescript-eslint/no-confusing-void-expression
@@ -22,7 +22,7 @@ export default withErrorHandling(
 );
 
 async function post(request: NextApiRequest, response: NextApiResponse) {
-  const body = parseBody<{ email: string }>(request.body);
+  const body = parseBody<{ email: string }>(request.body as string);
   const result = await fetch(
     `https://api.convertkit.com/v3/forms/${FORM_ID}/subscribe`,
     {

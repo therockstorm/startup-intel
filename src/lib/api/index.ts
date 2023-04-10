@@ -1,8 +1,7 @@
 import { isNullOrUndefined, typedParse } from "../util";
 
-export function parseBody<T>(body: string) {
+export function parseBody<T>(body: string): T | undefined {
   if (isNullOrUndefined(body)) return undefined;
-  if (typeof body === "string") return typedParse<T>(body);
 
-  return body;
+  return typedParse<T>(body);
 }
